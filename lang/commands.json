@@ -46,8 +46,8 @@
     "EN": "IP address information."
   },
   "COMMAND_MCPING_INFO": {
-    "RU": "Информация о сервере:",
-    "EN": "Server Information:"
+    "RU": "Информация о сервере",
+    "EN": "Server Information"
   },
   "COMMAND_MCPING_IP": {
     "RU": "Айпи",
