@@ -2,31 +2,31 @@
   "COMMAND_TCP_PORT_OPENED": {
     "RU": [
       "%ip%:%port%",
-      "Открыт!",
+      "✅Открыт!",
       "",
-      "Получил ответ за: %time% мс."
+      "ℹПолучил ответ за: %time% мс."
     ],
     "EN": [
       "%ip%:%port%",
-      "Open!",
+      "✅Open!",
       "",
-      "Got an answer for: %time% ms."
+      "ℹGot an answer for: %time% ms."
     ]
   },
   "COMMAND_TCP_PORT_CLOSED": {
     "RU": [
       "%ip%:%port%",
-      "Закрыт!"
+      "🚫Закрыт!"
     ],
     "EN": [
       "%ip%:%port%",
-      "Closed!"
+      "🚫Closed!"
     ]
   },
   "LANGUAGE_CHANGED": {
-    "RU": "Язык успешно изменен на %lang% %flag%.",
-    "EN": "The language was successfully changed to %lang% %flag%.",
-    "DE": "Die Sprache wurde erfolgreich geändert in %lang% %flag%."
+    "RU": "✅Язык успешно изменен на %lang% %flag%.",
+    "EN": "✅The language was successfully changed to %lang% %flag%.",
+    "DE": "✅Die Sprache wurde erfolgreich geändert in %lang% %flag%."
   },
   "COOLDOWN_COMMAND": {
     "RU": "Подождите %time% прежде чем использовать команду.",
@@ -44,19 +44,19 @@
     "DE": "Nein"
   },
   "COMMAND_MCPING_INLINE_STATS": {
-    "RU": "Статистика сервера",
-    "EN": "Server statistics",
-    "DE": "Server-Statistiken"
+    "RU": "📊Статистика сервера",
+    "EN": "📊Server statistics",
+    "DE": "📊Server-Statistiken"
   },
   "COMMAND_MCPING_INLINE_PING": {
-    "RU": "Повторный пинг",
-    "EN": "Repetitive ping",
-    "DE": "Wiederholtes Anpingen"
+    "RU": "🔁Повторный пинг",
+    "EN": "🔁Repetitive ping",
+    "DE": "🔁Wiederholtes Anpingen"
   },
   "COMMAND_MCPING_INLINE_INFOIP": {
-    "RU": "Информация об IP-адресе.",
-    "EN": "IP address information.",
-    "DE": "Informationen zur IP-Adresse."
+    "RU": "ℹИнформация об IP-адресе.",
+    "EN": "ℹIP address information.",
+    "DE": "ℹInformationen zur IP-Adresse."
   },
   "COMMAND_MCPING_INFO": {
     "RU": "Информация о сервере",
@@ -92,5 +92,10 @@
     "RU": "Онлайн",
     "EN": "Online",
     "DE": "Online"
+  },
+  "COMMAND_IPINFO_ERROR_NOFOUND": {
+    "RU": "⛔В вашем сообщении не было найдено IP-адреса/домена.",
+    "EN": "⛔No IP address/domain was found in your message.",
+    "DE": "⛔Es wurde keine IP-Adresse/Domäne in Ihrer Nachricht gefunden."
   }
 }
