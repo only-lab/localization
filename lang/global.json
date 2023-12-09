@@ -24,5 +24,16 @@
     "RU": "Подождите %time% прежде чем использовать команду.",
     "EN": "Wait for %time% before using the command.",
     "DE": "Warten Sie auf %time%, bevor Sie den Befehl verwenden."
-  }
+  },
+  
+  "BLOCKED": {
+    "RU": "Да",
+    "EN": "Yes",
+    "DE": "Ja"
+  },
+  "NO_BLOCKED": {
+    "RU": "Нет",
+    "EN": "No",
+    "DE": "Nein"
+  },
 }
