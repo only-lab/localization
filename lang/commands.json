@@ -139,25 +139,27 @@
       "",
       "— Статус пользователя: %status_displayName%",
       "— Язык пользователя: %lang%",
+      "— Права пользователя: %permissions%"
       "",
-      "%builder%"
+      "— Сервера пользователя: %servers%",
     ],
     "EN": [
       "ℹUser information (%name%):",
       "",
       "— User Status: %status_displayName%",
       "— User language: %lang%",
+      "— User Permissions: %permissions%",
       "",
-      "%builder%"
+      "— User Servers: %servers%",
     ],
     "DE": [
-      "ℹUser information (%name%):",
+      "ℹInformationen für den Benutzer (%name%):",
       "",
-      "— User Status: %status_displayName%",
-      "— User language: %lang%",
-      "— User Servers: %servers%",
+      "— Benutzer-Status: %status_displayName%",
+      "— Benutzersprache: %lang%",
+      "— Benutzerberechtigungen: %permissions%"
       "",
-      "— User Permissions: %permissions%"
+      "— Benutzer-Server: %servers%",
     ]
   }
 
