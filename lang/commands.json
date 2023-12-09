@@ -129,5 +129,20 @@
     "RU": "Онлайн",
     "EN": "Online",
     "DE": "Online"
+  },
+  
+  // UserCommand
+
+  "COMMAND_USER_RESULT": {
+    "RU": [
+      "ℹИнформация о пользователе (%name%):",
+      "",
+      "— Статус пользователя: %status_displayName%",
+      "— Язык пользователя: %lang%",
+      "",
+      "%builder%"
+    ]
   }
+
+  
 }
