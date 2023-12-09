@@ -53,6 +53,10 @@
     "RU": "Айпи",
     "EN": "IP"
   },
+  "COMMAND_MCPING_PING": {
+    "RU": "Пинг",
+    "EN": "Ping"
+  }
   "COMMAND_MCPING_BLOCKING": {
     "RU": "Бан Mojang",
     "EN": "Ban Mojang"
