@@ -24,8 +24,13 @@
     ]
   },
   "LANGUAGE_CHANGED": {
-    "RU": "Язык успешно изменен на %lang% %flag%",
-    "EN": "The language was successfully changed to %lang% %flag%",
-    "DE": "Die Sprache wurde erfolgreich geändert in %lang% %flag%"
+    "RU": "Язык успешно изменен на %lang% %flag%.",
+    "EN": "The language was successfully changed to %lang% %flag%.",
+    "DE": "Die Sprache wurde erfolgreich geändert in %lang% %flag%."
+  },
+  "COOLDOWN_COMMAND": {
+    "RU": "Подождите %time% прежде чем использовать команду.",
+    "EN": "Wait for %time% before using the command.",
+    "DE": "Warten Sie auf %time%, bevor Sie den Befehl verwenden."
   }
 }
