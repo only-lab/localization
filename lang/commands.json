@@ -73,17 +73,6 @@
   },
   
   // MCPING
-  
-  "BLOCKED": {
-    "RU": "Да",
-    "EN": "Yes",
-    "DE": "Ja"
-  },
-  "NO_BLOCKED": {
-    "RU": "Нет",
-    "EN": "No",
-    "DE": "Nein"
-  },
 
   "COMMAND_MCPING_MILLIS": {
     "RU": "мс.",
