@@ -27,13 +27,13 @@
   },
   
   "BLOCKED": {
-    "RU": "Да",
-    "EN": "Yes",
-    "DE": "Ja"
+    "RU": "да",
+    "EN": "yes",
+    "DE": "ja"
   },
   "NO_BLOCKED": {
-    "RU": "Нет",
-    "EN": "No",
-    "DE": "Nein"
+    "RU": "нет",
+    "EN": "no",
+    "DE": "nein"
   }
 }
