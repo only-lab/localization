@@ -3,5 +3,10 @@
     "RU": "⛔В вашем сообщении не было найдено IP-адреса/домена.",
     "EN": "⛔No IP address/domain was found in your message.",
     "DE": "⛔Es wurde keine IP-Adresse/Domäne in Ihrer Nachricht gefunden."
+  },
+  "COMMAND_SERVER_NOFOUND": {
+    "RU": "⛔Сервер не найден",
+    "EN": "⛔Server not found",
+    "DE": "⛔Server nicht gefunden"
   }
 }
