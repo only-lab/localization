@@ -35,50 +35,62 @@
   },
   "COMMAND_MCPING_BLOCKED": {
     "RU": "Да",
-    "EN": "Yes"
+    "EN": "Yes",
+    "DE": "Ja"
   },
   "COMMAND_MCPING_NO_BLOCKED": {
     "RU": "Нет",
-    "EN": "No"
+    "EN": "No",
+    "DE": "Nein"
   },
   "COMMAND_MCPING_INLINE_STATS": {
     "RU": "Статистика сервера",
-    "EN": "Server statistics"
+    "EN": "Server statistics",
+    "DE": "Server-Statistiken"
   },
   "COMMAND_MCPING_INLINE_PING": {
     "RU": "Повторный пинг",
-    "EN": "Repetitive ping"
+    "EN": "Repetitive ping",
+    "DE": "Wiederholtes Anpingen"
   },
   "COMMAND_MCPING_INLINE_INFOIP": {
     "RU": "Информация об IP-адресе.",
-    "EN": "IP address information."
+    "EN": "IP address information.",
+    "DE": "Informationen zur IP-Adresse."
   },
   "COMMAND_MCPING_INFO": {
     "RU": "Информация о сервере",
-    "EN": "Server Information"
+    "EN": "Server Information",
+    "DE": "Server-Informationen"
   },
   "COMMAND_MCPING_IP": {
     "RU": "Айпи",
-    "EN": "IP"
+    "EN": "IP",
+    "DE": "IP"
   },
   "COMMAND_MCPING_PING": {
     "RU": "Пинг",
-    "EN": "Ping"
+    "EN": "Ping",
+    "DE": "Ping"
   },
   "COMMAND_MCPING_BLOCKING": {
     "RU": "Бан Mojang",
-    "EN": "Ban Mojang"
+    "EN": "Ban Mojang",
+    "DE": "Verbieten Mojang"
   },
   "COMMAND_MCPING_SERVER": {
     "RU": "Сервер",
-    "EN": "Server"
+    "EN": "Server",
+    "DE": "Server"
   },
   "COMMAND_MCPING_PROTOCOL": {
     "RU": "Протокол",
-    "EN": "Protocol"
+    "EN": "Protocol",
+    "DE": "Protokoll"
   },
   "COMMAND_MCPING_ONLINE": {
     "RU": "Онлайн",
-    "EN": "Online"
+    "EN": "Online",
+    "DE": "Online"
   }
 }
