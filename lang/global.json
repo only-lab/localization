@@ -1,0 +1,22 @@
+{
+  "TIME_SECONDS": {
+    "RU": "сек.",
+    "EN": "sec.",
+    "DE": "sek."
+  },
+  "TIME_MINUTES": {
+    "RU": "мин.",
+    "EN": "min.",
+    "DE": "min."
+  },
+  "TIME_DAYS": {
+    "RU": "дн."
+    "EN": "d.",
+    "DE": "t."
+  },
+  "TIME_HOURS": {
+    "RU": "ч.",
+    "EN": "h.",
+    "DE": "u."
+  }
+}
