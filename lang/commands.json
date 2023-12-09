@@ -141,10 +141,10 @@
       "— Язык пользователя: %lang%",
       "— Права пользователя: %permissions%",
       "",
-      "— Сервера пользователя: %servers%",
+      "— Сервера пользователя: %servers%"
     ],
     "EN": [
-      "ℹUser information (%name%):"
+      "ℹUser information (%name%):",
       "",
       "— User Status: %status_displayName%",
       "— User language: %lang%",
