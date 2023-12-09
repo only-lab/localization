@@ -33,6 +33,14 @@
     "EN": "Wait for %time% before using the command.",
     "DE": "Warten Sie auf %time%, bevor Sie den Befehl verwenden."
   },
+  "COMMAND_MCPING_BLOCKED": {
+    "RU": "Да",
+    "EN": "Yes"
+  },
+  "COMMAND_MCPING_NO_BLOCKED": {
+    "RU": "Нет",
+    "EN": "No"
+  },
   "COMMAND_MCPING_INLINE_STATS": {
     "RU": "Статистика сервера",
     "EN": "Server statistics"
