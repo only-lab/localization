@@ -157,7 +157,7 @@
       "— User language: %lang%",
       "— User Servers: %servers%",
       "",
-      "— User Permissions: %permissions%",
+      "— User Permissions: %permissions%"
     ]
   }
 
