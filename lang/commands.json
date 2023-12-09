@@ -44,5 +44,29 @@
   "COMMAND_MCPING_INLINE_INFOIP": {
     "RU": "Информация об IP-адресе.",
     "EN": "IP address information."
+  },
+  "COMMAND_MCPING_INFO": {
+    "RU": "Информация о сервере:",
+    "EN": "Server Information:"
+  },
+  "COMMAND_MCPING_IP": {
+    "RU": "Айпи",
+    "EN": "IP"
+  },
+  "COMMAND_MCPING_BLOCKING": {
+    "RU": "Бан Mojang",
+    "EN": "Ban Mojang"
+  },
+  "COMMAND_MCPING_SERVER": {
+    "RU": "Сервер",
+    "EN": "Server"
+  },
+  "COMMAND_MCPING_PROTOCOL": {
+    "RU": "Протокол",
+    "EN": "Protocol"
+  },
+  "COMMAND_MCPING_ONLINE": {
+    "RU": "Онлайн",
+    "EN": "Online"
   }
 }
