@@ -32,5 +32,17 @@
     "RU": "Подождите %time% прежде чем использовать команду.",
     "EN": "Wait for %time% before using the command.",
     "DE": "Warten Sie auf %time%, bevor Sie den Befehl verwenden."
+  },
+  "COMMAND_MCPING_INLINE_STATS": {
+    "RU": "Статистика сервера",
+    "EN": "Server statistics"
+  },
+  "COMMAND_MCPING_INLINE_PING": {
+    "RU": "Повторный пинг",
+    "EN": "Repetitive ping"
+  },
+  "COMMAND_MCPING_INLINE_INFOIP": {
+    "RU": "Информация об IP-адресе.",
+    "EN": "IP address information."
   }
 }
