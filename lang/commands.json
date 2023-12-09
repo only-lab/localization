@@ -25,6 +25,7 @@
   },
   "LANGUAGE_CHANGED": {
     "RU": "Язык успешно изменен на %lang% %flag%",
-    "EN": "The language was successfully changed to %lang% %flag%"
+    "EN": "The language was successfully changed to %lang% %flag%",
+    "DE": "Die Sprache wurde erfolgreich geändert in %lang% %flag%"
   }
 }
