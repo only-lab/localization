@@ -84,6 +84,12 @@
     "EN": "No",
     "DE": "Nein"
   },
+
+  "COMMAND_MCPING_MILLIS": {
+    "RU": "мс.",
+    "EN": "ms.",
+    "DE": "ms."
+  },
   
   "COMMAND_MCPING_INLINE_STATS": {
     "RU": "📊Статистика сервера",
