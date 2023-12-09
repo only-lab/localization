@@ -30,7 +30,13 @@
     "DE": "✅Die Sprache wurde erfolgreich geändert in %lang% %flag%."
   },
 
-// IPINFO
+ // IPINFO
+  "COMMAND_IPINFO_INFO": {
+    "RU": "Информация об IP-адресе",
+    "EN": "IP address information",
+    "DE": "Informationen zur IP-Adresse"
+  },
+  
   "COMMAND_IPINFO_IP": {
     "RU": "Айпи",
     "EN": "IP",
@@ -41,21 +47,25 @@
     "EN": "PTR",
     "DE": "PTR"
   },
+  
   "COMMAND_IPINFO_LOCATION": {
     "RU": "Локация",
     "EN": "Location",
     "DE": "Standort"
   },
+  
   "COMMAND_IPINFO_ASNAME": {
     "RU": "ASNAME",
     "EN": "ASNAME",
     "DE": "ASNAME"
   },
+  
   "COMMAND_IPINFO_ISP": {
     "RU": "Провайдер",
     "EN": "Provider",
     "DE": "ANBIETER"
   },
+  
   "COMMAND_IPINFO_ORG": {
     "RU": "Организация",
     "EN": "Organization",
@@ -64,16 +74,17 @@
   
   // MCPING
   
-  "COMMAND_MCPING_BLOCKED": {
+  "BLOCKED": {
     "RU": "Да",
     "EN": "Yes",
     "DE": "Ja"
   },
-  "COMMAND_MCPING_NO_BLOCKED": {
+  "NO_BLOCKED": {
     "RU": "Нет",
     "EN": "No",
     "DE": "Nein"
   },
+  
   "COMMAND_MCPING_INLINE_STATS": {
     "RU": "📊Статистика сервера",
     "EN": "📊Server statistics",
