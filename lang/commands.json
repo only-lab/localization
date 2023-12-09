@@ -144,22 +144,22 @@
       "— Сервера пользователя: %servers%",
     ],
     "EN": [
-      "ℹUser information (%name%):",
+      "ℹUser information (%name%):"
       "",
       "— User Status: %status_displayName%",
       "— User language: %lang%",
       "— User Permissions: %permissions%",
       "",
-      "— User Servers: %servers%",
+      "— User Servers: %servers%"
     ],
     "DE": [
       "ℹInformationen für den Benutzer (%name%):",
       "",
       "— Benutzer-Status: %status_displayName%",
       "— Benutzersprache: %lang%",
-      "— Benutzerberechtigungen: %permissions%"
+      "— Benutzerberechtigungen: %permissions%",
       "",
-      "— Benutzer-Server: %servers%",
+      "— Benutzer-Server: %servers%"
     ]
   }
 
