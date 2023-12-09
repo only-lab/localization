@@ -1,0 +1,30 @@
+{
+  "COMMAND_TCP_PORT_OPENED": {
+    "RU": [
+      "%ip%:%port%",
+      "Открыт!",
+      "",
+      "Получил ответ за: %time% мс."
+    ],
+    "EN": [
+      "%ip%:%port%",
+      "Open!",
+      "",
+      "Got an answer for: %time% ms."
+    ]
+  },
+  "COMMAND_TCP_PORT_CLOSED": {
+    "RU": [
+      "%ip%:%port%",
+      "Закрыт!"
+    ],
+    "EN": [
+      "%ip%:%port%",
+      "Closed!"
+    ]
+  },
+  "LANGUAGE_CHANGED": {
+    "RU": "Язык успешно изменен на %lang% %flag%",
+    "EN": "The language was successfully changed to %lang% %flag%"
+  }
+}
