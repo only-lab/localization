@@ -33,6 +33,36 @@
     "EN": "Wait for %time% before using the command.",
     "DE": "Warten Sie auf %time%, bevor Sie den Befehl verwenden."
   },
+  "COMMAND_IPINFO_IP": {
+    "RU": "Айпи",
+    "EN": "IP",
+    "DE": "IP"
+  },
+  "COMMAND_IPINFO_PTR": {
+    "RU": "PTR",
+    "EN": "PTR",
+    "DE": "PTR"
+  },
+  "COMMAND_IPINFO_LOCATION": {
+    "RU": "Локация",
+    "EN": "Location",
+    "DE": "Standort"
+  },
+  "COMMAND_IPINFO_ASNAME": {
+    "RU": "ASNAME",
+    "EN": "ASNAME",
+    "DE": "ASNAME"
+  },
+  "COMMAND_IPINFO_ISP": {
+    "RU": "Провайдер",
+    "EN": "Provider",
+    "DE": "ANBIETER"
+  },
+  "COMMAND_IPINFO_ORG": {
+    "RU": "Организация",
+    "EN": "Organization",
+    "DE": "Organisation"
+  }
   "COMMAND_MCPING_BLOCKED": {
     "RU": "Да",
     "EN": "Yes",
