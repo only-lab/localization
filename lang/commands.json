@@ -141,6 +141,23 @@
       "— Язык пользователя: %lang%",
       "",
       "%builder%"
+    ],
+    "EN": [
+      "ℹUser information (%name%):",
+      "",
+      "— User Status: %status_displayName%",
+      "— User language: %lang%",
+      "",
+      "%builder%"
+    ],
+    "DE": [
+      "ℹUser information (%name%):",
+      "",
+      "— User Status: %status_displayName%",
+      "— User language: %lang%",
+      "— User Servers: %servers%",
+      "",
+      "— User Permissions: %permissions%",
     ]
   }
 
