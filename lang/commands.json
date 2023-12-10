@@ -128,10 +128,10 @@
     "DE": "🔁Wiederholtes Anpingen"
   },
   "COMMAND_MCPING_INLINE_INFOIP": {
-    "RU": "ℹИнформация об IP-адресе.",
-    "UA": "ℹІнформація про IP-адресу.",
-    "EN": "ℹIP address information.",
-    "DE": "ℹInformationen zur IP-Adresse."
+    "RU": "ℹИнформация об IP-адресе",
+    "UA": "ℹІнформація про IP-адресу",
+    "EN": "ℹIP address information",
+    "DE": "ℹInformationen zur IP-Adresse"
   },
   "COMMAND_MCPING_INFO": {
     "RU": "Информация о сервере",
@@ -220,6 +220,19 @@
     "UA": "Статистика за вчорашній день недоступна.",
     "EN": "Statistics for yesterday are not available.",
     "DE": "Für gestern sind keine Statistiken verfügbar."
+  },
+  
+  "COMMAND_MCSTATS_INLINE_PING": {
+    "RU": "ℹИнформация о сервере",
+    "UA": "ℹІнформація про сервер",
+    "EN": "ℹServer Information",
+    "DE": "ℹServer-Informationen"
+  },
+  "COMMAND_MCSTATS_INLINE_IP": {
+    "RU": "ℹИнформация об IP-адресе",
+    "UA": "ℹІнформація про IP-адресу",
+    "EN": "ℹIP address information",
+    "DE": "ℹInformationen zur IP-Adresse"
   },
   
   // UserCommand
