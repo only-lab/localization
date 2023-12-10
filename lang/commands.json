@@ -26,6 +26,7 @@
   
   "LANGUAGE_CHANGED": {
     "RU": "✅Язык успешно изменен на %lang% %flag%.",
+    "UA": "✅Мову успішно змінено на %lang% %flag%."
     "EN": "✅The language was successfully changed to %lang% %flag%.",
     "DE": "✅Die Sprache wurde erfolgreich geändert in %lang% %flag%."
   },
@@ -33,41 +34,48 @@
  // IPINFO
   "COMMAND_IPINFO_INFO": {
     "RU": "Информация об IP-адресе",
+    "UA": "Інформація про IP-адресу",
     "EN": "IP address information",
     "DE": "Informationen zur IP-Adresse"
   },
   
   "COMMAND_IPINFO_IP": {
     "RU": "Айпи",
+    "UA": "Айпі",
     "EN": "IP",
     "DE": "IP"
   },
   "COMMAND_IPINFO_PTR": {
     "RU": "PTR",
+    "UA": "PTR",
     "EN": "PTR",
     "DE": "PTR"
   },
   
   "COMMAND_IPINFO_LOCATION": {
     "RU": "Локация",
+    "UA": "Локація",
     "EN": "Location",
     "DE": "Standort"
   },
   
   "COMMAND_IPINFO_ASNAME": {
     "RU": "ASNAME",
+    "UA": "ASNAME",
     "EN": "ASNAME",
     "DE": "ASNAME"
   },
   
   "COMMAND_IPINFO_ISP": {
     "RU": "Провайдер",
+    "UA": "Провайдер",
     "EN": "Provider",
     "DE": "ANBIETER"
   },
   
   "COMMAND_IPINFO_ORG": {
     "RU": "Организация",
+    "UA": "Організація",
     "EN": "Organization",
     "DE": "Organisation"
   },
@@ -76,57 +84,68 @@
 
   "COMMAND_MCPING_MILLIS": {
     "RU": "мс.",
+    "UA": "мс.",
     "EN": "ms.",
     "DE": "ms."
   },
   
   "COMMAND_MCPING_INLINE_STATS": {
     "RU": "📊Статистика сервера",
+    "UA": "📊Статистика сервера",
     "EN": "📊Server statistics",
     "DE": "📊Server-Statistiken"
   },
   "COMMAND_MCPING_INLINE_PING": {
     "RU": "🔁Повторный пинг",
+    "UA": "🔁Повторний пінг",
     "EN": "🔁Repetitive ping",
     "DE": "🔁Wiederholtes Anpingen"
   },
   "COMMAND_MCPING_INLINE_INFOIP": {
     "RU": "ℹИнформация об IP-адресе.",
+    "UA": "ℹІнформація про IP-адресу.",
     "EN": "ℹIP address information.",
     "DE": "ℹInformationen zur IP-Adresse."
   },
   "COMMAND_MCPING_INFO": {
     "RU": "Информация о сервере",
+    "UA": "Інформація про сервер",
     "EN": "Server Information",
     "DE": "Server-Informationen"
   },
   "COMMAND_MCPING_IP": {
     "RU": "Айпи",
+    "UA": "Айпі",
     "EN": "IP",
     "DE": "IP"
   },
   "COMMAND_MCPING_PING": {
     "RU": "Пинг",
+    "UA": "Пінг",
     "EN": "Ping",
     "DE": "Ping"
   },
   "COMMAND_MCPING_BLOCKING": {
     "RU": "Бан Mojang",
+    "UA": "Бан Mojang",
     "EN": "Ban Mojang",
     "DE": "Verbieten Mojang"
   },
   "COMMAND_MCPING_SERVER": {
     "RU": "Сервер",
+    "UA": "Сервер",
     "EN": "Server",
     "DE": "Server"
   },
   "COMMAND_MCPING_PROTOCOL": {
     "RU": "Протокол",
+    "UA": "Протокол",
     "EN": "Protocol",
     "DE": "Protokoll"
   },
   "COMMAND_MCPING_ONLINE": {
     "RU": "Онлайн",
+    "UA": "Онлайн",
     "EN": "Online",
     "DE": "Online"
   },
@@ -160,6 +179,15 @@
       "— Benutzerberechtigungen: %permissions%",
       "",
       "— Benutzer-Server: %servers%"
+    ],
+    "UA": [
+      "ℹІнформація про користувача (%name%):",
+      "",
+      "— Статус користувача: %status_displayName%",
+      "— Мова користувача: %lang%",
+      "— Права користувача: %permissions%",
+      "",
+      "— Сервера користувача: %servers%"
     ]
   }
 
