@@ -144,7 +144,7 @@
   "COMMAND_MCPING_ONLINE": {
     "RU": "Онлайн",
     "UA": "Онлайн",
-    "EN": "Online",
+    "EN": "Online"
   },
 
   // McStatsCommand
