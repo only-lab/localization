@@ -2,6 +2,12 @@
 
   // TCPCOMMAND
 
+  "COMMAND_TCP_INLINE_IP": {
+    "RU": "ℹИнформация об IP-адресе",
+    "UA": "ℹІнформація про IP-адресу",
+    "EN": "ℹIP address information"
+  }
+
   "COMMAND_TCP_PORT_OPENED": {
     "RU": [
       "✅Результат проверки (%ip%:%port%): Порт открыт",
