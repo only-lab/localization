@@ -1,4 +1,7 @@
 {
+  
+  // TCPCOMMAND
+  
   "COMMAND_TCP_PORT_OPENED": {
     "RU": [
       "%ip%:%port%",
@@ -11,6 +14,18 @@
       "✅Open!",
       "",
       "ℹGot an answer for: %time% ms."
+    ],
+    "DE": [
+      "%ip%:%port%",
+      "✅Aufmachen!",
+      "",
+      "ℹIch habe eine Antwort für: %time% ms."
+    ]
+    "UA": [
+      "%ip%:%port%",
+      "✅Відкрито!",
+      "",
+      "ℹОтримано відповідь для: %time% мс."
     ]
   },
   "COMMAND_TCP_PORT_CLOSED": {
@@ -21,8 +36,18 @@
     "EN": [
       "%ip%:%port%",
       "🚫Closed!"
+    ],
+    "DE": [
+      "%ip%:%port%",
+      "🚫Geschlossen!"
+    ]
+    "UA": [
+      "%ip%:%port%",
+      "🚫Закрито!"
     ]
   },
+
+  // LANGCOMMAND
   
   "LANGUAGE_CHANGED": {
     "RU": "✅Язык успешно изменен на %lang% %flag%.",
@@ -31,7 +56,8 @@
     "DE": "✅Die Sprache wurde erfolgreich geändert in %lang% %flag%."
   },
 
- // IPINFO
+ // IPCOMMAND
+  
   "COMMAND_IPINFO_INFO": {
     "RU": "Информация об IP-адресе",
     "UA": "Інформація про IP-адресу",
