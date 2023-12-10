@@ -1,38 +1,45 @@
 {
   "TIME_SECONDS": {
     "RU": "сек.",
+    "UA": "сек.",
     "EN": "sec.",
     "DE": "sec."
   },
   "TIME_MINUTES": {
     "RU": "мин.",
+    "UA": "хв.",
     "EN": "min.",
     "DE": "min."
   },
   "TIME_DAYS": {
     "RU": "дн.",
+    "UA": "дн.",
     "EN": "d.",
     "DE": "t."
   },
   "TIME_HOURS": {
     "RU": "ч.",
+    "UA": "ч.",
     "EN": "h.",
     "DE": "u."
   },
 
   "COOLDOWN_COMMAND": {
     "RU": "Подождите %time% прежде чем использовать команду.",
+    "UA": "Зачекайте %time% перш ніж використовувати команду.",
     "EN": "Wait for %time% before using the command.",
     "DE": "Warten Sie auf %time%, bevor Sie den Befehl verwenden."
   },
   
   "BLOCKED": {
     "RU": "да",
+    "UA": "так",
     "EN": "yes",
     "DE": "ja"
   },
   "NO_BLOCKED": {
     "RU": "нет",
+    "UA": "ні",
     "EN": "no",
     "DE": "nein"
   }
