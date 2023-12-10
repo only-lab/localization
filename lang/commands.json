@@ -6,7 +6,7 @@
     "RU": "ℹИнформация об IP-адресе",
     "UA": "ℹІнформація про IP-адресу",
     "EN": "ℹIP address information"
-  }
+  },
 
   "COMMAND_TCP_PORT_OPENED": {
     "RU": [
