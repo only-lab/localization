@@ -10,5 +10,11 @@
     "UA": "⛔Сервер не знайдено",
     "EN": "⛔Server not found",
     "DE": "⛔Server nicht gefunden"
+  },
+  "COMMAND_MCALIAS_CHANGE_ALREADY_USE": {
+    "RU": "⚠У этого сервера итак установлен этот алиас.",
+    "UA": "⚠У цього сервера отже встановлено цей аліас.",
+    "EN": "⚠This server already has that alias set.",
+    "DE": "⚠Auf diesem Server ist dieser Alias bereits eingestellt."
   }
 }
