@@ -15,12 +15,6 @@
       "",
       "ℹGot an answer for: %time% ms."
     ],
-    "DE": [
-      "%ip%:%port%",
-      "✅Aufmachen!",
-      "",
-      "ℹIch habe eine Antwort für: %time% ms."
-    ],
     "UA": [
       "%ip%:%port%",
       "✅Відкрито!",
@@ -37,10 +31,6 @@
       "%ip%:%port%",
       "🚫Closed!"
     ],
-    "DE": [
-      "%ip%:%port%",
-      "🚫Geschlossen!"
-    ],
     "UA": [
       "%ip%:%port%",
       "🚫Закрито!"
@@ -52,8 +42,7 @@
   "LANGUAGE_CHANGED": {
     "RU": "✅Язык успешно изменен на %lang% %flag%.",
     "UA": "✅Мову успішно змінено на %lang% %flag%.",
-    "EN": "✅The language was successfully changed to %lang% %flag%.",
-    "DE": "✅Die Sprache wurde erfolgreich geändert in %lang% %flag%."
+    "EN": "✅The language was successfully changed to %lang% %flag%."
   },
 
  // IPCOMMAND
@@ -61,49 +50,42 @@
   "COMMAND_IPINFO_INFO": {
     "RU": "Информация об IP-адресе",
     "UA": "Інформація про IP-адресу",
-    "EN": "IP address information",
-    "DE": "Informationen zur IP-Adresse"
+    "EN": "IP address information"
   },
   
   "COMMAND_IPINFO_IP": {
     "RU": "Айпи",
     "UA": "Айпі",
-    "EN": "IP",
-    "DE": "IP"
+    "EN": "IP"
   },
   "COMMAND_IPINFO_PTR": {
     "RU": "PTR",
     "UA": "PTR",
-    "EN": "PTR",
-    "DE": "PTR"
+    "EN": "PTR"
   },
   
   "COMMAND_IPINFO_LOCATION": {
     "RU": "Локация",
     "UA": "Локація",
-    "EN": "Location",
-    "DE": "Standort"
+    "EN": "Location"
   },
   
   "COMMAND_IPINFO_ASNAME": {
     "RU": "ASNAME",
     "UA": "ASNAME",
-    "EN": "ASNAME",
-    "DE": "ASNAME"
+    "EN": "ASNAME"
   },
   
   "COMMAND_IPINFO_ISP": {
     "RU": "Провайдер",
     "UA": "Провайдер",
-    "EN": "Provider",
-    "DE": "ANBIETER"
+    "EN": "Provider"
   },
   
   "COMMAND_IPINFO_ORG": {
     "RU": "Организация",
     "UA": "Організація",
-    "EN": "Organization",
-    "DE": "Organisation"
+    "EN": "Organization"
   },
   
   // MCPING
@@ -111,69 +93,58 @@
   "COMMAND_MCPING_MILLIS": {
     "RU": "мс.",
     "UA": "мс.",
-    "EN": "ms.",
-    "DE": "ms."
+    "EN": "ms."
   },
   
   "COMMAND_MCPING_INLINE_STATS": {
     "RU": "📊Статистика сервера",
     "UA": "📊Статистика сервера",
-    "EN": "📊Server statistics",
-    "DE": "📊Server-Statistiken"
+    "EN": "📊Server statistics"
   },
   "COMMAND_MCPING_INLINE_PING": {
     "RU": "🔁Повторный пинг",
     "UA": "🔁Повторний пінг",
-    "EN": "🔁Repetitive ping",
-    "DE": "🔁Wiederholtes Anpingen"
+    "EN": "🔁Repetitive ping"
   },
   "COMMAND_MCPING_INLINE_INFOIP": {
     "RU": "ℹИнформация об IP-адресе",
     "UA": "ℹІнформація про IP-адресу",
-    "EN": "ℹIP address information",
-    "DE": "ℹInformationen zur IP-Adresse"
+    "EN": "ℹIP address information"
   },
   "COMMAND_MCPING_INFO": {
     "RU": "Информация о сервере",
     "UA": "Інформація про сервер",
-    "EN": "Server Information",
-    "DE": "Server-Informationen"
+    "EN": "Server Information"
   },
   "COMMAND_MCPING_IP": {
     "RU": "Айпи",
     "UA": "Айпі",
-    "EN": "IP",
-    "DE": "IP"
+    "EN": "IP"
   },
   "COMMAND_MCPING_PING": {
     "RU": "Пинг",
     "UA": "Пінг",
-    "EN": "Ping",
-    "DE": "Ping"
+    "EN": "Ping"
   },
   "COMMAND_MCPING_BLOCKING": {
     "RU": "Бан Mojang",
     "UA": "Бан Mojang",
-    "EN": "Ban Mojang",
-    "DE": "Verbieten Mojang"
+    "EN": "Ban Mojang"
   },
   "COMMAND_MCPING_SERVER": {
     "RU": "Сервер",
     "UA": "Сервер",
-    "EN": "Server",
-    "DE": "Server"
+    "EN": "Server"
   },
   "COMMAND_MCPING_PROTOCOL": {
     "RU": "Протокол",
     "UA": "Протокол",
-    "EN": "Protocol",
-    "DE": "Protokoll"
+    "EN": "Protocol"
   },
   "COMMAND_MCPING_ONLINE": {
     "RU": "Онлайн",
     "UA": "Онлайн",
     "EN": "Online",
-    "DE": "Online"
   },
 
   // McStatsCommand
@@ -181,58 +152,49 @@
   "COMMAND_MCSTATS_ONLINE": {
     "RU": "Текущий онлайн",
     "UA": "Поточний онлайн",
-    "EN": "Current online",
-    "DE": "Aktuell online"
+    "EN": "Current online"
   },
   "COMMAND_MCSTATS_TODAY_BEST_ONLINE": {
     "RU": "Рекорд онлайна за день",
     "UA": "Рекорд онлайна за день",
-    "EN": "Online record for the day",
-    "DE": "Online-Rekord für diesen Tag"
+    "EN": "Online record for the day"
   },
   "COMMAND_MCSTATS_TODAY_TOP": {
     "RU": "Место в топе за сегодня",
     "UA": "Місце в топі за сьогодні",
-    "EN": "Today's top spot",
-    "DE": "Der heutige Spitzenplatz"
+    "EN": "Today's top spot"
   },
   "COMMAND_MCSTATS_CREATING_CHARTING": {
     "RU": "Создаю график...",
     "UA": "Створюю графік...",
-    "EN": "Creating a chart...",
-    "DE": "Ich erstelle ein Diagramm"
+    "EN": "Creating a chart..."
   },
   
   "COMMAND_MCSTATS_YESTERDAY_BEST_ONLINE": {
     "RU": "Рекорд онлайна за прошлый день",
     "UA": "Рекорд онлайну за минулий день",
-    "EN": "Last day's online record",
-    "DE": "Online-Datensatz des letzten Tages"
+    "EN": "Last day's online record"
   },
   "COMMAND_MCSTATS_YESTERDAY_TOP": {
     "RU": "Место в топе за прошлый день",
     "UA": "Місце в топі за минулий день",
-    "EN": "Last day's top spot",
-    "DE": "Der Spitzenplatz vom Vortag"
+    "EN": "Last day's top spot"
   },
   "COMMAND_MCSTATS_YESTERDAY_NO_AVAILABLE": {
     "RU": "Статистика за вчера недоступна.",
     "UA": "Статистика за вчорашній день недоступна.",
-    "EN": "Statistics for yesterday are not available.",
-    "DE": "Für gestern sind keine Statistiken verfügbar."
+    "EN": "Statistics for yesterday are not available."
   },
   
   "COMMAND_MCSTATS_INLINE_PING": {
     "RU": "ℹИнформация о сервере",
     "UA": "ℹІнформація про сервер",
-    "EN": "ℹServer Information",
-    "DE": "ℹServer-Informationen"
+    "EN": "ℹServer Information"
   },
   "COMMAND_MCSTATS_INLINE_IP": {
     "RU": "ℹИнформация об IP-адресе",
     "UA": "ℹІнформація про IP-адресу",
-    "EN": "ℹIP address information",
-    "DE": "ℹInformationen zur IP-Adresse"
+    "EN": "ℹIP address information"
   },
   
   // UserCommand
@@ -255,15 +217,6 @@
       "— User Permissions: %permissions%",
       "",
       "— User Servers: %servers%"
-    ],
-    "DE": [
-      "ℹInformationen für den Benutzer (%name%):",
-      "",
-      "— Benutzer-Status: %status_displayName%",
-      "— Benutzersprache: %lang%",
-      "— Benutzerberechtigungen: %permissions%",
-      "",
-      "— Benutzer-Server: %servers%"
     ],
     "UA": [
       "ℹІнформація про користувача (%name%):",
