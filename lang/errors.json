@@ -2,25 +2,21 @@
   "COMMAND_IPINFO_ERROR_NOFOUND": {
     "RU": "⛔В вашем сообщении не было найдено IP-адреса/домена.",
     "UA": "⛔У вашому повідомленні не було знайдено IP-адреси/домену.",
-    "EN": "⛔No IP address/domain was found in your message.",
-    "DE": "⛔Es wurde keine IP-Adresse/Domäne in Ihrer Nachricht gefunden."
+    "EN": "⛔No IP address/domain was found in your message."
   },
   "COMMAND_SERVER_NOFOUND": {
     "RU": "⛔Сервер не найден",
     "UA": "⛔Сервер не знайдено",
-    "EN": "⛔Server not found",
-    "DE": "⛔Server nicht gefunden"
+    "EN": "⛔Server not found"
   },
   "COMMAND_MCALIAS_CHANGE_ALREADY_USE": {
     "RU": "⚠У этого сервера итак установлен этот алиас.",
     "UA": "⚠У цього сервера отже встановлено цей аліас.",
-    "EN": "⚠This server already has that alias set.",
-    "DE": "⚠Auf diesem Server ist dieser Alias bereits eingestellt."
+    "EN": "⚠This server already has that alias set."
   },
   "COMMAND_IPINFO_ERROR_GETINFO": {
     "RU": "⚠Не удалось получить информацию об IP-адресе.",
     "UA": "⚠Не вдалося отримати інформацію про IP-адресу.",
-    "EN": "⚠Failed to retrieve IP address information.",
-    "DE": "⚠IP-Adressinformationen konnten nicht abgerufen werden."
+    "EN": "⚠Failed to retrieve IP address information."
   }
 }
