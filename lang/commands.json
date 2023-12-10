@@ -175,6 +175,52 @@
     "EN": "Online",
     "DE": "Online"
   },
+
+  // McStatsCommand
+
+  "COMMAND_MCSTATS_ONLINE": {
+    "RU": "Текущий онлайн",
+    "UA": "Поточний онлайн",
+    "EN": "Current online",
+    "DE": "Aktuell online"
+  },
+  "COMMAND_MCSTATS_TODAY_BEST_ONLINE": {
+    "RU": "Рекорд онлайна за день",
+    "UA": "Рекорд онлайна за день",
+    "EN": "Online record for the day",
+    "DE": "Online-Rekord für diesen Tag"
+  },
+  "COMMAND_MCSTATS_TODAY_TOP": {
+    "RU": "Место в топе за сегодня",
+    "UA": "Місце в топі за сьогодні",
+    "EN": "Today's top spot",
+    "DE": "Der heutige Spitzenplatz"
+  },
+  "COMMAND_MCSTATS_CREATING_CHARTING": {
+    "RU": "Создаю график...",
+    "UA": "Створюю графік...",
+    "EN": "Creating a chart...",
+    "DE": "Ich erstelle ein Diagramm"
+  },
+  
+  "COMMAND_MCSTATS_YESTERDAY_BEST_ONLINE": {
+    "RU": "Рекорд онлайна за прошлый день",
+    "UA": "Рекорд онлайну за минулий день",
+    "EN": "Last day's online record",
+    "DE": "Online-Datensatz des letzten Tages"
+  },
+  "COMMAND_MCSTATS_YESTERDAY_TOP": {
+    "RU": "Место в топе за прошлый день",
+    "UA": "Місце в топі за минулий день",
+    "EN": "Last day's top spot",
+    "DE": "Der Spitzenplatz vom Vortag"
+  },
+  "COMMAND_MCSTATS_YESTERDAY_NO_AVAILABLE": {
+    "RU": "Статистика за вчера недоступна.",
+    "UA": "Статистика за вчорашній день недоступна.",
+    "EN": "Statistics for yesterday are not available.",
+    "DE": "Für gestern sind keine Statistiken verfügbar."
+  },
   
   // UserCommand
 
