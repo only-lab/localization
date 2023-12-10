@@ -88,6 +88,12 @@
     "EN": "Organization"
   },
   
+  "COMMAND_IPINFO_REPALCE": {
+    "RU": "Россия",
+    "UA": "Russia",
+    "EN": "Russia"
+  },
+  
   // MCPING
 
   "COMMAND_MCPING_MILLIS": {
