@@ -16,5 +16,11 @@
     "UA": "⚠У цього сервера отже встановлено цей аліас.",
     "EN": "⚠This server already has that alias set.",
     "DE": "⚠Auf diesem Server ist dieser Alias bereits eingestellt."
+  },
+  "COMMAND_IPINFO_ERROR_GETINFO": {
+    "RU": "⚠Не удалось получить информацию об IP-адресе.",
+    "UA": "⚠Не вдалося отримати інформацію про IP-адресу.",
+    "EN": "⚠Failed to retrieve IP address information.",
+    "DE": "⚠IP-Adressinformationen konnten nicht abgerufen werden."
   }
 }
