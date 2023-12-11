@@ -264,9 +264,9 @@
     "EN": "Top %servers% servers for day %date% (page %page%)"
   },
   "COMMAND_LANG": {
-    "RU": "Ваш язык:",
-    "UA": "Ваша мова:",
-    "EN": "Your language:"
+    "RU": "Ваш язык: %lang%",
+    "UA": "Ваша мова: %lang%",
+    "EN": "Your language: %lang%"
   },
   "COMMAND_LANG_NO_CORRECT_LANG": {
     "RU": "Вы ввели некорректный язык",
