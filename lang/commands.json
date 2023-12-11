@@ -366,5 +366,15 @@
     "RU": "Информация о локали",
     "UA": "Інформація про локалі",
     "EN": "Locale information"
+  },
+  "COMMAND_BOT_MODULE_ENABLE": {
+    "RU": "включен",
+    "UA": "увімкнений",
+    "EN": "included"
+  },
+  "COMMAND_BOT_MODULE_DISABLE": {
+    "RU": "выключен",
+    "UA": "вимкнений",
+    "EN": "off"
   }
 }
