@@ -262,5 +262,20 @@
     "RU": "Топ %servers% серверов за день %date% (страница %page%)",
     "UA": "Топ %servers% серверів за день %date% (сторінка %page%)",
     "EN": "Top %servers% servers for day %date% (page %page%)"
+  },
+  "COMMAND_LANG": {
+    "RU": "Ваш язык:",
+    "UA": "Ваша мова:",
+    "EN": "Your language:"
+  },
+  "COMMAND_LANG_NO_CORRECT_LANG": {
+    "RU": "Вы ввели некорректный язык",
+    "UA": "Ви ввели некоректну мову",
+    "EN": "You have entered incorrect language"
+  },
+  "COMMAND_LANG_USING": {
+    "RU": "У вас итак установлен этот язык",
+    "UA": "У вас і так встановлена ця мова",
+    "EN": "You already have this language installed"
   }
 }
