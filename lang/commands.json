@@ -277,5 +277,94 @@
     "RU": "У вас итак установлен этот язык",
     "UA": "У вас і так встановлена ця мова",
     "EN": "You already have this language installed"
+  },
+
+  // BotCommand
+
+  "COMMAND_BOT_UPTIME": {
+    "RU": "Аптайм",
+    "UA": "Аптайм",
+    "EN": "Uptime"
+  },
+  "COMMAND_BOT_USED_RAM": {
+    "RU": "Используется ОЗУ",
+    "UA": "Використовується ОЗП",
+    "EN": "RAM used"
+  },
+  "COMMAND_BOT_INFO_BOT": {
+    "RU": "Информация о боте",
+    "UA": "Інформація про бота",
+    "EN": "Bot information"
+  },
+  "COMMAND_BOT_INITIALIZED_COMMAND": {
+    "RU": "Инициализировано команд",
+    "UA": "Ініціалізовано команд",
+    "EN": "Commands initialized"
+  },
+  "COMMAND_BOT_USERS": {
+    "RU": "Всего пользователей",
+    "UA": "Усього користувачів",
+    "EN": "Total users"
+  },
+  "COMMAND_BOT_INFO_MEMORY": {
+    "RU": "Информация о памяти",
+    "UA": "Інформація про пам'ять",
+    "EN": "Memory information"
+  },
+  "COMMAND_BOT_MEGABYTE": {
+    "RU": "МБ",
+    "UA": "МБ",
+    "EN": "MB"
+  },
+  "COMMAND_BOT_FREE_RAM": {
+    "RU": "Свободно ОЗУ",
+    "UA": "Вільно ОЗП",
+    "EN": "Free RAM"
+  },
+  "COMMAND_BOT_ALLOCATED_RAM": {
+    "RU": "Выделено ОЗУ",
+    "UA": "Виділено ОЗП",
+    "EN": "Allocated RAM"
+  },
+  "COMMAND_BOT_TOTAL_RAM": {
+    "RU": "Всего ОЗУ",
+    "UA": "Усього ОЗП",
+    "EN": "Total RAM"
+  },
+  "COMMAND_BOT_INFO_MODULE": {
+    "RU": "Информация о модулях",
+    "UA": "Інформація про модулі",
+    "EN": "Module information"
+  },
+  "COMMAND_BOT_TOTAL_MODULES": {
+    "RU": "Всего модулей",
+    "UA": "Усього модулів",
+    "EN": "Total modules"
+  },
+  "COMMAND_BOT_MODULES": {
+    "RU": "Модули",
+    "UA": "Модулі",
+    "EN": "Modules"
+  },
+
+  "COMMAND_BOT_INLINE_RESTART": {
+    "RU": "Перезагрузить бота",
+    "UA": "Перезавантажити бота",
+    "EN": "Reboot the bot"
+  },
+  "COMMAND_BOT_INLINE_CLEAR_CACHE": {
+    "RU": "Очистка кеша",
+    "UA": "Очищення кешу",
+    "EN": "Cache Clearning"
+  },
+  "COMMAND_BOT_INLINE_RELOAD_LOCALIZATION": {
+    "RU": "Перезагрузить локализацию",
+    "UA": "Перезавантажити локалізацію",
+    "EN": "Reload localization"
+  },
+  "COMMAND_BOT_INLINE_LOCAL_INFO": {
+    "RU": "Информация о локализации",
+    "UA": "Інформація про локалізацію",
+    "EN": "Localization information"
   }
 }
