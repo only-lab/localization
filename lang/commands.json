@@ -363,8 +363,8 @@
     "EN": "Reload localization"
   },
   "COMMAND_BOT_INLINE_LOCAL_INFO": {
-    "RU": "Информация о локализации",
-    "UA": "Інформація про локалізацію",
-    "EN": "Localization information"
+    "RU": "Информация о локали",
+    "UA": "Інформація про локалі",
+    "EN": "Locale information"
   }
 }
