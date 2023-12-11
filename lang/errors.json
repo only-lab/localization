@@ -1,22 +1,27 @@
 {
-  "COMMAND_ERROR_NOFOUND_IP": {
+  "ERROR_NOT_FOUND_IP": {
     "RU": "⛔В вашем сообщении не было найдено IP-адреса/домена.",
     "UA": "⛔У вашому повідомленні не було знайдено IP-адреси/домену.",
     "EN": "⛔No IP address/domain was found in your message."
   },
-  "COMMAND_SERVER_NOFOUND": {
-    "RU": "⛔Сервер не найден",
-    "UA": "⛔Сервер не знайдено",
-    "EN": "⛔Server not found"
+  "ERROR_SERVER_NOFOUND": {
+    "RU": "⛔Сервер не найден.",
+    "UA": "⛔Сервер не знайдено.",
+    "EN": "⛔Server not found."
   },
-  "COMMAND_MCALIAS_CHANGE_ALREADY_USE": {
+  "ERROR_CHANGE_ALREADY_USE": {
     "RU": "⚠У этого сервера итак установлен этот алиас.",
     "UA": "⚠У цього сервера отже встановлено цей аліас.",
     "EN": "⚠This server already has that alias set."
   },
-  "COMMAND_IPINFO_ERROR_GETINFO": {
+  "ERROR_GETINFO": {
     "RU": "⚠Не удалось получить информацию об IP-адресе.",
     "UA": "⚠Не вдалося отримати інформацію про IP-адресу.",
     "EN": "⚠Failed to retrieve IP address information."
+  },
+  "ERROR_SERVER_EXISTS": {
+    "RU": "⚠Сервер был добавлен другим пользователем!",
+    "UA": "⚠Сервер був доданий іншим користувачем!",
+    "EN": "⚠The server was added by another user!"
   }
 }
