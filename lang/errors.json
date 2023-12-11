@@ -1,5 +1,5 @@
 {
-  "COMMAND_IPINFO_ERROR_NOFOUND": {
+  "COMMAND_ERROR_NOFOUND_IP": {
     "RU": "⛔В вашем сообщении не было найдено IP-адреса/домена.",
     "UA": "⛔У вашому повідомленні не було знайдено IP-адреси/домену.",
     "EN": "⛔No IP address/domain was found in your message."
