@@ -201,6 +201,7 @@
       "ℹИнформация о пользователе (%name%):",
       "",
       "— Статус пользователя: %status_displayName%",
+      "— Блокировка: %blocked%",
       "— Язык пользователя: %lang%",
       "— Права пользователя: %permissions%",
       "",
@@ -211,6 +212,7 @@
       "",
       "— User Status: %status_displayName%",
       "— User language: %lang%",
+      "— Lockout: %blocked%",
       "— User Permissions: %permissions%",
       "",
       "— User Servers: %servers%"
@@ -220,6 +222,7 @@
       "",
       "— Статус користувача: %status_displayName%",
       "— Мова користувача: %lang%",
+      "— Блокування: %blocked%",
       "— Права користувача: %permissions%",
       "",
       "— Сервера користувача: %servers%"
