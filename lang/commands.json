@@ -200,32 +200,35 @@
     "RU": [
       "ℹИнформация о пользователе (%name%):",
       "",
-      "— Статус пользователя: %status_displayName%",
+      "— Статус: %status_displayName%",
       "— Блокировка: %blocked%",
-      "— Язык пользователя: %lang%",
-      "— Права пользователя: %permissions%",
+      "— Язык: %lang%",
       "",
-      "— Сервера пользователя: %servers%"
+      "— Права: %permissions%",
+      "",
+      "— Сервера: %servers%"
     ],
     "EN": [
       "ℹUser information (%name%):",
       "",
-      "— User Status: %status_displayName%",
-      "— User language: %lang%",
+      "— Status: %status_displayName%",
+      "— Language: %lang%",
       "— Lockout: %blocked%",
-      "— User Permissions: %permissions%",
       "",
-      "— User Servers: %servers%"
+      "— Permissions: %permissions%",
+      "",
+      "— Servers: %servers%"
     ],
     "UA": [
       "ℹІнформація про користувача (%name%):",
       "",
-      "— Статус користувача: %status_displayName%",
-      "— Мова користувача: %lang%",
+      "— Статус: %status_displayName%",
+      "— Мова: %lang%",
       "— Блокування: %blocked%",
-      "— Права користувача: %permissions%",
       "",
-      "— Сервера користувача: %servers%"
+      "— Права: %permissions%",
+      "",
+      "— Сервера: %servers%"
     ]
   },
 
