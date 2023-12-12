@@ -376,5 +376,17 @@
     "RU": "выключен",
     "UA": "вимкнений",
     "EN": "off"
+  },
+
+  // MCSTATS
+  "COMMAND_MCSTATS_NO_STATS_TODAY": {
+    "RU": "За этот день нету информации о данном сервере.",
+    "UA": "За цей день немає інформації про цей сервер.",
+    "EN": "There is no information about this server for this day."
+  },
+  "COMMAND_MCSTATS_FEW_RECORDS": {
+    "RU": "После добавления сервера, нужно подождать 10 минут.",
+    "UA": "Після додавання сервера потрібно почекати 10 хвилин.",
+    "EN": "After adding the server, you need to wait 10 minutes."
   }
 }
