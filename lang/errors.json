@@ -28,5 +28,10 @@
     "RU": "⚠Сервер был добавлен другим пользователем!",
     "UA": "⚠Сервер був доданий іншим користувачем!",
     "EN": "⚠The server was added by another user!"
+  },
+  "ERROR_ONLY_PM_GROUP": {
+    "RU": "Данная команда доступна только в лс сообщества!",
+    "UA": "Ця команда доступна тільки в лс спільноти!",
+    "EN": "This command is only available in the community hp!"
   }
 }
