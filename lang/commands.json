@@ -388,8 +388,8 @@
     "EN": "There is no information about this server for this day."
   },
   "COMMAND_MCSTATS_FEW_RECORDS": {
-    "RU": "После добавления сервера, нужно подождать 10 минут.",
-    "UA": "Після додавання сервера потрібно почекати 10 хвилин.",
-    "EN": "After adding the server, you need to wait 10 minutes."
+    "RU": "Нужно подождать 10 минут после добавления сервера",
+    "UA": "Потрібно почекати 10 хвилин після додавання сервера",
+    "EN": "You have to wait 10 minutes after adding the server"
   }
 }
