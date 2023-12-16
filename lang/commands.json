@@ -193,6 +193,17 @@
     "UA": "ℹІнформація про IP-адресу",
     "EN": "ℹIP address information"
   },
+  
+  "COMMAND_MCSTATS_NO_STATS_TODAY": {
+    "RU": "За этот день нету информации о данном сервере.",
+    "UA": "За цей день немає інформації про цей сервер.",
+    "EN": "There is no information about this server for this day."
+  },
+  "COMMAND_MCSTATS_FEW_RECORDS": {
+    "RU": "Нужно подождать 10 минут после добавления сервера",
+    "UA": "Потрібно почекати 10 хвилин після додавання сервера",
+    "EN": "You have to wait 10 minutes after adding the server"
+  }
 
   // UserCommand
 
@@ -379,17 +390,5 @@
     "RU": "выключен",
     "UA": "вимкнений",
     "EN": "off"
-  },
-
-  // MCSTATS
-  "COMMAND_MCSTATS_NO_STATS_TODAY": {
-    "RU": "За этот день нету информации о данном сервере.",
-    "UA": "За цей день немає інформації про цей сервер.",
-    "EN": "There is no information about this server for this day."
-  },
-  "COMMAND_MCSTATS_FEW_RECORDS": {
-    "RU": "Нужно подождать 10 минут после добавления сервера",
-    "UA": "Потрібно почекати 10 хвилин після додавання сервера",
-    "EN": "You have to wait 10 minutes after adding the server"
   }
 }
