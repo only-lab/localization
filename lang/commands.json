@@ -30,10 +30,26 @@
 
   // LANGCOMMAND
 
-  "LANGUAGE_CHANGED": {
+  "COMMAND_LANG_CHANGED": {
     "RU": "✅Язык успешно изменен на %lang% %flag%.",
     "UA": "✅Мову успішно змінено на %lang% %flag%.",
     "EN": "✅The language was successfully changed to %lang% %flag%."
+  },
+
+  "COMMAND_LANG": {
+    "RU": "Ваш язык: %lang%",
+    "UA": "Ваша мова: %lang%",
+    "EN": "Your language: %lang%"
+  },
+  "COMMAND_LANG_NO_CORRECT_LANG": {
+    "RU": "Вы ввели некорректный язык",
+    "UA": "Ви ввели некоректну мову",
+    "EN": "You have entered incorrect language"
+  },
+  "COMMAND_LANG_USING": {
+    "RU": "У вас итак установлен этот язык",
+    "UA": "У вас і так встановлена ця мова",
+    "EN": "You already have this language installed"
   },
 
  // IPCOMMAND
@@ -276,21 +292,6 @@
     "RU": "Топ %servers% серверов за день %date% (страница %page%)",
     "UA": "Топ %servers% серверів за день %date% (сторінка %page%)",
     "EN": "Top %servers% servers for day %date% (page %page%)"
-  },
-  "COMMAND_LANG": {
-    "RU": "Ваш язык: %lang%",
-    "UA": "Ваша мова: %lang%",
-    "EN": "Your language: %lang%"
-  },
-  "COMMAND_LANG_NO_CORRECT_LANG": {
-    "RU": "Вы ввели некорректный язык",
-    "UA": "Ви ввели некоректну мову",
-    "EN": "You have entered incorrect language"
-  },
-  "COMMAND_LANG_USING": {
-    "RU": "У вас итак установлен этот язык",
-    "UA": "У вас і так встановлена ця мова",
-    "EN": "You already have this language installed"
   },
 
   // BotCommand
