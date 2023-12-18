@@ -7,6 +7,9 @@
     "UA": "ℹІнформація про IP-адресу",
     "EN": "ℹIP address information"
   },
+  "UNKNOWN_COMMAND": {
+    "RU": "Неизвестная команда"
+  },
 
   "COMMAND_TCP_PORT_OPENED": {
     "RU": [
