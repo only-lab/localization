@@ -7,9 +7,6 @@
     "UA": "ℹІнформація про IP-адресу",
     "EN": "ℹIP address information"
   },
-  "UNKNOWN_COMMAND": {
-    "RU": "Неизвестная команда"
-  },
 
   "COMMAND_TCP_PORT_OPENED": {
     "RU": [
@@ -394,5 +391,13 @@
     "RU": "выключен",
     "UA": "вимкнений",
     "EN": "off"
+  },
+
+  // MCALIAS
+
+  "COMMAND_MCALIAS_INSTALLED": {
+    "RU": "✅Алиас успешно установлен.",
+    "UA": "✅Аліас успішно встановлено.",
+    "EN": "✅The alias was successfully installed."
   }
 }
