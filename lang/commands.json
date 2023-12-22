@@ -226,6 +226,11 @@
     "UA": "Середній добовий онлайн",
     "EN": "Average daily online"
   },
+  "COMMAND_MCSTATS_TOTAL_ONLINE": {
+    "RU": "Онлайн за все время",
+    "UA": "Постійно на зв'язку",
+    "EN": "Online all the time"
+  },
 
   // UserCommand
 
