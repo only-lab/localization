@@ -227,9 +227,9 @@
     "EN": "Average daily online"
   },
   "COMMAND_MCSTATS_TOTAL_ONLINE": {
-    "RU": "Онлайн за все время",
-    "UA": "Постійно на зв'язку",
-    "EN": "Online all the time"
+    "RU": "Рекорд за все время",
+    "UA": "Рекорд за весь час",
+    "EN": "All-time record"
   },
 
   // UserCommand
