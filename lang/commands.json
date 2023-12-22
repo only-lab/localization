@@ -221,6 +221,12 @@
     "EN": "You have to wait 10 minutes after adding the server"
   },
 
+  "COMMAND_MCSTATS_AVERAGE_ONLINE": {
+    "RU": "Средний суточный онлайн",
+    "UA": "Середній добовий онлайн",
+    "EN": "Average daily online"
+  },
+
   // UserCommand
 
   "COMMAND_USER_RESULT": {
