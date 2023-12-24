@@ -410,5 +410,52 @@
     "RU": "✅Алиас успешно установлен.",
     "UA": "✅Аліас успішно встановлено.",
     "EN": "✅The alias was successfully installed."
+  },
+  "COMMAND_VIME": {
+    "RU": [
+      "Информация об аккаунте: %nick%",
+      "",
+      "Айди: %id%",
+      "Уровень: %level%",
+      "Ранг: %rank%",
+      "",
+      "Наиграно: %playedSeconds%",
+      "Последний вход: %lastSeen%"
+    ],
+    "UA": [
+      "Інформація про акаунт:",
+      "",
+      "Айді: %id%",
+      "Рівень: %level%",
+      "Ранг: %rank%",
+      "",
+      "Награно: %playedSeconds%",
+      "Останній вхід: %lastSeen%"
+    ],
+    "EN": [
+      "Account information:",
+      "",
+      "id: %id%",
+      "Level: %level%",
+      "Rank: %rank%",
+      "",
+      "Played: %playedSeconds%",
+      "Last Entry: %lastSeen%"
+    ]
+  },
+  "COMMAND_VIME_LASTSEEN_NULL": {
+    "RU": "незивестно",
+    "UA": "невідомо",
+    "EN": "unknown"
+  },
+  "COMMAND_VIME_PLAYER_NOT_REGISTRED": {
+    "RU": "Не удалось получить информацию об игроке, возможно он не зарегистрирован",
+    "UA": "Не вдалося отримати інформацію про гравця, можливо він не зареєстрований",
+    "EN": "Could not get information about the player, maybe he is not registered"
+  },
+  "COMMAND_VIME_API_DOWN": {
+    "RU": "Не удалось получить информацию, походу API упало",
+    "UA": "Не вдалося отримати інформацію, схоже, API впало",
+    "EN": "Couldn't get the information, looks like the API is down."
   }
 }
