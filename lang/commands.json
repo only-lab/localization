@@ -496,5 +496,13 @@
     "RU": "Неизвестная привилегия",
     "EN": "Unknown privilege",
     "UA": "Невідомий привілей"
+  },
+
+  // HelpCommand
+
+  "UNKNOWN_COMMAND": {
+    "RU": "Неизвестная команда",
+    "UA": "Невідома команда",
+    "EN": "Unknown command"
   }
 }
