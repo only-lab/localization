@@ -411,6 +411,9 @@
     "UA": "✅Аліас успішно встановлено.",
     "EN": "✅The alias was successfully installed."
   },
+
+  // CommandVime
+  
   "COMMAND_VIME": {
     "RU": [
       "Информация об аккаунте: %nick%",
@@ -457,5 +460,91 @@
     "RU": "Не удалось получить информацию, походу API упало",
     "UA": "Не вдалося отримати інформацію, схоже, API впало",
     "EN": "Couldn't get the information, looks like the API is down."
+  },
+
+  "COMMAND_VIME_RANK_PLAYER": {
+    "RU": "Игрок",
+    "EN": "Player",
+    "UA": "Гравець"
+  },
+  "COMMAND_VIME_RANK_VIP": {
+    "RU": "VIP",
+    "EN": "VIP",
+    "UA": "VIP"
+  },
+  "COMMAND_VIME_RANK_PREMIUM": {
+    "RU": "PREMIUM",
+    "EN": "PREMIUM",
+    "UA": "PREMIUM"
+  },
+  "COMMAND_VIME_RANK_HOLY": {
+    "RU": "HOLY",
+    "EN": "HOLY",
+    "UA": "HOLY"
+  },
+  "COMMAND_VIME_RANK_IMMORTAL": {
+    "RU": "IMMORTAL",
+    "EN": "IMMORTAL",
+    "UA": "IMMORTAL"
+  },
+  "COMMAND_VIME_RANK_BUILDER": {
+    "RU": "Билдер",
+    "EN": "Builder",
+    "UA": "Білдер"
+  },
+  "COMMAND_VIME_RANK_SRBUILDER": {
+    "RU": "Проверенный билдер",
+    "EN": "Verifed Builder",
+    "UA": "Перевірений білдер"
+  },
+  "COMMAND_VIME_RANK_MAPLEAD": {
+    "RU": "Главный билдер",
+    "EN": "Head Builder",
+    "UA": "Головний білдер"
+  },
+  "COMMAND_VIME_RANK_YOUTUBE": {
+    "RU": "YouTube",
+    "EN": "YouTube",
+    "UA": "YouTube"
+  },
+  "COMMAND_VIME_RANK_DEV": {
+    "RU": "Разработчик",
+    "EN": "Developer",
+    "UA": "Розробник"
+  },
+  "COMMAND_VIME_RANK_ORGANIZER": {
+    "RU": "Организатор",
+    "EN": "Organizer",
+    "UA": "Організатор"
+  },
+  "COMMAND_VIME_RANK_HELPER": {
+    "RU": "Хелпер",
+    "EN": "Helper",
+    "UA": "Хелпер"
+  },
+  "COMMAND_VIME_RANK_MODER": {
+    "RU": "Модератор",
+    "EN": "Модератор",
+    "UA": "Модератор"
+  },
+  "COMMAND_VIME_RANK_WARDEN": {
+    "RU": "Проверенный модератор",
+    "EN": "Verifed Moderator",
+    "UA": "Перевірений модератор"
+  },
+  "COMMAND_VIME_RANK_CHIEF": {
+    "RU": "Главный модератор",
+    "EN": "Head Moderator",
+    "UA": ""
+  },
+  "COMMAND_VIME_RANK_ADMIN": {
+    "RU": "Главный админ",
+    "EN": "Head Admin",
+    "UA": "Головний адмін"
+  },
+  "COMMAND_VIME_RANK_NULL": {
+    "RU": "Неизвестная привилегия",
+    "EN": "Unknown privilege",
+    "UA": "Невідомий привілей"
   }
 }
