@@ -33,5 +33,15 @@
     "RU": "Данная команда доступна только в лс сообщества!",
     "UA": "Ця команда доступна тільки в лс спільноти!",
     "EN": "This command is only available in the community hp!"
+  },
+    "COMMAND_VIME_PLAYER_NOT_REGISTRED": {
+    "RU": "Не удалось получить информацию об игроке, возможно он не зарегистрирован",
+    "UA": "Не вдалося отримати інформацію про гравця, можливо він не зареєстрований",
+    "EN": "Could not get information about the player, maybe he is not registered"
+  },
+  "COMMAND_VIME_API_DOWN": {
+    "RU": "Не удалось получить информацию, походу API упало",
+    "UA": "Не вдалося отримати інформацію, схоже, API впало",
+    "EN": "Couldn't get the information, looks like the API is down."
   }
 }
