@@ -357,51 +357,11 @@
     "UA": "Усього ОЗП",
     "EN": "Total RAM"
   },
-  "COMMAND_BOT_INFO_MODULE": {
-    "RU": "Информация о модулях",
-    "UA": "Інформація про модулі",
-    "EN": "Module information"
-  },
-  "COMMAND_BOT_TOTAL_MODULES": {
-    "RU": "Всего модулей",
-    "UA": "Усього модулів",
-    "EN": "Total modules"
-  },
-  "COMMAND_BOT_MODULES": {
-    "RU": "Модули",
-    "UA": "Модулі",
-    "EN": "Modules"
-  },
 
   "COMMAND_BOT_INLINE_RESTART": {
     "RU": "Перезагрузить бота",
     "UA": "Перезавантажити бота",
     "EN": "Reboot the bot"
-  },
-  "COMMAND_BOT_INLINE_CLEAR_CACHE": {
-    "RU": "Очистка кеша",
-    "UA": "Очищення кешу",
-    "EN": "Cache Clearning"
-  },
-  "COMMAND_BOT_INLINE_RELOAD_LOCALIZATION": {
-    "RU": "Перезагрузить локализацию",
-    "UA": "Перезавантажити локалізацію",
-    "EN": "Reload localization"
-  },
-  "COMMAND_BOT_INLINE_LOCAL_INFO": {
-    "RU": "Информация о локали",
-    "UA": "Інформація про локалі",
-    "EN": "Locale information"
-  },
-  "COMMAND_BOT_MODULE_ENABLE": {
-    "RU": "включен",
-    "UA": "увімкнений",
-    "EN": "included"
-  },
-  "COMMAND_BOT_MODULE_DISABLE": {
-    "RU": "выключен",
-    "UA": "вимкнений",
-    "EN": "off"
   },
 
   // MCALIAS
@@ -450,16 +410,6 @@
     "RU": "незивестно",
     "UA": "невідомо",
     "EN": "unknown"
-  },
-  "COMMAND_VIME_PLAYER_NOT_REGISTRED": {
-    "RU": "Не удалось получить информацию об игроке, возможно он не зарегистрирован",
-    "UA": "Не вдалося отримати інформацію про гравця, можливо він не зареєстрований",
-    "EN": "Could not get information about the player, maybe he is not registered"
-  },
-  "COMMAND_VIME_API_DOWN": {
-    "RU": "Не удалось получить информацию, походу API упало",
-    "UA": "Не вдалося отримати інформацію, схоже, API впало",
-    "EN": "Couldn't get the information, looks like the API is down."
   },
 
   "COMMAND_VIME_RANK_PLAYER": {
