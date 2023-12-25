@@ -412,6 +412,35 @@
     "UA": "Інформація про гільдію",
     "EN": "Guild information"
   },
+
+  "COMMAND_VIME_NON_GUILD_MEMBER": {
+    "RU": "Пользователь вне гильдии, информация не доступна",
+    "UA": "Користувач поза гільдією, інформація не доступна",
+    "EN": "User out of guild, no information available"
+  },
+  "COMMAND_VIME_GUILD": {
+    "RU": [
+      "Гильдия: %guild_name%",
+      "",
+      "Айди: %guild_id%",
+      "Уровень: %guild_level%",
+      "Тег: %guild_tag%"
+    ],
+    "UA": [
+      "Гільдія: %guild_name%",
+      "",
+      "Айді: %guild_id%",
+      "Рівень: %guild_level%",
+      "Тег: %guild_tag%"
+    ],
+    "EN": [
+      "Guild: %guild_name%",
+      "",
+      "Id: %guild_id%",
+      "Level: %guild_level%",
+      "Tag: %guild_tag%."
+    ]
+  }
   
   "COMMAND_VIME_LASTSEEN_NULL": {
     "RU": "незивестно",
