@@ -406,6 +406,13 @@
       "Last Entry: %lastSeen%"
     ]
   },
+  
+  "COMMAND_VIME_INLINE_GUILD": {
+    "RU": "Информация о гильдии", 
+    "UA": "Інформація про гільдію",
+    "EN": "Guild information"
+  },
+  
   "COMMAND_VIME_LASTSEEN_NULL": {
     "RU": "незивестно",
     "UA": "невідомо",
