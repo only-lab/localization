@@ -386,7 +386,7 @@
       "Последний вход: %lastSeen%"
     ],
     "UA": [
-      "Інформація про акаунт:",
+      "Інформація про акаунт: %nick%",
       "",
       "Айді: %id%",
       "Рівень: %level%",
@@ -396,7 +396,7 @@
       "Останній вхід: %lastSeen%"
     ],
     "EN": [
-      "Account information:",
+      "Account information: %nick%",
       "",
       "id: %id%",
       "Level: %level%",
