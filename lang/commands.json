@@ -440,7 +440,7 @@
       "Level: %guild_level%",
       "Tag: %guild_tag%."
     ]
-  }
+  },
   
   "COMMAND_VIME_LASTSEEN_NULL": {
     "RU": "незивестно",
