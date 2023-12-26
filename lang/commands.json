@@ -453,6 +453,12 @@
       "UA": "невідомо",
       "EN": "unknown"
     },
+
+    "COMMAND_VIME_NO_TAG": {
+      "RU": "нет тега",
+      "UA": "немає тега",
+      "EN": "no tag"
+    },
   
     "COMMAND_VIME_RANK_PLAYER": {
       "RU": "Игрок",
