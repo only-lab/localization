@@ -579,6 +579,11 @@
       "UA": "Інформація про бота",
       "EN": "Bot information"
     },
+    "COMMAND_ALIASES_DESCRIPTION": {
+        "RU": "Алиасы команд",
+        "UA": "Аліаси команд",
+        "EN": "Command aliases"
+    },
     "COMMAND_HELP_DESCRIPTION": {
       "RU": "Список команд бота",
       "UA": "Список команд бота",
@@ -629,7 +634,7 @@
       "UA": "Список ваших серверів Minecraft", 
       "EN": "List of your Minecraft servers"
     },
-    "COMMAND_MCTOPSERVER_DESCRIPTION": {
+    "COMMAND_MCTOPONLINE_DESCRIPTION": {
       "RU": "Топ серверов Minecraft",
       "UA": "Топ серверів Minecraft", 
       "EN": "Top Minecraft Servers"
@@ -640,7 +645,7 @@
       "EN": "Check IP by TCP protocol"
     },
     "COMMAND_VIME_DESCRIPTION": {
-      "RU": "Информация о аккаунте VimeWorld",
+      "RU": "Информация об аккаунте VimeWorld",
       "UA": "Інформація про акаунт VimeWorld",
       "EN": "VimeWorld account information"
     }
