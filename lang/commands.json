@@ -108,6 +108,12 @@
     },
   
     // MCPING
+
+    "COMMAND_MCPING_PINGING": {
+        "RU": "Пингую %server%...",
+        "UA": "Пінгую %server%...",
+        "EN": "Pinging %server%..."
+    },
   
     "COMMAND_MCPING_MILLIS": {
       "RU": "мс.",
