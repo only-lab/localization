@@ -1,544 +1,647 @@
 {
 
-  // TCPCOMMAND
+    // =================================
+    //
+    //      Локализация для команд
+    //
+    // =================================
 
-  "COMMAND_TCP_INLINE_IP": {
-    "RU": "ℹИнформация об IP-адресе",
-    "UA": "ℹІнформація про IP-адресу",
-    "EN": "ℹIP address information"
-  },
-
-  "COMMAND_TCP_PORT_OPENED": {
-    "RU": [
-      "✅Результат проверки (%ip%:%port%): Порт открыт",
-      "ℹПолучил ответ за: %time% мс."
-    ],
-    "EN": [
-      "✅Inspection result (%ip%:%port%): Port open",
-      "ℹGot an answer for: %time% ms."
-    ],
-    "UA": [
-      "✅Результат перевірки (%ip%:%port%): Порт закрито",
-      "ℹОтримано відповідь для: %time% мс."
-    ]
-  },
-  "COMMAND_TCP_PORT_CLOSED": {
-    "RU": "🚫Результат проверки (%ip%:%port%): Порт закрыт",
-    "EN": "🚫Inspection result (%ip%:%port%): Port closed",
-    "UA": "🚫Результат перевірки (%ip%:%port%): Порт закрито"
-  },
-
-  // LANGCOMMAND
-
-  "COMMAND_LANG_CHANGED": {
-    "RU": "✅Язык успешно изменен на %lang% %flag%.",
-    "UA": "✅Мову успішно змінено на %lang% %flag%.",
-    "EN": "✅The language was successfully changed to %lang% %flag%."
-  },
-
-  "COMMAND_LANG": {
-    "RU": "Ваш язык: %lang%",
-    "UA": "Ваша мова: %lang%",
-    "EN": "Your language: %lang%"
-  },
-  "COMMAND_LANG_NO_CORRECT_LANG": {
-    "RU": "Вы ввели некорректный язык",
-    "UA": "Ви ввели некоректну мову",
-    "EN": "You have entered incorrect language"
-  },
-  "COMMAND_LANG_USING": {
-    "RU": "У вас итак установлен этот язык",
-    "UA": "У вас і так встановлена ця мова",
-    "EN": "You already have this language installed"
-  },
-
- // IPCOMMAND
-
-  "COMMAND_IPINFO_INFO": {
-    "RU": "Информация об IP-адресе",
-    "UA": "Інформація про IP-адресу",
-    "EN": "IP address information"
-  },
-
-  "COMMAND_IPINFO_IP": {
-    "RU": "Айпи",
-    "UA": "Айпі",
-    "EN": "IP"
-  },
-  "COMMAND_IPINFO_PTR": {
-    "RU": "PTR",
-    "UA": "PTR",
-    "EN": "PTR"
-  },
-
-  "COMMAND_IPINFO_LOCATION": {
-    "RU": "Локация",
-    "UA": "Локація",
-    "EN": "Location"
-  },
-
-  "COMMAND_IPINFO_ASNAME": {
-    "RU": "ASNAME",
-    "UA": "ASNAME",
-    "EN": "ASNAME"
-  },
-
-  "COMMAND_IPINFO_ISP": {
-    "RU": "Провайдер",
-    "UA": "Провайдер",
-    "EN": "Provider"
-  },
-
-  "COMMAND_IPINFO_ORG": {
-    "RU": "Организация",
-    "UA": "Організація",
-    "EN": "Organization"
-  },
-
-  "COMMAND_IPINFO_REPALCE": {
-    "RU": "Россия",
-    "UA": "Russia",
-    "EN": "Russia"
-  },
-
-  // MCPING
-
-  "COMMAND_MCPING_MILLIS": {
-    "RU": "мс.",
-    "UA": "мс.",
-    "EN": "ms."
-  },
-
-  "COMMAND_MCPING_INLINE_STATS": {
-    "RU": "📊Статистика сервера",
-    "UA": "📊Статистика сервера",
-    "EN": "📊Server statistics"
-  },
-  "COMMAND_MCPING_INLINE_PING": {
-    "RU": "🔁Повторный пинг",
-    "UA": "🔁Повторний пінг",
-    "EN": "🔁Repetitive ping"
-  },
-  "COMMAND_MCPING_INLINE_INFOIP": {
-    "RU": "ℹИнформация об IP-адресе",
-    "UA": "ℹІнформація про IP-адресу",
-    "EN": "ℹIP address information"
-  },
-  "COMMAND_MCPING_INFO": {
-    "RU": "Информация о сервере",
-    "UA": "Інформація про сервер",
-    "EN": "Server Information"
-  },
-  "COMMAND_MCPING_IP": {
-    "RU": "Айпи",
-    "UA": "Айпі",
-    "EN": "IP"
-  },
-  "COMMAND_MCPING_PING": {
-    "RU": "Пинг",
-    "UA": "Пінг",
-    "EN": "Ping"
-  },
-  "COMMAND_MCPING_BLOCKING": {
-    "RU": "Бан Mojang",
-    "UA": "Бан Mojang",
-    "EN": "Ban Mojang"
-  },
-  "COMMAND_MCPING_SERVER": {
-    "RU": "Сервер",
-    "UA": "Сервер",
-    "EN": "Server"
-  },
-  "COMMAND_MCPING_PROTOCOL": {
-    "RU": "Протокол",
-    "UA": "Протокол",
-    "EN": "Protocol"
-  },
-  "COMMAND_MCPING_ONLINE": {
-    "RU": "Онлайн",
-    "UA": "Онлайн",
-    "EN": "Online"
-  },
-
-  // McStatsCommand
-
-  "COMMAND_MCSTATS_ONLINE": {
-    "RU": "Текущий онлайн",
-    "UA": "Поточний онлайн",
-    "EN": "Current online"
-  },
-  "COMMAND_MCSTATS_TODAY_BEST_ONLINE": {
-    "RU": "Рекорд онлайна за день",
-    "UA": "Рекорд онлайна за день",
-    "EN": "Online record for the day"
-  },
-  "COMMAND_MCSTATS_TODAY_TOP": {
-    "RU": "Место в топе за сегодня",
-    "UA": "Місце в топі за сьогодні",
-    "EN": "Today's top spot"
-  },
-  "COMMAND_MCSTATS_CREATING_CHARTING": {
-    "RU": "Создаю график...",
-    "UA": "Створюю графік...",
-    "EN": "Creating a chart..."
-  },
-
-  "COMMAND_MCSTATS_YESTERDAY_BEST_ONLINE": {
-    "RU": "Рекорд онлайна за прошлый день",
-    "UA": "Рекорд онлайну за минулий день",
-    "EN": "Last day's online record"
-  },
-  "COMMAND_MCSTATS_YESTERDAY_TOP": {
-    "RU": "Место в топе за прошлый день",
-    "UA": "Місце в топі за минулий день",
-    "EN": "Last day's top spot"
-  },
-  "COMMAND_MCSTATS_YESTERDAY_NO_AVAILABLE": {
-    "RU": "Статистика за вчера недоступна.",
-    "UA": "Статистика за вчорашній день недоступна.",
-    "EN": "Statistics for yesterday are not available."
-  },
-
-  "COMMAND_MCSTATS_INLINE_PING": {
-    "RU": "ℹИнформация о сервере",
-    "UA": "ℹІнформація про сервер",
-    "EN": "ℹServer Information"
-  },
-  "COMMAND_MCSTATS_INLINE_IP": {
-    "RU": "ℹИнформация об IP-адресе",
-    "UA": "ℹІнформація про IP-адресу",
-    "EN": "ℹIP address information"
-  },
+    // TCPCOMMAND
   
-  "COMMAND_MCSTATS_NO_STATS_TODAY": {
-    "RU": "За этот день нету информации о данном сервере.",
-    "UA": "За цей день немає інформації про цей сервер.",
-    "EN": "There is no information about this server for this day."
-  },
-  "COMMAND_MCSTATS_FEW_RECORDS": {
-    "RU": "Нужно подождать 10 минут после добавления сервера",
-    "UA": "Потрібно почекати 10 хвилин після додавання сервера",
-    "EN": "You have to wait 10 minutes after adding the server"
-  },
-
-  "COMMAND_MCSTATS_AVERAGE_ONLINE": {
-    "RU": "Средний суточный онлайн",
-    "UA": "Середній добовий онлайн",
-    "EN": "Average daily online"
-  },
-  "COMMAND_MCSTATS_TOTAL_ONLINE": {
-    "RU": "Рекорд за все время",
-    "UA": "Рекорд за весь час",
-    "EN": "All-time record"
-  },
-
-  // UserCommand
-
-  "COMMAND_USER_RESULT": {
-    "RU": [
-      "ℹИнформация о пользователе (%name%):",
-      "",
-      "— Статус: %status_displayName%",
-      "— Блокировка: %blocked%",
-      "— Язык: %lang%",
-      "",
-      "— Права: %permissions%",
-      "",
-      "— Сервера: %servers%"
-    ],
-    "EN": [
-      "ℹUser information (%name%):",
-      "",
-      "— Status: %status_displayName%",
-      "— Language: %lang%",
-      "— Lockout: %blocked%",
-      "",
-      "— Permissions: %permissions%",
-      "",
-      "— Servers: %servers%"
-    ],
-    "UA": [
-      "ℹІнформація про користувача (%name%):",
-      "",
-      "— Статус: %status_displayName%",
-      "— Мова: %lang%",
-      "— Блокування: %blocked%",
-      "",
-      "— Права: %permissions%",
-      "",
-      "— Сервера: %servers%"
-    ]
-  },
-
-  // SERVERLIST 
+    "COMMAND_TCP_INLINE_IP": {
+      "RU": "ℹИнформация об IP-адресе",
+      "UA": "ℹІнформація про IP-адресу",
+      "EN": "ℹIP address information"
+    },
   
-  "COMMAND_SERVERLIST_NO_SERVERS": {
-    "RU": "У вас нету серверов.",
-    "UA": "У вас немає серверів.",
-    "EN": "You don't have servers."
-  },
-  "COMMAND_SERVERLIST_YOUR_SERVERS": {
-    "RU": "Ваши сервера",
-    "UA": "Ваші сервери",
-    "EN": "Your servers"
-  },
-
-  // MINECRAFT TOP ONLINE
-  "COMMAND_MCTOPONLINE_DATA_NO_AVAILABLE": {
-    "RU": "Нет данных за указанный период.",
-    "UA": "Немає даних за вказаний період.",
-    "EN": "There is no data available for this period."
-  },
-  "COMMAND_MCTOPONLINE_NO_DATA": {
-    "RU": "На странице %page% нет данных.",
-    "UA": "На сторінці %page% немає даних.",
-    "EN": "There is no data on the %page%."
-  },
-  "COMMAND_MCTOPONLINE_NO_SERVERS": {
-    "RU": "На %date% серверов не найдено.",
-    "UA": "На %date% серверів не знайдено.",
-    "EN": "No servers found on %date%."
-  },
-  "COMMAND_MCTOPONLINE": {
-    "RU": "Топ %servers% серверов за день %date% (страница %page%)",
-    "UA": "Топ %servers% серверів за день %date% (сторінка %page%)",
-    "EN": "Top %servers% servers for day %date% (page %page%)"
-  },
-
-  // BotCommand
-
-  "COMMAND_BOT_UPTIME": {
-    "RU": "Аптайм",
-    "UA": "Аптайм",
-    "EN": "Uptime"
-  },
-  "COMMAND_BOT_USED_RAM": {
-    "RU": "Используется ОЗУ",
-    "UA": "Використовується ОЗП",
-    "EN": "RAM used"
-  },
-  "COMMAND_BOT_INFO_BOT": {
-    "RU": "Информация о боте",
-    "UA": "Інформація про бота",
-    "EN": "Bot information"
-  },
-  "COMMAND_BOT_INITIALIZED_COMMAND": {
-    "RU": "Инициализировано команд",
-    "UA": "Ініціалізовано команд",
-    "EN": "Commands initialized"
-  },
-  "COMMAND_BOT_USERS": {
-    "RU": "Всего пользователей",
-    "UA": "Усього користувачів",
-    "EN": "Total users"
-  },
-  "COMMAND_BOT_INFO_MEMORY": {
-    "RU": "Информация о памяти",
-    "UA": "Інформація про пам'ять",
-    "EN": "Memory information"
-  },
-  "COMMAND_BOT_MEGABYTE": {
-    "RU": "МБ",
-    "UA": "МБ",
-    "EN": "MB"
-  },
-  "COMMAND_BOT_FREE_RAM": {
-    "RU": "Свободно ОЗУ",
-    "UA": "Вільно ОЗП",
-    "EN": "Free RAM"
-  },
-  "COMMAND_BOT_ALLOCATED_RAM": {
-    "RU": "Выделено ОЗУ",
-    "UA": "Виділено ОЗП",
-    "EN": "Allocated RAM"
-  },
-  "COMMAND_BOT_TOTAL_RAM": {
-    "RU": "Всего ОЗУ",
-    "UA": "Усього ОЗП",
-    "EN": "Total RAM"
-  },
-
-  "COMMAND_BOT_INLINE_RESTART": {
-    "RU": "Перезагрузить бота",
-    "UA": "Перезавантажити бота",
-    "EN": "Reboot the bot"
-  },
-
-  // MCALIAS
-
-  "COMMAND_MCALIAS_INSTALLED": {
-    "RU": "✅Алиас успешно установлен.",
-    "UA": "✅Аліас успішно встановлено.",
-    "EN": "✅The alias was successfully installed."
-  },
-
-  // CommandVime
+    "COMMAND_TCP_PORT_OPENED": {
+      "RU": [
+        "✅Результат проверки (%ip%:%port%): Порт открыт",
+        "ℹПолучил ответ за: %time% мс."
+      ],
+      "EN": [
+        "✅Inspection result (%ip%:%port%): Port open",
+        "ℹGot an answer for: %time% ms."
+      ],
+      "UA": [
+        "✅Результат перевірки (%ip%:%port%): Порт закрито",
+        "ℹОтримано відповідь для: %time% мс."
+      ]
+    },
+    "COMMAND_TCP_PORT_CLOSED": {
+      "RU": "Результат проверки (%ip%:%port%): Порт закрыт",
+      "EN": "Inspection result (%ip%:%port%): Port closed",
+      "UA": "Результат перевірки (%ip%:%port%): Порт закрито"
+    },
   
-  "COMMAND_VIME": {
-    "RU": [
-      "Информация об аккаунте: %nick%",
-      "",
-      "Айди: %id%",
-      "Уровень: %level%",
-      "Ранг: %rank%",
-      "",
-      "Наиграно: %playedSeconds%",
-      "Последний вход: %lastSeen%"
-    ],
-    "UA": [
-      "Інформація про акаунт: %nick%",
-      "",
-      "Айді: %id%",
-      "Рівень: %level%",
-      "Ранг: %rank%",
-      "",
-      "Награно: %playedSeconds%",
-      "Останній вхід: %lastSeen%"
-    ],
-    "EN": [
-      "Account information: %nick%",
-      "",
-      "id: %id%",
-      "Level: %level%",
-      "Rank: %rank%",
-      "",
-      "Played: %playedSeconds%",
-      "Last Entry: %lastSeen%"
-    ]
-  },
+    // LANGCOMMAND
   
-  "COMMAND_VIME_INLINE_GUILD": {
-    "RU": "Информация о гильдии", 
-    "UA": "Інформація про гільдію",
-    "EN": "Guild information"
-  },
-
-  "COMMAND_VIME_NON_GUILD_MEMBER": {
-    "RU": "Пользователь вне гильдии, информация не доступна",
-    "UA": "Користувач поза гільдією, інформація не доступна",
-    "EN": "User out of guild, no information available"
-  },
-  "COMMAND_VIME_GUILD": {
-    "RU": [
-      "Гильдия: %guild_name%",
-      "",
-      "Айди: %guild_id%",
-      "Уровень: %guild_level%",
-      "Тег: %guild_tag%"
-    ],
-    "UA": [
-      "Гільдія: %guild_name%",
-      "",
-      "Айді: %guild_id%",
-      "Рівень: %guild_level%",
-      "Тег: %guild_tag%"
-    ],
-    "EN": [
-      "Guild: %guild_name%",
-      "",
-      "Id: %guild_id%",
-      "Level: %guild_level%",
-      "Tag: %guild_tag%"
-    ]
-  },
+    "COMMAND_LANG_CHANGED": {
+      "RU": "Язык успешно изменен на %lang% %flag%.",
+      "UA": "Мову успішно змінено на %lang% %flag%.",
+      "EN": "The language was successfully changed to %lang% %flag%."
+    },
   
-  "COMMAND_VIME_LASTSEEN_NULL": {
-    "RU": "незивестно",
-    "UA": "невідомо",
-    "EN": "unknown"
-  },
+    "COMMAND_LANG": {
+      "RU": "Ваш язык: %lang%",
+      "UA": "Ваша мова: %lang%",
+      "EN": "Your language: %lang%"
+    },
+    "COMMAND_LANG_NO_CORRECT_LANG": {
+      "RU": "Вы ввели некорректный язык",
+      "UA": "Ви ввели некоректну мову",
+      "EN": "You have entered incorrect language"
+    },
+    "COMMAND_LANG_USING": {
+      "RU": "У вас итак установлен этот язык",
+      "UA": "У вас і так встановлена ця мова",
+      "EN": "You already have this language installed"
+    },
+  
+   // IPCOMMAND
+  
+    "COMMAND_IPINFO_INFO": {
+      "RU": "Информация об IP-адресе",
+      "UA": "Інформація про IP-адресу",
+      "EN": "IP address information"
+    },
+  
+    "COMMAND_IPINFO_IP": {
+      "RU": "Айпи",
+      "UA": "Айпі",
+      "EN": "IP"
+    },
+    "COMMAND_IPINFO_PTR": {
+      "RU": "PTR",
+      "UA": "PTR",
+      "EN": "PTR"
+    },
+  
+    "COMMAND_IPINFO_LOCATION": {
+      "RU": "Локация",
+      "UA": "Локація",
+      "EN": "Location"
+    },
+  
+    "COMMAND_IPINFO_ASNAME": {
+      "RU": "ASNAME",
+      "UA": "ASNAME",
+      "EN": "ASNAME"
+    },
+  
+    "COMMAND_IPINFO_ISP": {
+      "RU": "Провайдер",
+      "UA": "Провайдер",
+      "EN": "Provider"
+    },
+  
+    "COMMAND_IPINFO_ORG": {
+      "RU": "Организация",
+      "UA": "Організація",
+      "EN": "Organization"
+    },
+  
+    "COMMAND_IPINFO_REPALCE": {
+      "RU": "Россия",
+      "UA": "Russia",
+      "EN": "Russia"
+    },
+  
+    // MCPING
+  
+    "COMMAND_MCPING_MILLIS": {
+      "RU": "мс.",
+      "UA": "мс.",
+      "EN": "ms."
+    },
+  
+    "COMMAND_MCPING_INLINE_STATS": {
+      "RU": "Статистика сервера",
+      "UA": "Статистика сервера",
+      "EN": "Server statistics"
+    },
+    "COMMAND_MCPING_INLINE_PING": {
+      "RU": "Повторный пинг",
+      "UA": "Повторний пінг",
+      "EN": "Repetitive ping"
+    },
+    "COMMAND_MCPING_INLINE_INFOIP": {
+      "RU": "ℹИнформация об IP-адресе",
+      "UA": "ℹІнформація про IP-адресу",
+      "EN": "ℹIP address information"
+    },
+    "COMMAND_MCPING_INFO": {
+      "RU": "Информация о сервере",
+      "UA": "Інформація про сервер",
+      "EN": "Server Information"
+    },
+    "COMMAND_MCPING_IP": {
+      "RU": "Айпи",
+      "UA": "Айпі",
+      "EN": "IP"
+    },
+    "COMMAND_MCPING_PING": {
+      "RU": "Пинг",
+      "UA": "Пінг",
+      "EN": "Ping"
+    },
+    "COMMAND_MCPING_BLOCKING": {
+      "RU": "Бан Mojang",
+      "UA": "Бан Mojang",
+      "EN": "Ban Mojang"
+    },
+    "COMMAND_MCPING_SERVER": {
+      "RU": "Сервер",
+      "UA": "Сервер",
+      "EN": "Server"
+    },
+    "COMMAND_MCPING_PROTOCOL": {
+      "RU": "Протокол",
+      "UA": "Протокол",
+      "EN": "Protocol"
+    },
+    "COMMAND_MCPING_ONLINE": {
+      "RU": "Онлайн",
+      "UA": "Онлайн",
+      "EN": "Online"
+    },
+  
+    // McStatsCommand
+  
+    "COMMAND_MCSTATS_ONLINE": {
+      "RU": "Текущий онлайн",
+      "UA": "Поточний онлайн",
+      "EN": "Current online"
+    },
+    "COMMAND_MCSTATS_TODAY_BEST_ONLINE": {
+      "RU": "Рекорд онлайна за день",
+      "UA": "Рекорд онлайна за день",
+      "EN": "Online record for the day"
+    },
+    "COMMAND_MCSTATS_TODAY_TOP": {
+      "RU": "Место в топе за сегодня",
+      "UA": "Місце в топі за сьогодні",
+      "EN": "Today's top spot"
+    },
+    "COMMAND_MCSTATS_CREATING_CHARTING": {
+      "RU": "Создаю график...",
+      "UA": "Створюю графік...",
+      "EN": "Creating a chart..."
+    },
+  
+    "COMMAND_MCSTATS_YESTERDAY_BEST_ONLINE": {
+      "RU": "Рекорд онлайна за прошлый день",
+      "UA": "Рекорд онлайну за минулий день",
+      "EN": "Last day's online record"
+    },
+    "COMMAND_MCSTATS_YESTERDAY_TOP": {
+      "RU": "Место в топе за прошлый день",
+      "UA": "Місце в топі за минулий день",
+      "EN": "Last day's top spot"
+    },
+    "COMMAND_MCSTATS_YESTERDAY_NO_AVAILABLE": {
+      "RU": "Статистика за вчера недоступна.",
+      "UA": "Статистика за вчорашній день недоступна.",
+      "EN": "Statistics for yesterday are not available."
+    },
+  
+    "COMMAND_MCSTATS_INLINE_PING": {
+      "RU": "ℹИнформация о сервере",
+      "UA": "ℹІнформація про сервер",
+      "EN": "ℹServer Information"
+    },
+    "COMMAND_MCSTATS_INLINE_IP": {
+      "RU": "ℹИнформация об IP-адресе",
+      "UA": "ℹІнформація про IP-адресу",
+      "EN": "ℹIP address information"
+    },
+    
+    "COMMAND_MCSTATS_NO_STATS_TODAY": {
+      "RU": "За этот день нету информации о данном сервере.",
+      "UA": "За цей день немає інформації про цей сервер.",
+      "EN": "There is no information about this server for this day."
+    },
+    "COMMAND_MCSTATS_FEW_RECORDS": {
+      "RU": "Нужно подождать 10 минут после добавления сервера",
+      "UA": "Потрібно почекати 10 хвилин після додавання сервера",
+      "EN": "You have to wait 10 minutes after adding the server"
+    },
+  
+    "COMMAND_MCSTATS_AVERAGE_ONLINE": {
+      "RU": "Средний суточный онлайн",
+      "UA": "Середній добовий онлайн",
+      "EN": "Average daily online"
+    },
+    "COMMAND_MCSTATS_TOTAL_ONLINE": {
+      "RU": "Рекорд за все время",
+      "UA": "Рекорд за весь час",
+      "EN": "All-time record"
+    },
+  
+    // UserCommand
+  
+    "COMMAND_USER_RESULT": {
+      "RU": [
+        "ℹИнформация о пользователе (%name%):",
+        "",
+        "— Статус: %status_displayName%",
+        "— Блокировка: %blocked%",
+        "— Язык: %lang%",
+        "",
+        "— Права: %permissions%",
+        "",
+        "— Сервера: %servers%"
+      ],
+      "EN": [
+        "ℹUser information (%name%):",
+        "",
+        "— Status: %status_displayName%",
+        "— Language: %lang%",
+        "— Lockout: %blocked%",
+        "",
+        "— Permissions: %permissions%",
+        "",
+        "— Servers: %servers%"
+      ],
+      "UA": [
+        "ℹІнформація про користувача (%name%):",
+        "",
+        "— Статус: %status_displayName%",
+        "— Мова: %lang%",
+        "— Блокування: %blocked%",
+        "",
+        "— Права: %permissions%",
+        "",
+        "— Сервера: %servers%"
+      ]
+    },
+  
+    // SERVERLIST 
+    
+    "COMMAND_SERVERLIST_NO_SERVERS": {
+      "RU": "У вас нету серверов.",
+      "UA": "У вас немає серверів.",
+      "EN": "You don't have servers."
+    },
+    "COMMAND_SERVERLIST_YOUR_SERVERS": {
+      "RU": "Ваши сервера",
+      "UA": "Ваші сервери",
+      "EN": "Your servers"
+    },
+  
+    // MINECRAFT TOP ONLINE
+    "COMMAND_MCTOPONLINE_DATA_NO_AVAILABLE": {
+      "RU": "Нет данных за указанный период.",
+      "UA": "Немає даних за вказаний період.",
+      "EN": "There is no data available for this period."
+    },
+    "COMMAND_MCTOPONLINE_NO_DATA": {
+      "RU": "На странице %page% нет данных.",
+      "UA": "На сторінці %page% немає даних.",
+      "EN": "There is no data on the %page%."
+    },
+    "COMMAND_MCTOPONLINE_NO_SERVERS": {
+      "RU": "На %date% серверов не найдено.",
+      "UA": "На %date% серверів не знайдено.",
+      "EN": "No servers found on %date%."
+    },
+    "COMMAND_MCTOPONLINE": {
+      "RU": "Топ %servers% серверов за день %date% (страница %page%)",
+      "UA": "Топ %servers% серверів за день %date% (сторінка %page%)",
+      "EN": "Top %servers% servers for day %date% (page %page%)"
+    },
+  
+    // BotCommand
+  
+    "COMMAND_BOT_UPTIME": {
+      "RU": "Аптайм",
+      "UA": "Аптайм",
+      "EN": "Uptime"
+    },
+    "COMMAND_BOT_USED_RAM": {
+      "RU": "Используется ОЗУ",
+      "UA": "Використовується ОЗП",
+      "EN": "RAM used"
+    },
+    "COMMAND_BOT_INFO_BOT": {
+      "RU": "Информация о боте",
+      "UA": "Інформація про бота",
+      "EN": "Bot information"
+    },
+    "COMMAND_BOT_INITIALIZED_COMMAND": {
+      "RU": "Инициализировано команд",
+      "UA": "Ініціалізовано команд",
+      "EN": "Commands initialized"
+    },
+    "COMMAND_BOT_USERS": {
+      "RU": "Всего пользователей",
+      "UA": "Усього користувачів",
+      "EN": "Total users"
+    },
+    "COMMAND_BOT_INFO_MEMORY": {
+      "RU": "Информация о памяти",
+      "UA": "Інформація про пам'ять",
+      "EN": "Memory information"
+    },
+    "COMMAND_BOT_MEGABYTE": {
+      "RU": "МБ",
+      "UA": "МБ",
+      "EN": "MB"
+    },
+    "COMMAND_BOT_FREE_RAM": {
+      "RU": "Свободно ОЗУ",
+      "UA": "Вільно ОЗП",
+      "EN": "Free RAM"
+    },
+    "COMMAND_BOT_ALLOCATED_RAM": {
+      "RU": "Выделено ОЗУ",
+      "UA": "Виділено ОЗП",
+      "EN": "Allocated RAM"
+    },
+    "COMMAND_BOT_TOTAL_RAM": {
+      "RU": "Всего ОЗУ",
+      "UA": "Усього ОЗП",
+      "EN": "Total RAM"
+    },
+  
+    "COMMAND_BOT_INLINE_RESTART": {
+      "RU": "Перезагрузить бота",
+      "UA": "Перезавантажити бота",
+      "EN": "Reboot the bot"
+    },
+  
+    // MCALIAS
+  
+    "COMMAND_MCALIAS_INSTALLED": {
+      "RU": "Алиас успешно установлен.",
+      "UA": "Аліас успішно встановлено.",
+      "EN": "The alias was successfully installed."
+    },
+  
+    // CommandVime
+    
+    "COMMAND_VIME": {
+      "RU": [
+        "Информация об аккаунте: %nick%",
+        "",
+        "Айди: %id%",
+        "Уровень: %level%",
+        "Ранг: %rank%",
+        "",
+        "Наиграно: %playedSeconds%",
+        "Последний вход: %lastSeen%"
+      ],
+      "UA": [
+        "Інформація про акаунт: %nick%",
+        "",
+        "Айді: %id%",
+        "Рівень: %level%",
+        "Ранг: %rank%",
+        "",
+        "Награно: %playedSeconds%",
+        "Останній вхід: %lastSeen%"
+      ],
+      "EN": [
+        "Account information: %nick%",
+        "",
+        "id: %id%",
+        "Level: %level%",
+        "Rank: %rank%",
+        "",
+        "Played: %playedSeconds%",
+        "Last Entry: %lastSeen%"
+      ]
+    },
+    
+    "COMMAND_VIME_INLINE_GUILD": {
+      "RU": "Информация о гильдии", 
+      "UA": "Інформація про гільдію",
+      "EN": "Guild information"
+    },
+  
+    "COMMAND_VIME_NON_GUILD_MEMBER": {
+      "RU": "Пользователь вне гильдии, информация не доступна",
+      "UA": "Користувач поза гільдією, інформація не доступна",
+      "EN": "User out of guild, no information available"
+    },
+    "COMMAND_VIME_GUILD": {
+      "RU": [
+        "Гильдия: %guild_name%",
+        "",
+        "Айди: %guild_id%",
+        "Уровень: %guild_level%",
+        "Тег: %guild_tag%"
+      ],
+      "UA": [
+        "Гільдія: %guild_name%",
+        "",
+        "Айді: %guild_id%",
+        "Рівень: %guild_level%",
+        "Тег: %guild_tag%"
+      ],
+      "EN": [
+        "Guild: %guild_name%",
+        "",
+        "Id: %guild_id%",
+        "Level: %guild_level%",
+        "Tag: %guild_tag%"
+      ]
+    },
+    
+    "COMMAND_VIME_LASTSEEN_NULL": {
+      "RU": "незивестно",
+      "UA": "невідомо",
+      "EN": "unknown"
+    },
+  
+    "COMMAND_VIME_RANK_PLAYER": {
+      "RU": "Игрок",
+      "EN": "Player",
+      "UA": "Гравець"
+    },
+    "COMMAND_VIME_RANK_VIP": {
+      "RU": "VIP",
+      "EN": "VIP",
+      "UA": "VIP"
+    },
+    "COMMAND_VIME_RANK_PREMIUM": {
+      "RU": "PREMIUM",
+      "EN": "PREMIUM",
+      "UA": "PREMIUM"
+    },
+    "COMMAND_VIME_RANK_HOLY": {
+      "RU": "HOLY",
+      "EN": "HOLY",
+      "UA": "HOLY"
+    },
+    "COMMAND_VIME_RANK_IMMORTAL": {
+      "RU": "IMMORTAL",
+      "EN": "IMMORTAL",
+      "UA": "IMMORTAL"
+    },
+    "COMMAND_VIME_RANK_BUILDER": {
+      "RU": "Билдер",
+      "EN": "Builder",
+      "UA": "Білдер"
+    },
+    "COMMAND_VIME_RANK_SRBUILDER": {
+      "RU": "Проверенный билдер",
+      "EN": "Verifed Builder",
+      "UA": "Перевірений білдер"
+    },
+    "COMMAND_VIME_RANK_MAPLEAD": {
+      "RU": "Главный билдер",
+      "EN": "Head Builder",
+      "UA": "Головний білдер"
+    },
+    "COMMAND_VIME_RANK_YOUTUBE": {
+      "RU": "YouTube",
+      "EN": "YouTube",
+      "UA": "YouTube"
+    },
+    "COMMAND_VIME_RANK_DEV": {
+      "RU": "Разработчик",
+      "EN": "Developer",
+      "UA": "Розробник"
+    },
+    "COMMAND_VIME_RANK_ORGANIZER": {
+      "RU": "Организатор",
+      "EN": "Organizer",
+      "UA": "Організатор"
+    },
+    "COMMAND_VIME_RANK_HELPER": {
+      "RU": "Хелпер",
+      "EN": "Helper",
+      "UA": "Хелпер"
+    },
+    "COMMAND_VIME_RANK_MODER": {
+      "RU": "Модератор",
+      "EN": "Модератор",
+      "UA": "Модератор"
+    },
+    "COMMAND_VIME_RANK_WARDEN": {
+      "RU": "Проверенный модератор",
+      "EN": "Verifed Moderator",
+      "UA": "Перевірений модератор"
+    },
+    "COMMAND_VIME_RANK_CHIEF": {
+      "RU": "Главный модератор",
+      "EN": "Head Moderator",
+      "UA": ""
+    },
+    "COMMAND_VIME_RANK_ADMIN": {
+      "RU": "Главный админ",
+      "EN": "Head Admin",
+      "UA": "Головний адмін"
+    },
+    "COMMAND_VIME_RANK_NULL": {
+      "RU": "Неизвестная привилегия",
+      "EN": "Unknown privilege",
+      "UA": "Невідомий привілей"
+    },
+  
+    // HelpCommand (Список команд)
 
-  "COMMAND_VIME_RANK_PLAYER": {
-    "RU": "Игрок",
-    "EN": "Player",
-    "UA": "Гравець"
-  },
-  "COMMAND_VIME_RANK_VIP": {
-    "RU": "VIP",
-    "EN": "VIP",
-    "UA": "VIP"
-  },
-  "COMMAND_VIME_RANK_PREMIUM": {
-    "RU": "PREMIUM",
-    "EN": "PREMIUM",
-    "UA": "PREMIUM"
-  },
-  "COMMAND_VIME_RANK_HOLY": {
-    "RU": "HOLY",
-    "EN": "HOLY",
-    "UA": "HOLY"
-  },
-  "COMMAND_VIME_RANK_IMMORTAL": {
-    "RU": "IMMORTAL",
-    "EN": "IMMORTAL",
-    "UA": "IMMORTAL"
-  },
-  "COMMAND_VIME_RANK_BUILDER": {
-    "RU": "Билдер",
-    "EN": "Builder",
-    "UA": "Білдер"
-  },
-  "COMMAND_VIME_RANK_SRBUILDER": {
-    "RU": "Проверенный билдер",
-    "EN": "Verifed Builder",
-    "UA": "Перевірений білдер"
-  },
-  "COMMAND_VIME_RANK_MAPLEAD": {
-    "RU": "Главный билдер",
-    "EN": "Head Builder",
-    "UA": "Головний білдер"
-  },
-  "COMMAND_VIME_RANK_YOUTUBE": {
-    "RU": "YouTube",
-    "EN": "YouTube",
-    "UA": "YouTube"
-  },
-  "COMMAND_VIME_RANK_DEV": {
-    "RU": "Разработчик",
-    "EN": "Developer",
-    "UA": "Розробник"
-  },
-  "COMMAND_VIME_RANK_ORGANIZER": {
-    "RU": "Организатор",
-    "EN": "Organizer",
-    "UA": "Організатор"
-  },
-  "COMMAND_VIME_RANK_HELPER": {
-    "RU": "Хелпер",
-    "EN": "Helper",
-    "UA": "Хелпер"
-  },
-  "COMMAND_VIME_RANK_MODER": {
-    "RU": "Модератор",
-    "EN": "Модератор",
-    "UA": "Модератор"
-  },
-  "COMMAND_VIME_RANK_WARDEN": {
-    "RU": "Проверенный модератор",
-    "EN": "Verifed Moderator",
-    "UA": "Перевірений модератор"
-  },
-  "COMMAND_VIME_RANK_CHIEF": {
-    "RU": "Главный модератор",
-    "EN": "Head Moderator",
-    "UA": ""
-  },
-  "COMMAND_VIME_RANK_ADMIN": {
-    "RU": "Главный админ",
-    "EN": "Head Admin",
-    "UA": "Головний адмін"
-  },
-  "COMMAND_VIME_RANK_NULL": {
-    "RU": "Неизвестная привилегия",
-    "EN": "Unknown privilege",
-    "UA": "Невідомий привілей"
-  },
+    "COMMAND_HELP": {
+        "RU": "Команды бота",
+        "UA": "Команди бота",
+        "EN": "Commands bot"
+    },
+    
+    "COMMAND_HELP_INLINE_ALIASES": {
+      "RU": "Алиасы команд",
+      "UA": "Аліаси команд", 
+      "EN": "Command aliases"
+    },
+  
+    "COMMAND_UNKNOWN": {
+      "RU": "Неизвестная команда",
+      "UA": "Невідома команда",
+      "EN": "Unknown command"
+    },
 
-  // HelpCommand
+    // AliasesCommand (Алиасы)
 
-  "UNKNOWN_COMMAND": {
-    "RU": "Неизвестная команда",
-    "UA": "Невідома команда",
-    "EN": "Unknown command"
-  }
+    "COMMAND_ALIASES": {
+      "RU": "Алиасы для команд",
+      "UA": "Аліаси для команд",
+      "EN": "Command aliases"
+    },
+    
+    // =================================
+    //
+    //         Описания для команд
+    //
+    // =================================
+    
+    "COMMAND_BOT_DESCRIPTION": {
+      "RU": "Информация о боте",
+      "UA": "Інформація про бота",
+      "EN": "Bot information"
+    },
+    "COMMAND_HELP_DESCRIPTION": {
+      "RU": "Список команд бота",
+      "UA": "Список команд бота",
+      "EN": "List of bot commands"
+    },
+    "COMMAND_ID_DESCRIPTION": {
+      "RU": "Айди страницы ВКонтакте",
+      "UA": "Айді сторінки ВКонтакте",
+      "EN": "VKontakte page id"
+    },
+    "COMMAND_IP_DESCRIPTION": {
+      "RU": "Информация об IP",
+      "UA": "Інформація про IP", 
+      "EN": "IP information"
+    },
+    "COMMAND_LANG_DESCRIPTION": {
+      "RU": "Смена языка",
+      "UA": "Зміна мови", 
+      "EN": "Language change"
+    },
+    "COMMAND_MCADDSERVER_DESCRIPTION": {
+      "RU": "Добавить сервер Minecraft",
+      "UA": "Додати сервер Minecraft", 
+      "EN": "Add a Minecraft server"
+    },
+    "COMMAND_MCALIAS_DESCRIPTION": {
+      "RU": "Установка алиаса для сервера Minecraft",
+      "UA": "Встановлення аліаса для сервера Minecraft", 
+      "EN": "Setting an alias for the Minecraft server"
+    },
+    "COMMAND_MCGRAPH_DESCRIPTION": {
+      "RU": "Настройка графика Minecraft",
+      "UA": "Налаштування графіки Minecraft", 
+      "EN": "Minecraft Graphics Customization"
+    },
+    "COMMAND_MCSTATS_DESCRIPTION": {
+      "RU": "Статистика сервера Minecraft",
+      "UA": "Статистика сервера Minecraft", 
+      "EN": "Minecraft server statistics"
+    },
+    "COMMAND_MCPING_DESCRIPTION": {
+      "RU": "Пингануть сервер Minecraft",
+      "UA": "Пінганути сервер Minecraft", 
+      "EN": "Ping the Minecraft server"
+    },
+    "COMMAND_MCSERVERLIST_DESCRIPTION": {
+      "RU": "Список ваших серверов Minecraft",
+      "UA": "Список ваших серверів Minecraft", 
+      "EN": "List of your Minecraft servers"
+    },
+    "COMMAND_MCTOPSERVER_DESCRIPTION": {
+      "RU": "Топ серверов Minecraft",
+      "UA": "Топ серверів Minecraft", 
+      "EN": "Top Minecraft Servers"
+    },
+    "COMMAND_TCP_DESCRIPTION": {
+      "RU": "Проверить IP по TCP протоколу",
+      "UA": "Перевірити IP за TCP протоколом",
+      "EN": "Check IP by TCP protocol"
+    },
+    "COMMAND_VIME_DESCRIPTION": {
+      "RU": "Информация о аккаунте VimeWorld",
+      "UA": "Інформація про акаунт VimeWorld",
+      "EN": "VimeWorld account information"
+    }
 }
