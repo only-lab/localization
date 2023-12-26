@@ -110,9 +110,9 @@
     // MCPING
 
     "COMMAND_MCPING_PINGING": {
-        "RU": "Пингую %server%...",
-        "UA": "Пінгую %server%...",
-        "EN": "Pinging %server%..."
+        "RU": "Пингую %server% %alias%",
+        "UA": "Пінгую %server% %alias%",
+        "EN": "Pinging %server% %alias%"
     },
   
     "COMMAND_MCPING_MILLIS": {
