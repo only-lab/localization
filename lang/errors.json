@@ -1,13 +1,13 @@
 {
   "ERROR_NOT_FOUND_IP": {
-    "RU": "⛔В вашем сообщении не было найдено IP-адреса/домена.",
-    "UA": "⛔У вашому повідомленні не було знайдено IP-адреси/домену.",
-    "EN": "⛔No IP address/domain was found in your message."
+    "RU": "В вашем сообщении не было найдено IP-адреса/домена.",
+    "UA": "У вашому повідомленні не було знайдено IP-адреси/домену.",
+    "EN": "No IP address/domain was found in your message."
   },
   "ERROR_SERVER_NOFOUND": {
-    "RU": "⛔Сервер не найден.",
-    "UA": "⛔Сервер не знайдено.",
-    "EN": "⛔Server not found."
+    "RU": "Сервер не найден.",
+    "UA": "Сервер не знайдено.",
+    "EN": "Server not found."
   },
   "ERROR_SERVER_OFFLINE": {
     "RU": "⚠Сервер оффлайн.",
@@ -15,26 +15,26 @@
     "EN": "⚠Server offline."
   },
   "ERROR_CHANGE_ALREADY_USE": {
-    "RU": "⚠У этого сервера итак установлен этот алиас.",
+    "RU": "У этого сервера итак установлен этот алиас.",
     "UA": "⚠У цього сервера отже встановлено цей аліас.",
     "EN": "⚠This server already has that alias set."
   },
   "ERROR_GETINFO": {
-    "RU": "⚠Не удалось получить информацию об IP-адресе.",
-    "UA": "⚠Не вдалося отримати інформацію про IP-адресу.",
-    "EN": "⚠Failed to retrieve IP address information."
+    "RU": "Не удалось получить информацию об IP-адресе.",
+    "UA": "Не вдалося отримати інформацію про IP-адресу.",
+    "EN": "Failed to retrieve IP address information."
   },
   "ERROR_SERVER_EXISTS": {
-    "RU": "⚠Сервер был добавлен другим пользователем!",
-    "UA": "⚠Сервер був доданий іншим користувачем!",
-    "EN": "⚠The server was added by another user!"
+    "RU": "Этот сервер был добавлен другим пользователем!",
+    "UA": "Этот сервер був доданий іншим користувачем!",
+    "EN": "This server was added by another user!"
   },
   "ERROR_ONLY_PM_GROUP": {
     "RU": "Данная команда доступна только в лс сообщества!",
     "UA": "Ця команда доступна тільки в лс спільноти!",
     "EN": "This command is only available in the community hp!"
   },
-    "COMMAND_VIME_PLAYER_NOT_REGISTRED": {
+  "COMMAND_VIME_PLAYER_NOT_REGISTRED": {
     "RU": "Не удалось получить информацию об игроке, возможно он не зарегистрирован",
     "UA": "Не вдалося отримати інформацію про гравця, можливо він не зареєстрований",
     "EN": "Could not get information about the player, maybe he is not registered"
