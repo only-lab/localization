@@ -383,6 +383,18 @@
       "UA": "Аліас успішно встановлено.",
       "EN": "The alias was successfully installed."
     },
+
+    "COMMAND_MCALIAS_ALIAS_EXISTS": {
+      "RU": "Данный алиас занят другим сервером! %server%",
+      "UA": "Цей аліас зайнятий іншим сервером! %server%",
+      "EN": "This alias is occupied by another server! %server%"
+    },
+    
+    "COMMAND_MCALIAS_CHANGE_NOTHING": {
+      "RU": "Для этого сервера итак установлен этот алиас!",
+      "UA": "Для цього сервера отже встановлено цей аліас!",
+      "EN": "This alias is already set for this server!"
+    },
   
     // CommandVime
     
