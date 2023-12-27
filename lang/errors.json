@@ -43,5 +43,10 @@
     "RU": "Не удалось получить информацию, походу API упало",
     "UA": "Не вдалося отримати інформацію, схоже, API впало",
     "EN": "Couldn't get the information, looks like the API is down."
+  },
+  "ERROR_ALIAS_TAKEN_ANOTHER_SERVER": {
+    "RU": "Данный алиас занят другим сервером",
+    "UA": "Цей аліас зайнятий іншим сервером",
+    "EN": "This alias is occupied by another server"
   }
 }
