@@ -395,6 +395,20 @@
         "UA": "Додати сервер",
         "EN": "Add server"
     },
+
+    // MCADD
+
+    "COMMAND_MCALIAS_SERVER_EXISTS": {
+        "RU": "Сервер уже добавлен.",
+        "UA": "Сервер уже додано.",
+        "EN": "The server has already been added."
+    },
+
+    "COMMAND_MCADD_ADDED_SERVER": {
+        "RU": "Сервер успешно добавлен!",
+        "UA": "Сервер успішно додано!",
+        "Server successfully added!"
+    },
     
     // CommandVime
     
@@ -628,7 +642,7 @@
       "UA": "Зміна мови", 
       "EN": "Language change"
     },
-    "COMMAND_MCADDSERVER_DESCRIPTION": {
+    "COMMAND_MCADD_DESCRIPTION": {
       "RU": "Добавить сервер Minecraft",
       "UA": "Додати сервер Minecraft", 
       "EN": "Add a Minecraft server"
