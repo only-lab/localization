@@ -407,7 +407,7 @@
     "COMMAND_MCADD_ADDED_SERVER": {
         "RU": "Сервер успешно добавлен!",
         "UA": "Сервер успішно додано!",
-        "Server successfully added!"
+        "EN": "Server successfully added!"
     },
     
     // CommandVime
