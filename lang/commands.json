@@ -398,7 +398,7 @@
 
     // MCADD
 
-    "COMMAND_MCALIAS_SERVER_EXISTS": {
+    "COMMAND_MCADD_SERVER_EXISTS": {
         "RU": "Сервер уже добавлен.",
         "UA": "Сервер уже додано.",
         "EN": "The server has already been added."
