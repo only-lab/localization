@@ -132,14 +132,9 @@
       "EN": "Repetitive ping"
     },
     "COMMAND_MCPING_INLINE_INFOIP": {
-      "RU": "ℹИнформация об IP-адресе",
-      "UA": "ℹІнформація про IP-адресу",
-      "EN": "ℹIP address information"
-    },
-    "COMMAND_MCPING_INFO": {
-      "RU": "Информация о сервере",
-      "UA": "Інформація про сервер",
-      "EN": "Server Information"
+      "RU": "Информация об IP-адресе",
+      "UA": "Інформація про IP-адресу",
+      "EN": "IP address information"
     },
     "COMMAND_MCPING_IP": {
       "RU": "Айпи",
