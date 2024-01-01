@@ -289,6 +289,14 @@
       "UA": "Ваші сервери",
       "EN": "Your servers"
     },
+
+    // IdCommand
+
+    "COMMAND_ID": {
+      "RU": "Айди пользователя",
+      "UA": "Айді користувача",
+      "EN": "User ID"
+    },
   
     // MINECRAFT TOP ONLINE
     "COMMAND_MCTOPONLINE_DATA_NO_AVAILABLE": {
