@@ -289,9 +289,9 @@
       "EN": "No servers found on %date%."
     },
     "COMMAND_MCTOP": {
-      "RU": "Топ %servers% за последние сутки",
-      "UA": "Топ %servers% за останню добу",
-      "EN": "Top %servers% for the last 24 hours"
+      "RU": "Топ %servers% серверов, за последние сутки",
+      "UA": "Топ %servers% серверів, за останню добу",
+      "EN": "Top %servers% servers, for the last 24 hours"
     },
   
     // BotCommand
