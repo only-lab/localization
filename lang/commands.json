@@ -185,9 +185,9 @@
       "EN": "Today's top spot"
     },
     "COMMAND_MCSTATS_CREATING_CHARTING": {
-      "RU": "Создаю график...",
-      "UA": "Створюю графік...",
-      "EN": "Creating a chart..."
+      "RU": "Идет создание графика..",
+      "UA": "Триває створення графіка...",
+      "EN": "The graph is being created..."
     },
   
     "COMMAND_MCSTATS_YESTERDAY_BEST_ONLINE": {
