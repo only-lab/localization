@@ -283,25 +283,15 @@
     },
   
     // MINECRAFT TOP ONLINE
-    "COMMAND_MCTOPONLINE_DATA_NO_AVAILABLE": {
-      "RU": "Нет данных за указанный период.",
-      "UA": "Немає даних за вказаний період.",
-      "EN": "There is no data available for this period."
-    },
-    "COMMAND_MCTOPONLINE_NO_DATA": {
-      "RU": "На странице %page% нет данных.",
-      "UA": "На сторінці %page% немає даних.",
-      "EN": "There is no data on the %page%."
-    },
-    "COMMAND_MCTOPONLINE_NO_SERVERS": {
-      "RU": "На %date% серверов не найдено.",
-      "UA": "На %date% серверів не знайдено.",
+    "COMMAND_MCTOP_NO_SERVERS": {
+      "RU": "За этот день нету серверов",
+      "UA": "За цей день немає серверів",
       "EN": "No servers found on %date%."
     },
-    "COMMAND_MCTOPONLINE": {
-      "RU": "Топ %servers% серверов за день %date% (страница %page%)",
-      "UA": "Топ %servers% серверів за день %date% (сторінка %page%)",
-      "EN": "Top %servers% servers for day %date% (page %page%)"
+    "COMMAND_MCTOP": {
+      "RU": "Топ %servers% за последние сутки",
+      "UA": "Топ %servers% за останню добу",
+      "EN": "Top %servers% for the last 24 hours"
     },
   
     // BotCommand
