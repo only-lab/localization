@@ -175,8 +175,8 @@
       "EN": "Current online"
     },
     "COMMAND_MCSTATS_TODAY_BEST_ONLINE": {
-      "RU": "Рекорд онлайна за день",
-      "UA": "Рекорд онлайна за день",
+      "RU": "Рекорд онлайна за сутки",
+      "UA": "Рекорд онлайну за добу",
       "EN": "Online record for the day"
     },
     "COMMAND_MCSTATS_TODAY_TOP": {
@@ -188,22 +188,6 @@
       "RU": "Идет создание графика..",
       "UA": "Триває створення графіка...",
       "EN": "The graph is being created..."
-    },
-  
-    "COMMAND_MCSTATS_YESTERDAY_BEST_ONLINE": {
-      "RU": "Рекорд онлайна за прошлый день",
-      "UA": "Рекорд онлайну за минулий день",
-      "EN": "Last day's online record"
-    },
-    "COMMAND_MCSTATS_YESTERDAY_TOP": {
-      "RU": "Место в топе за прошлый день",
-      "UA": "Місце в топі за минулий день",
-      "EN": "Last day's top spot"
-    },
-    "COMMAND_MCSTATS_YESTERDAY_NO_AVAILABLE": {
-      "RU": "Статистика за вчера недоступна.",
-      "UA": "Статистика за вчорашній день недоступна.",
-      "EN": "Statistics for yesterday are not available."
     },
   
     "COMMAND_MCSTATS_INLINE_PING": {
@@ -218,8 +202,8 @@
     },
     
     "COMMAND_MCSTATS_NO_STATS_TODAY": {
-      "RU": "За этот день нету информации о данном сервере.",
-      "UA": "За цей день немає інформації про цей сервер.",
+      "RU": "За эти сутки нету информации о данном сервере.",
+      "UA": "За цю добу немає інформації про цей сервер.",
       "EN": "There is no information about this server for this day."
     },
     "COMMAND_MCSTATS_FEW_RECORDS": {
