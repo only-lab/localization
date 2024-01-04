@@ -399,7 +399,7 @@
           "ID сервера: %id%",
           "Алиас: %alias%",
           "Владелец: %owner%",
-          "Создан: %created_date%",
+          "Создан: %created_at%",
           "Хекс: %hex%"
       ],
       "UA": [
@@ -408,7 +408,7 @@
           "ID сервера: %id%",
           "Аліас: %alias%",
           "Власник: %owner%",
-          "Створено: %created_date%",
+          "Створено: %created_at%",
           "Хекс: %hex%"
       ],
       "EN": [
@@ -417,7 +417,7 @@
           "Server ID: %id%",
           "Alias: %alias%",
           "Owner: %owner%",
-          "Created: %created_date%",
+          "Created: %created_at%",
           "Hex: %hex%."
       ]
     },
