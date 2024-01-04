@@ -391,6 +391,42 @@
         "UA": "Сервер успішно додано!",
         "EN": "Server successfully added!"
     },
+
+    "COMMAND_MCA": {
+        "RU": [
+          "Информация о сервере: %ipAddress%",
+          "",
+          "ID сервера: %id%",
+          "Алиас: %alias%",
+          "Владелец: %owner%",
+          "Создан: %created_date",
+          "Хекс: %hex%"
+      ],
+      "UA": [
+          "Інформація про сервер: %ipAddress%",
+          "",
+          "ID сервера: %id%",
+          "Аліас: %alias%",
+          "Власник: %owner%",
+          "Створено: %created_date",
+          "Хекс: %hex%"
+      ],
+      "EN": [
+          "Server info: %ipAddress%",
+          "",
+          "Server ID: %id%",
+          "Alias: %alias%",
+          "Owner: %owner%",
+          "Created: %created_date",
+          "Hex: %hex%."
+      ]
+    },
+
+    "COMMAND_MCA_INLINE_INFO": {
+        "RU": "Информация о владельце",
+        "UA": "Інформація про власника",
+        "EN": "Owner information"
+    },
     
     // CommandVime
     
