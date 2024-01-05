@@ -20,6 +20,12 @@
     "EN": "h."
   },
 
+  "NO_PERMISSION": {
+    "RU": "Вам не хватает прав доступа для использования этой команды. Вам необходимо иметь право: %permission%",
+    "UA": "Вам не вистачає прав доступу для використання цієї команди. Вам необхідно мати право: %permission%",
+    "EN": "You do not have enough permissions to use this command. You need to have the following permission: %permission%"
+  },
+
   "COOLDOWN_COMMAND": {
     "RU": "Подождите %time% прежде чем использовать команду.",
     "UA": "Зачекайте %time% перш ніж використовувати команду.",
