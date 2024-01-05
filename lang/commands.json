@@ -705,5 +705,10 @@
       "RU": "Информация об аккаунте VimeWorld",
       "UA": "Інформація про акаунт VimeWorld",
       "EN": "VimeWorld account information"
+    },
+    "COMMAND_CAT_DESCRIPTION": {
+      "RU": "Картинки с кошками",
+      "UA": "Картинки з кішками",
+      "EN": "Pictures of cats"
     }
 }
