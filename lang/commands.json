@@ -1,5 +1,4 @@
 {
-
     // =================================
     //
     //      Локализация для команд
@@ -7,31 +6,33 @@
     // =================================
 
     // TCPCOMMAND
-  
-    "COMMAND_TCP_INLINE_IP": {
-      "RU": "ℹИнформация об IP-адресе",
-      "UA": "ℹІнформація про IP-адресу",
-      "EN": "ℹIP address information"
+    
+    "COMMAND_TCP_RESULT": {
+      "RU": "Результат проверки",
+      "UA": "Результат перевірки",
+      "EN": "Inspection result"
     },
-  
+    "COMMAND_TCP_RESULT_RECEIVED": {
+      "RU": "Результат получен за",
+      "UA": "Результат отримано за",
+      "EN": "The result was obtained in"
+    },
+    
     "COMMAND_TCP_PORT_OPENED": {
-      "RU": [
-        "✅Результат проверки (%ip%:%port%): Порт открыт",
-        "ℹПолучил ответ за: %time% мс."
-      ],
-      "EN": [
-        "✅Inspection result (%ip%:%port%): Port open",
-        "ℹGot an answer for: %time% ms."
-      ],
-      "UA": [
-        "✅Результат перевірки (%ip%:%port%): Порт закрито",
-        "ℹОтримано відповідь для: %time% мс."
-      ]
+      "RU": "Порт открыт",
+      "UA": "Порт відкрито",
+      "EN": "Port opened"
     },
     "COMMAND_TCP_PORT_CLOSED": {
-      "RU": "Результат проверки (%ip%:%port%): Порт закрыт",
-      "EN": "Inspection result (%ip%:%port%): Port closed",
-      "UA": "Результат перевірки (%ip%:%port%): Порт закрито"
+      "RU": "Порт закрыт",
+      "UA": "Порт закрито",
+      "EN": "Port closed"
+    },
+  
+    "COMMAND_TCP_INLINE_IP": {
+      "RU": "Информация об IP-адресе",
+      "UA": "Інформація про IP-адресу",
+      "EN": "IP address information"
     },
   
     // LANGCOMMAND
