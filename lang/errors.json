@@ -34,6 +34,11 @@
     "UA": "Ця команда доступна тільки в лс спільноти!",
     "EN": "This command is only available in the community hp!"
   },
+  "ERROR_ONLY_INTERVIEW": {
+    "RU": "Данная команда доступна только в лс сообщества!",
+    "UA": "Ця команда доступна тільки в лс спільноти!",
+    "EN": "This command is only available in the community hp!"
+  },
   "COMMAND_VIME_PLAYER_NOT_REGISTRED": {
     "RU": "Не удалось получить информацию об игроке, возможно он не зарегистрирован",
     "UA": "Не вдалося отримати інформацію про гравця, можливо він не зареєстрований",
