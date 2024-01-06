@@ -10,14 +10,14 @@
     "EN": "Server not found."
   },
   "ERROR_SERVER_OFFLINE": {
-    "RU": "⚠Сервер оффлайн.",
-    "UA": "⚠Сервер оффлайн.",
-    "EN": "⚠Server offline."
+    "RU": "Сервер оффлайн.",
+    "UA": "Сервер оффлайн.",
+    "EN": "Server offline."
   },
   "ERROR_CHANGE_ALREADY_USE": {
     "RU": "У этого сервера итак установлен этот алиас.",
-    "UA": "⚠У цього сервера отже встановлено цей аліас.",
-    "EN": "⚠This server already has that alias set."
+    "UA": "У цього сервера отже встановлено цей аліас.",
+    "EN": "This server already has that alias set."
   },
   "ERROR_GETINFO": {
     "RU": "Не удалось получить информацию об IP-адресе.",
