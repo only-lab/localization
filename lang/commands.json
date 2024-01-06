@@ -302,6 +302,11 @@
       "UA": "Аптайм",
       "EN": "Uptime"
     },
+    "COMMAND_BOT_CORE_VERSION": {
+      "RU": "Версия координатора",
+      "UA": "Версія координатора",
+      "EN": "Coordinator's version"
+    },
     "COMMAND_BOT_USED_RAM": {
       "RU": "Используется ОЗУ",
       "UA": "Використовується ОЗП",
