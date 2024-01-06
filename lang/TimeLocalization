@@ -1,0 +1,102 @@
+{
+  "year": {
+    "RU": "год",
+    "UA": "рік",
+    "EN": "year"
+  },
+  "day": {
+    "RU": "день",
+    "UA": "день",
+    "EN": "day"
+  },
+  "hour": {
+    "RU": "час",
+    "UA": "година",
+    "EN": "hour"
+  },
+  "minute": {
+    "RU": "минута",
+    "UA": "хвилина",
+    "EN": "minute"
+  },
+  "second": {
+    "RU": "секунда",
+    "UA": "секунда",
+    "EN": "second"
+  },
+  "years": {
+    "RU": "год",
+    "UA": "рік",
+    "EN": "years"
+  },
+  "days": {
+    "RU": "день",
+    "UA": "день",
+    "EN": "day"
+  },
+  "hours": {
+    "RU": "час",
+    "UA": "година",
+    "EN": "hours"
+  },
+  "minutes": {
+    "RU": "минута",
+    "UA": "хвилина",
+    "EN": "minutes"
+  },
+  "seconds": {
+    "RU": "секунда",
+    "UA": "секунда",
+    "EN": "second"
+  },
+  "year_plural": {
+    "RU": "года",
+    "UA": "роки",
+    "EN": "years"
+  },
+  "day_plural": {
+    "RU": "дня",
+    "UA": "дні",
+    "EN": "days"
+  },
+  "hour_plural": {
+    "RU": "часа",
+    "UA": "години",
+    "EN": "hours"
+  },
+  "minute_plural": {
+    "RU": "минуты",
+    "UA": "хвилини",
+    "EN": "minutes"
+  },
+  "second_plural": {
+    "RU": "секунды",
+    "UA": "секунди",
+    "EN": "seconds"
+  },
+  "years_plural": {
+    "RU": "лет",
+    "UA": "років",
+    "EN": "years"
+  },
+  "days_plural": {
+    "RU": "дней",
+    "UA": "днів",
+    "EN": "days"
+  },
+  "hours_plural": {
+    "RU": "часов",
+    "UA": "годин",
+    "EN": "hours"
+  },
+  "minutes_plural": {
+    "RU": "минут",
+    "UA": "хвилин",
+    "EN": "minutes"
+  },
+  "seconds_plural": {
+    "RU": "секунд",
+    "UA": "секунд",
+    "EN": "seconds"
+  }
+}
