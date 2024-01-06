@@ -1,4 +1,29 @@
 {
+
+  // OLD TIME FORMAT
+  "TIME_SECONDS": {
+    "RU": "сек.",
+    "UA": "сек.",
+    "EN": "sec."
+  },
+  "TIME_MINUTES": {
+    "RU": "мин.",
+    "UA": "хв.",
+    "EN": "min."
+  },
+  "TIME_DAYS": {
+    "RU": "дн.",
+    "UA": "дн.",
+    "EN": "d."
+  },
+  "TIME_HOURS": {
+    "RU": "ч.",
+    "UA": "ч.",
+    "EN": "h."
+  },
+
+   // NEW TIME FORMAT
+  
   "year": {
     "RU": "год",
     "UA": "рік",
