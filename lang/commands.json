@@ -710,5 +710,20 @@
       "RU": "Картинки с кошками",
       "UA": "Картинки з кішками",
       "EN": "Pictures of cats"
+    },
+    "COMMAND_FOX_DESCRIPTION": {
+      "RU": "Картинки с лисами",
+      "UA": "Картинки з лисицями",
+      "EN": "Pictures of foxes"
+    },
+   "COMMAND_DOG_DESCRIPTION": {
+      "RU": "Картинки с собаками",
+      "UA": "Картинки з собаками",
+      "EN": "Pictures of dogs"
+    },
+    "COMMAND_FERRET_DESCRIPTION": {
+      "RU": "Картинки с хорьками",
+      "UA": "Картинки з тхорами",
+      "EN": "Pictures of ferrets"
     }
 }
