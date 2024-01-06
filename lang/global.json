@@ -26,6 +26,12 @@
     "EN": "You do not have enough permissions to use this command. You need to have the following permission: %permission%"
   },
 
+  "LOADING": {
+    "RU": "Загрузка...",
+    "UA": "Завантаження...",
+    "EN": "Loading..."
+  },
+
   "COOLDOWN_COMMAND": {
     "RU": "Подождите %time% прежде чем использовать команду.",
     "UA": "Зачекайте %time% перш ніж використовувати команду.",
