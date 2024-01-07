@@ -231,15 +231,15 @@
       "EN": "This week's online record"
     },
 
+    "COMMAND_MCSTATS_MONTHLY_AVERAGE_ONLINE": {
+      "RU": "Средний онлайн за этот месяц",
+      "UA": "Середній онлайн за цей місяць",
+      "EN": "Average online for this month"
+    },
     "COMMAND_MCSTATS_MONTHLY_TOTAL_ONLINE": {
       "RU": "Рекорд онлайна за этот месяц",
       "UA": "Рекорд онлайну за цей місяць",
       "EN": "This month's online record"
-    },
-    "COMMAND_MCSTATS_MONTHLY_AVERAGE_ONLINE": {
-      "RU": "Средний рекорд за этот месяц",
-      "UA": "Середній рекорд за цей місяць",
-      "EN": "The average record for this month"
     },
   
     // UserCommand
