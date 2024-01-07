@@ -198,9 +198,9 @@
     },
 
     "COMMAND_MCSTATS_WEEK_AVERAGE_ONLINE": {
-      "RU": "Средний недельный онлайн",
-      "UA": "Середній тижневий онлайн",
-      "EN": "Average weekly online"
+      "RU": "Средний онлайн за эту неделю",
+      "UA": "Середній онлайн за цей тиждень",
+      "EN": "Average online for this week"
     },
     "COMMAND_MCSTATS_WEEK_TOTAL_ONLINE": {
       "RU": "Рекорд онлайна за эту неделю",
