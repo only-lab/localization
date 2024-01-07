@@ -196,17 +196,6 @@
       "UA": "Інформація про IP-адресу",
       "EN": "IP address information"
     },
-
-    "COMMAND_MCSTATS_WEEK_AVERAGE_ONLINE": {
-      "RU": "Средний онлайн за эту неделю",
-      "UA": "Середній онлайн за цей тиждень",
-      "EN": "Average online for this week"
-    },
-    "COMMAND_MCSTATS_WEEK_TOTAL_ONLINE": {
-      "RU": "Рекорд онлайна за эту неделю",
-      "UA": "Рекорд онлайну за цей тиждень",
-      "EN": "This week's online record"
-    },
     
     "COMMAND_MCSTATS_NO_STATS_TODAY": {
       "RU": "За эти сутки нету информации о данном сервере.",
@@ -229,6 +218,28 @@
       "RU": "Рекорд за все время",
       "UA": "Рекорд за весь час",
       "EN": "All-time record"
+    },
+
+    "COMMAND_MCSTATS_WEEK_AVERAGE_ONLINE": {
+      "RU": "Средний онлайн за эту неделю",
+      "UA": "Середній онлайн за цей тиждень",
+      "EN": "Average online for this week"
+    },
+    "COMMAND_MCSTATS_WEEK_TOTAL_ONLINE": {
+      "RU": "Рекорд онлайна за эту неделю",
+      "UA": "Рекорд онлайну за цей тиждень",
+      "EN": "This week's online record"
+    },
+
+    "COMMAND_MCSTATS_MONTHLY_TOTAL_ONLINE": {
+      "RU": "Рекорд онлайна за этот месяц",
+      "UA": "Рекорд онлайну за цей місяць",
+      "EN": "This month's online record"
+    },
+    "COMMAND_MCSTATS_MONTHLY_AVERAGE_ONLINE": {
+      "RU": "Средний рекорд за этот месяц",
+      "UA": "Середній рекорд за цей місяць"б
+      "EN": "The average record for this month"
     },
   
     // UserCommand
