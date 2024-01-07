@@ -730,5 +730,40 @@
       "RU": "Картинки с хорьками",
       "UA": "Картинки з тхорами",
       "EN": "Pictures of ferrets"
+    },
+    "COMMAND_MCA_DESCRIPTION": {
+      "RU": "Настройка серверов Minecraft",
+      "UA": "Налаштування серверів Minecraft",
+      "EN": "Setting up Minecraft servers"
+    },
+    "COMMAND_CORE_DESCRIPTION": {
+      "RU": "Управление координатором",
+      "UA": "Керування координатором",
+      "EN": "Coordinator management"
+    },
+    "COMMAND_ADMIN_DESCRIPTION": {
+      "RU": "Информация о статусах",
+      "UA": "Інформація про статуси",
+      "EN": "Status information"
+    },
+    "COMMAND_MODULE_DESCRIPTION": {
+      "RU": "Управление модулями кординатора",
+      "UA": "Керування модулями кординатора",
+      "EN": "Control of the cordinator modules"
+    },
+    "COMMAND_PERMISSION_DESCRIPTION": {
+      "RU": "Управление правами пользователя",
+      "UA": "Керування правами користувача",
+      "EN": "User rights management"
+    },
+    "COMMAND_SAY_DESCRIPTION": {
+      "RU": "Написать от имени группы",
+      "UA": "Написати від імені групи",
+      "EN": "Write on behalf of the group"
+    },
+    "COMMAND_USER_DESCRIPTION": {
+      "RU": "Управление пользователем",
+      "UA": "Керування користувачем",
+      "EN": "User management"
     }
 }
