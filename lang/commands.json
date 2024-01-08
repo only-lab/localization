@@ -757,6 +757,11 @@
       "UA": "Картинки з тхорами",
       "EN": "Pictures of ferrets"
     },
+    "COMMAND_CAPYBARA_DESCRIPTION": {
+      "RU": "Картинки с капибарами",
+      "UA": "Картинки з капібарами",
+      "EN": "Pictures of capybaras"
+    },
     "COMMAND_MCA_DESCRIPTION": {
       "RU": "Настройка серверов Minecraft",
       "UA": "Налаштування серверів Minecraft",
