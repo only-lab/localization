@@ -411,9 +411,17 @@
     },
 
     "COMMAND_MCADD_ADDED_SERVER": {
-        "RU": "Сервер успешно добавлен!",
-        "UA": "Сервер успішно додано!",
-        "EN": "Server successfully added!"
+      "RU": "Сервер успешно добавлен!",
+      "UA": "Сервер успішно додано!",
+      "EN": "Server successfully added!"
+    },
+
+    // MCREMOVESERVER
+
+    "COMMAND_MCREMOVESERVER_SUCCESS": {
+      "RU": "Вы успешно удалили сервер",
+      "UA": "Ви успішно видалили сервер",
+      "EN": "You have successfully deleted the server"
     },
 
     "COMMAND_MCA": {
@@ -783,5 +791,10 @@
       "RU": "Управление пользователем",
       "UA": "Керування користувачем",
       "EN": "User management"
+    },
+    "COMMAND_MCREMOVESERVER_DESCRIPTION": {
+      "RU": "Удаление сервера Minecraft",
+      "UA": "Видалення сервера Minecraft",
+      "EN": "Deleting a Minecraft server"
     }
 }
