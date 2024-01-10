@@ -1,6 +1,4 @@
 {
-
-  // OLD TIME FORMAT
   "TIME_SECONDS": {
     "RU": "сек.",
     "UA": "сек.",
@@ -21,8 +19,6 @@
     "UA": "ч.",
     "EN": "h."
   },
-
-   // NEW TIME FORMAT
   
   "year": {
     "RU": "год",
