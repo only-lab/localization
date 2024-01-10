@@ -1,11 +1,4 @@
 {
-    // =================================
-    //
-    //      Локализация для команд
-    //
-    // =================================
-
-    // TCPCOMMAND
     
     "COMMAND_TCP_RESULT": {
       "RU": "Результат проверки",
@@ -35,8 +28,6 @@
       "EN": "IP address information"
     },
   
-    // LANGCOMMAND
-  
     "COMMAND_LANG_CHANGED": {
       "RU": "Язык успешно изменен на %lang% %flag%.",
       "UA": "Мову успішно змінено на %lang% %flag%.",
@@ -58,8 +49,6 @@
       "UA": "У вас і так встановлена ця мова",
       "EN": "You already have this language installed"
     },
-  
-   // IPCOMMAND
   
     "COMMAND_IPINFO_INFO": {
       "RU": "Информация об IP-адресе",
@@ -107,8 +96,6 @@
       "UA": "Russia",
       "EN": "Russia"
     },
-  
-    // MCPING
 
     "COMMAND_MCPING_PINGING": {
         "RU": "Пингую: %server% %alias%",
@@ -167,8 +154,6 @@
       "UA": "Онлайн",
       "EN": "Online"
     },
-  
-    // McStatsCommand
   
     "COMMAND_MCSTATS_ONLINE": {
       "RU": "Текущий онлайн",
@@ -242,8 +227,6 @@
       "EN": "This month's online record"
     },
   
-    // UserCommand
-  
     "COMMAND_USER_RESULT": {
       "RU": [
         "ℹИнформация о пользователе (%name%):",
@@ -279,8 +262,6 @@
         "— Сервера: %servers%"
       ]
     },
-  
-    // SERVERLIST 
     
     "COMMAND_SERVERLIST_NO_SERVERS": {
       "RU": "У вас нету серверов.",
@@ -293,15 +274,12 @@
       "EN": "Your servers"
     },
 
-    // IdCommand
-
     "COMMAND_ID": {
       "RU": "Айди пользователя",
       "UA": "Айді користувача",
       "EN": "User ID"
     },
-  
-    // MINECRAFT TOP ONLINE
+    
     "COMMAND_MCTOP_NO_SERVERS": {
       "RU": "За этот день нету серверов",
       "UA": "За цей день немає серверів",
@@ -312,8 +290,6 @@
       "UA": "Топ %servers% серверів, за останню добу",
       "EN": "Top %servers% servers, for the last 24 hours"
     },
-  
-    // BotCommand
   
     "COMMAND_BOT_UPTIME": {
       "RU": "Аптайм",
@@ -377,8 +353,6 @@
       "EN": "Reboot the bot"
     },
   
-    // MCALIAS
-  
     "COMMAND_MCALIAS_INSTALLED": {
       "RU": "Алиас успешно установлен.",
       "UA": "Аліас успішно встановлено.",
@@ -402,8 +376,6 @@
         "EN": "Add server"
     },
 
-    // MCADD
-
     "COMMAND_MCADD_SERVER_EXISTS": {
         "RU": "Сервер уже добавлен.",
         "UA": "Сервер уже додано.",
@@ -415,8 +387,6 @@
       "UA": "Сервер успішно додано!",
       "EN": "Server successfully added!"
     },
-
-    // MCREMOVESERVER
 
     "COMMAND_MCREMOVESERVER_SUCCESS": {
       "RU": "Вы успешно удалили сервер",
@@ -459,8 +429,6 @@
         "UA": "Інформація про власника",
         "EN": "Owner information"
     },
-    
-    // CommandVime
     
     "COMMAND_VIME": {
       "RU": [
@@ -627,8 +595,6 @@
       "EN": "Unknown privilege",
       "UA": "Невідомий привілей"
     },
-  
-    // HelpCommand (Список команд)
 
     "COMMAND_HELP": {
         "RU": "Команды бота",
@@ -648,158 +614,9 @@
       "EN": "Unknown command"
     },
 
-    // AliasesCommand (Алиасы)
-
     "COMMAND_ALIASES": {
       "RU": "Алиасы для команд",
       "UA": "Аліаси для команд",
       "EN": "Command aliases"
-    },
-    
-    // =================================
-    //
-    //         Описания для команд
-    //
-    // =================================
-    
-    "COMMAND_BOT_DESCRIPTION": {
-      "RU": "Информация о боте",
-      "UA": "Інформація про бота",
-      "EN": "Bot information"
-    },
-    "COMMAND_ALIASES_DESCRIPTION": {
-        "RU": "Алиасы команд",
-        "UA": "Аліаси команд",
-        "EN": "Command aliases"
-    },
-    "COMMAND_HELP_DESCRIPTION": {
-      "RU": "Список команд бота",
-      "UA": "Список команд бота",
-      "EN": "List of bot commands"
-    },
-    "COMMAND_ID_DESCRIPTION": {
-      "RU": "Айди страницы ВКонтакте",
-      "UA": "Айді сторінки ВКонтакте",
-      "EN": "VKontakte page id"
-    },
-    "COMMAND_IP_DESCRIPTION": {
-      "RU": "Информация об IP",
-      "UA": "Інформація про IP", 
-      "EN": "IP information"
-    },
-    "COMMAND_LANG_DESCRIPTION": {
-      "RU": "Смена языка",
-      "UA": "Зміна мови", 
-      "EN": "Language change"
-    },
-    "COMMAND_MCADD_DESCRIPTION": {
-      "RU": "Добавить сервер Minecraft",
-      "UA": "Додати сервер Minecraft", 
-      "EN": "Add a Minecraft server"
-    },
-    "COMMAND_MCALIAS_DESCRIPTION": {
-      "RU": "Установка алиаса для сервера Minecraft",
-      "UA": "Встановлення аліаса для сервера Minecraft", 
-      "EN": "Setting an alias for the Minecraft server"
-    },
-    "COMMAND_MCGRAPH_DESCRIPTION": {
-      "RU": "Настройка графика Minecraft",
-      "UA": "Налаштування графіки Minecraft", 
-      "EN": "Minecraft Graphics Customization"
-    },
-    "COMMAND_MCSTATS_DESCRIPTION": {
-      "RU": "Статистика сервера Minecraft",
-      "UA": "Статистика сервера Minecraft", 
-      "EN": "Minecraft server statistics"
-    },
-    "COMMAND_MCPING_DESCRIPTION": {
-      "RU": "Пингануть сервер Minecraft",
-      "UA": "Пінганути сервер Minecraft", 
-      "EN": "Ping the Minecraft server"
-    },
-    "COMMAND_MCSERVERLIST_DESCRIPTION": {
-      "RU": "Список ваших серверов Minecraft",
-      "UA": "Список ваших серверів Minecraft", 
-      "EN": "List of your Minecraft servers"
-    },
-    "COMMAND_MCTOPONLINE_DESCRIPTION": {
-      "RU": "Топ серверов Minecraft",
-      "UA": "Топ серверів Minecraft", 
-      "EN": "Top Minecraft Servers"
-    },
-    "COMMAND_TCP_DESCRIPTION": {
-      "RU": "Проверить IP по TCP протоколу",
-      "UA": "Перевірити IP за TCP протоколом",
-      "EN": "Check IP by TCP protocol"
-    },
-    "COMMAND_VIME_DESCRIPTION": {
-      "RU": "Информация об аккаунте VimeWorld",
-      "UA": "Інформація про акаунт VimeWorld",
-      "EN": "VimeWorld account information"
-    },
-    "COMMAND_CAT_DESCRIPTION": {
-      "RU": "Картинки с кошками",
-      "UA": "Картинки з кішками",
-      "EN": "Pictures of cats"
-    },
-    "COMMAND_FOX_DESCRIPTION": {
-      "RU": "Картинки с лисами",
-      "UA": "Картинки з лисицями",
-      "EN": "Pictures of foxes"
-    },
-   "COMMAND_DOG_DESCRIPTION": {
-      "RU": "Картинки с собаками",
-      "UA": "Картинки з собаками",
-      "EN": "Pictures of dogs"
-    },
-    "COMMAND_FERRET_DESCRIPTION": {
-      "RU": "Картинки с хорьками",
-      "UA": "Картинки з тхорами",
-      "EN": "Pictures of ferrets"
-    },
-    "COMMAND_CAPYBARA_DESCRIPTION": {
-      "RU": "Картинки с капибарами",
-      "UA": "Картинки з капібарами",
-      "EN": "Pictures of capybaras"
-    },
-    "COMMAND_MCA_DESCRIPTION": {
-      "RU": "Настройка серверов Minecraft",
-      "UA": "Налаштування серверів Minecraft",
-      "EN": "Setting up Minecraft servers"
-    },
-    "COMMAND_CORE_DESCRIPTION": {
-      "RU": "Управление координатором",
-      "UA": "Керування координатором",
-      "EN": "Coordinator management"
-    },
-    "COMMAND_ADMIN_DESCRIPTION": {
-      "RU": "Информация о статусах",
-      "UA": "Інформація про статуси",
-      "EN": "Status information"
-    },
-    "COMMAND_MODULE_DESCRIPTION": {
-      "RU": "Управление модулями кординатора",
-      "UA": "Керування модулями кординатора",
-      "EN": "Control of the cordinator modules"
-    },
-    "COMMAND_PERMISSION_DESCRIPTION": {
-      "RU": "Управление правами пользователя",
-      "UA": "Керування правами користувача",
-      "EN": "User rights management"
-    },
-    "COMMAND_SAY_DESCRIPTION": {
-      "RU": "Написать от имени группы",
-      "UA": "Написати від імені групи",
-      "EN": "Write on behalf of the group"
-    },
-    "COMMAND_USER_DESCRIPTION": {
-      "RU": "Управление пользователем",
-      "UA": "Керування користувачем",
-      "EN": "User management"
-    },
-    "COMMAND_MCREMOVESERVER_DESCRIPTION": {
-      "RU": "Удаление сервера Minecraft",
-      "UA": "Видалення сервера Minecraft",
-      "EN": "Deleting a Minecraft server"
     }
 }
