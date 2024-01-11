@@ -239,7 +239,7 @@
         "🔢Количество ваших серверов: %server_counts%"
       ]
     },
-    "COMMAND_SERVERLIST_NO_SERVERS": {
+    "COMMAND_MCSERVERLIST_NO_SERVERS": {
       "RU": "<нет серверов>"
     }
 }
