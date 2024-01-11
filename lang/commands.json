@@ -597,9 +597,14 @@
     },
 
     "COMMAND_HELP": {
-        "RU": "Команды бота",
-        "UA": "Команди бота",
-        "EN": "Commands bot"
+      "RU": "Команды бота",
+      "UA": "Команди бота",
+      "EN": "Commands bot"
+    },
+    "COMMAND_HELP_PREFIXES": {
+      "RU": "Префиксы для команд",
+      "UA": "Префікси для команд",
+      "EN": "Command prefixes"
     },
     
     "COMMAND_HELP_INLINE_ALIASES": {
