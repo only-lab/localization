@@ -247,5 +247,28 @@
     },
     "COMMAND_MCTOP_NO_SERVERS": {
       "RU": "⚠Нету серверов с лучшим онлайном за последние сутки"
+    },
+    "COMMAND_MCPING": {
+      "RU": [
+        "Информация о %address% %alias%:",
+        "",
+        "— Айпи: %ip%",
+        "— Пинг: %ping% мс.",
+        "— Бан Mojang: %ban_mojang%",
+        "— Сервер: %server_info%",
+        "— Протокол: %server_protocol%",
+        "— Онлайн: %online_min%/%olnine_max%",
+        "",
+        "%motd%"
+      ]
+    },
+    "COMMAND_MCPING_OFFLINE": {
+      "RU": "Сервер оффлайн"
+    },
+    "COMMAND_MCPING_HOST_ERROR": {
+      "RU": "Ошибка получения DNS-записей домена, возможно его не существует или адрес указан не верно."
+    },
+    "COMMAND_MCPING_UNKNOWN_ERROR": {
+      "RU": "Неизвестная ошибка"
     }
 }
