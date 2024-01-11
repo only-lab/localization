@@ -12,9 +12,9 @@
   },
 
   "COOLDOWN_COMMAND": {
-    "RU": "Подождите %time% прежде чем использовать команду.",
-    "UA": "Зачекайте %time% перш ніж використовувати команду.",
-    "EN": "Wait for %time% before using the command."
+    "RU": "⌛Подождите %cooldown%, перед использованием команды.",
+    "UA": "⌛Зачекайте %cooldown%, перед використанням команди.",
+    "EN": "⌛Wait for %cooldown%, before using the command."
   },
 
   "BLOCKED": {
