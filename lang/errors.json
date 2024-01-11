@@ -53,5 +53,20 @@
     "RU": "Данный алиас занят другим сервером",
     "UA": "Цей аліас зайнятий іншим сервером",
     "EN": "This alias is occupied by another server"
+  },
+  "COMMAND_MCPING_OFFLINE": {
+    "RU": "Сервер оффлайн",
+    "UA": "Сервер офлайн",
+    "EN": "Server offline"
+  },
+  "COMMAND_MCPING_HOST_ERROR": {
+    "RU": "Произошла ошибка при получение ресурсных записей DNS хоста",
+    "UA": "Сталася помилка під час отримання ресурсних записів DNS хоста",
+    "EN": "An error occurred while obtaining DNS host resource records"
+  },
+  "COMMAND_MCPING_UNKNOWN_ERROR": {
+    "RU": "Неизвестная ошибка",
+    "UA": "Невідома помилка",
+    "EN": "Unknown error"
   }
 }
