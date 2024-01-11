@@ -257,7 +257,7 @@
         "— Бан Mojang: %ban_mojang%",
         "— Сервер: %server_info%",
         "— Протокол: %server_protocol%",
-        "— Онлайн: %online_min%/%olnine_max%",
+        "— Онлайн: %online_min%/%online_max%",
         "",
         "%motd%"
       ]
