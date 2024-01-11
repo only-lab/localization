@@ -10,9 +10,9 @@
     "EN": "Server not found."
   },
   "ERROR_SERVER_OFFLINE": {
-    "RU": "Сервер оффлайн (%error%)",
-    "UA": "Сервер оффлайн (%error%)",
-    "EN": "Server offline (%error%)"
+    "RU": "Не удалось получить информацию о сервере: %error%",
+    "UA": "Не вдалося отримати інформацію про сервер: %error%",
+    "EN": "Failed to retrieve server information: %error%"
   },
   "ERROR_CHANGE_ALREADY_USE": {
     "RU": "У этого сервера итак установлен этот алиас.",
