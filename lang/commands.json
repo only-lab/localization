@@ -389,7 +389,7 @@
     "COMMAND_MCSTATS_INLINE_IP": {
       "RU": "⚙Информация об IP-адресе"
     },
-    "COMMAND_MCPING_INLINE_PING": {
+    "COMMAND_MCSTATS_INLINE_PING": {
       "RU": "🔁Повторный пинг"
     }
 }
