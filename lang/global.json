@@ -11,7 +11,7 @@
     "EN": "Loading..."
   },
 
-  "COOLDOWN_COMMAND": {
+  "COOLDOWN": {
     "RU": "⌛Подождите %cooldown%, перед использованием команды.",
     "UA": "⌛Зачекайте %cooldown%, перед використанням команди.",
     "EN": "⌛Wait for %cooldown%, before using the command."
