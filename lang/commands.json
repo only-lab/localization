@@ -274,6 +274,10 @@
     "COMMAND_MCPING_INLINE_STATS": {
       "RU": "📊Статистика сервера"
     },
+
+    "COMMAND_MCPING_PINGING": {
+      "RU": "🔁Пингую %server% %alias%"
+    },
     
     "COMMAND_MCPING_OFFLINE": {
       "RU": "Сервер оффлайн"
