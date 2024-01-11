@@ -283,5 +283,77 @@
     },
     "COMMAND_MCPING_UNKNOWN_ERROR": {
       "RU": "Неизвестная ошибка"
+    },
+
+    "COMMAND_USER_RESULT": {
+      "RU": [
+        "ℹИнформация о пользователе (%name%):",
+        "",
+        "— Статус: %status_displayName%",
+        "— Блокировка: %blocked%",
+        "— Язык: %lang%",
+        "",
+        "— Права: %permissions%",
+        "",
+        "— Сервера: %servers%"
+      ],
+      "EN": [
+        "ℹUser information (%name%):",
+        "",
+        "— Status: %status_displayName%",
+        "— Language: %lang%",
+        "— Lockout: %blocked%",
+        "",
+        "— Permissions: %permissions%",
+        "",
+        "— Servers: %servers%"
+      ],
+      "UA": [
+        "ℹІнформація про користувача (%name%):",
+        "",
+        "— Статус: %status_displayName%",
+        "— Мова: %lang%",
+        "— Блокування: %blocked%",
+        "",
+        "— Права: %permissions%",
+        "",
+        "— Сервера: %servers%"
+      ]
+    },
+    
+    "COMMAND_MCA": {
+        "RU": [
+          "Информация о сервере: %ipAddress%",
+          "",
+          "ID сервера: %id%",
+          "Алиас: %alias%",
+          "Владелец: %owner%",
+          "Создан: %created_at%",
+          "Хекс: %hex%"
+      ],
+      "UA": [
+          "Інформація про сервер: %ipAddress%",
+          "",
+          "ID сервера: %id%",
+          "Аліас: %alias%",
+          "Власник: %owner%",
+          "Створено: %created_at%",
+          "Хекс: %hex%"
+      ],
+      "EN": [
+          "Server info: %ipAddress%",
+          "",
+          "Server ID: %id%",
+          "Alias: %alias%",
+          "Owner: %owner%",
+          "Created: %created_at%",
+          "Hex: %hex%."
+      ]
+    },
+
+    "COMMAND_MCA_INLINE_INFO": {
+        "RU": "Информация о владельце",
+        "UA": "Інформація про власника",
+        "EN": "Owner information"
     }
 }
