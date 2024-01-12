@@ -406,5 +406,9 @@
 
     "COMMAND_MCALIAS_INSTALLED": {
       "RU": "✅Алиас успешно установлен"
+    },
+
+    "COMMAND_MCADD_ADDED_SERVER": {
+      "RU": "✅Сервер успешно доблавен!"
     }
 }
