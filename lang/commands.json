@@ -292,6 +292,9 @@
     "COMMAND_MCPING_TIMEDOUT": {
       "RU": "Превышено время ожидания ответа от сервера"
     },
+    "COMMAND_MCPING_INCORRECT_JSON": {
+      "RU": "Сервер вернул некорректный JSON"
+    },
     
     "COMMAND_MCPING_UNKNOWN_ERROR": {
       "RU": "Неизвестная ошибка"
