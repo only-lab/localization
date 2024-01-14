@@ -272,12 +272,12 @@
       "EN": [
         "ℹ️Information on %address%:",
         "",
-        "- IP: %ip%.",
+        "- IP: %ip%",
         "- Ping: %ping% ms.",
-        "- Mojang ban: %ban_mojang%.",
-        "- Server: %server_info%.",
-        "- Protocol: %server_protocol%.",
-        "- Online: %online_min%/%online_max%.",
+        "- Mojang ban: %ban_mojang%",
+        "- Server: %server_info%",
+        "- Protocol: %server_protocol%",
+        "- Online: %online_min%/%online_max%",
         "",
         "%motd%"
       ]
@@ -312,17 +312,17 @@
       "EN": "Error getting DNS records of the domain, maybe it does not exist or the address is specified incorrectly."
     },
     "COMMAND_MCPING_TIMEDOUT": {
-      "RU": "Превышено время ожидания ответа от сервера",
-      "EN": "Server response timeout exceeded"
+      "RU": "Превышено время ожидания ответа от сервера.",
+      "EN": "Server response timeout exceeded."
     },
     "COMMAND_MCPING_INCORRECT_JSON": {
-      "RU": "Сервер вернул некорректный JSON",
-      "EN": "The server returned incorrect JSON"
+      "RU": "Сервер вернул некорректный JSON.",
+      "EN": "The server returned incorrect JSON."
     },
     
     "COMMAND_MCPING_UNKNOWN_ERROR": {
-      "RU": "Неизвестная ошибка",
-      "EN": "Unknown error"
+      "RU": "Неизвестная ошибка.",
+      "EN": "Unknown error."
     },
 
     "COMMAND_USER_RESULT": {
@@ -367,7 +367,7 @@
           "Alias: %alias%",
           "Owner: %owner%",
           "Created: %created_at%",
-          "Hex: %hex%."
+          "Hex: %hex%"
       ]
     },
 
