@@ -1,35 +1,29 @@
 {
   "NO_PERMISSION": {
     "RU": "Вам не хватает прав доступа для использования этой команды. Вам необходимо иметь право: %permission%",
-    "UA": "Вам не вистачає прав доступу для використання цієї команди. Вам необхідно мати право: %permission%",
     "EN": "You do not have enough permissions to use this command. You need to have the following permission: %permission%"
   },
 
   "LOADING": {
     "RU": "Загрузка...",
-    "UA": "Завантаження...",
     "EN": "Loading..."
   },
 
   "COOLDOWN": {
     "RU": "⌛Подождите %cooldown%, перед использованием команды.",
-    "UA": "⌛Зачекайте %cooldown%, перед використанням команди.",
     "EN": "⌛Wait for %cooldown%, before using the command."
   },
 
   "BLOCKED": {
     "RU": "да",
-    "UA": "так",
     "EN": "yes"
   },
   "NO_BLOCKED": {
     "RU": "нет",
-    "UA": "ні",
     "EN": "no"
   },
   "UNKNOWN": {
     "RU": "Неизвестно",
-    "UA": "Невідомо",
     "EN": "Unknown"
   }
 }
