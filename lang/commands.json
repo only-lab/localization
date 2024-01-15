@@ -97,6 +97,10 @@
       "RU": "🇷🇺Персональная локализация успешно обновлена.",
       "EN": "🇺🇸Personal localization has been successfully updated."
     },
+    "COMMAND_LANG_NO_CORRECT": {
+      "RU": "🚫Вы укаазли некорректный язык.",
+      "EN": "🚫You have specified an incorrect language."
+    },
     "COMMAND_VIME": {
       "RU": [
         "Информация об аккаунте: %nick%",
