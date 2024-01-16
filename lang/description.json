@@ -79,6 +79,10 @@
       "RU": "Картинки с капибарами",
       "EN": "Pictures of capybaras"
     },
+    "COMMAND_ANIME_DESCRIPTION": {
+      "RU": "Картинки с аниме артами",
+      "EN": "Pictures of anime art"
+    },
     "COMMAND_MCA_DESCRIPTION": {
       "RU": "Настройка серверов Minecraft",
       "EN": "Setting up Minecraft servers"
