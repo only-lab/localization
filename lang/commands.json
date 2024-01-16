@@ -454,5 +454,33 @@
     "COMMAND_MCADD_ADDED_SERVER": {
       "RU": "✅Сервер успешно доблавен!",
       "EN": "✅The server has been successfully added!"
+    },
+    "COMMAND_TCP_PORT_OPEN": {
+      "RU": [
+        "ℹРезультат запроса: (%address%):",
+        "✅Порт открыт!",
+        "",
+        "❗Результат получен за: %time% мс."
+      ],
+      "EN": [
+        "ℹQuery result: (%address%):",
+        "✅Port open!",
+        "",
+        "❗Result received for: %time% ms."
+      ]
+    },
+    "COMMAND_TCP_PORT_CLOSED": {
+      "RU": [
+        "ℹРезультат запроса: (%address%):",
+        "🚫Порт закрыт"
+      ],
+      "EN": [
+        "ℹQuery result: (%address%):",
+        "🚫Port closed"
+      ]
+    },
+    "COMMAND_TCP_INLINE_IP": {
+      "RU": "⚙Информация об адресе",
+      "EN": "⚙Address information"
     }
 }
