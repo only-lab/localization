@@ -459,6 +459,10 @@
       "RU": "✅Сервер успешно доблавен!",
       "EN": "✅The server has been successfully added!"
     },
+    "COMMAND_MCADD_SERVER_EXISTS": {
+      "RU": "⚠️Этот сервер уже добавлен!",
+      "EN": "⚠️This server has already been added!"
+    }
     
     "COMMAND_TCP_PORT_OPEN": {
       "RU": [
