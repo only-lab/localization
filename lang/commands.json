@@ -433,6 +433,10 @@
         "— Online record for all time: %totalOnline%"
       ]
     },
+    "COMMAND_MCSTATS_FEW_STATISTICS": {
+      "RU": "🚫Недостаточно данных для графика...",
+      "EN": "🚫Not enough data for a chart..."
+    },
     "COMMAND_MCSTATS_INLINE_IP": {
       "RU": "⚙Информация об адресе",
       "EN": "⚙Address Information"
@@ -455,6 +459,7 @@
       "RU": "✅Сервер успешно доблавен!",
       "EN": "✅The server has been successfully added!"
     },
+    
     "COMMAND_TCP_PORT_OPEN": {
       "RU": [
         "ℹРезультат запроса: (%address%):",
