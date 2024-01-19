@@ -446,8 +446,8 @@
       "EN": "🔁Server information"
     },
     "COMMAND_MCSTATS_FEW_RECORDS": {
-      "RU": "🚫Не удается создать график, нужно подождать 10 минут пока соберутся данные.",
-      "EN": "🚫Can't create a chart, need to wait 10 minutes for data to be collected."
+      "RU": "⚠️В базе данных недостаточно записей, для построения графика, подождите ещё немного.",
+      "EN": "⚠️There are not enough records in the database to plot the graph, wait a little longer."
     },
 
     "COMMAND_MCALIAS_INSTALLED": {
