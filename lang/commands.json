@@ -458,6 +458,14 @@
       "RU": "✅Алиас успешно установлен",
       "EN": "✅The alias was successfully installed"
     },
+    "COMMAND_MCALIAS_NOT_ADDDED_SERVER": {
+      "RU": "❓Сервер не добавлен, добавить?",
+      "EN": "❓Server is not added, add it?"
+    },
+    "COMMAND_MCALIAS_INLINE_ADD": {
+      "RU": "⚙Добавить сервер",
+      "EN": "⚙Add server"
+    },
 
     "COMMAND_MCADD_ADDED_SERVER": {
       "RU": "✅Сервер успешно доблавен!",
