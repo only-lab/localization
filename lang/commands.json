@@ -324,8 +324,8 @@
       "EN": "The server returned incorrect JSON."
     },
     "COMMAND_MCPING_CLOSED_CONNECT": {
-      "RU": "Сервер неожиданно закрыл подключение",
-      "EN": "The server unexpectedly closed the connection"
+      "RU": "Сервер неожиданно закрыл подключение.",
+      "EN": "The server unexpectedly closed the connection."
     },
     
     "COMMAND_MCPING_UNKNOWN_ERROR": {
