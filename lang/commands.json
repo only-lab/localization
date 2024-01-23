@@ -290,6 +290,11 @@
         "%motd%"
       ]
     },
+
+    "COMMAND_MCPING_EMPTY": {
+      "RU": "<пусто>",
+      "EN": "<empty>"
+    },
     
     "COMMAND_MCPING_INLINE_INFOIP": {
       "RU": "⚙Информация об адресе",
