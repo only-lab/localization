@@ -110,7 +110,9 @@
         "Ранг: %rank%",
         "",
         "Наиграно: %playedSeconds%",
-        "Последний вход: %lastSeen%"
+        "Последний вход: %lastSeen%",
+        "",
+        "Онлайн: %online%"
       ],
       "EN": [
         "Account information: %nick%",
@@ -120,7 +122,9 @@
         "Rank: %rank%",
         "",
         "Played: %playedSeconds%",
-        "Last Entry: %lastSeen%"
+        "Last Entry: %lastSeen%",
+        "",
+        "Online: %online%"
       ]
     },
     
