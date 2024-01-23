@@ -507,5 +507,10 @@
     "COMMAND_TCP_INLINE_IP": {
       "RU": "⚙Информация об адресе",
       "EN": "⚙Address information"
+    },
+
+    "COMMAND_ANIME_REPEAT": {
+      "RU": "🔁Повтор",
+      "EN": "🔁Repeat"
     }
 }
