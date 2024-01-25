@@ -27,6 +27,11 @@
     "EN": "Unknown"
   },
 
+  "ALL_PERMISSIONS": {
+    "RU": "<все права>",
+    "EN": "<all permissions>"
+  },
+
   "TIME_SECONDS": {
     "RU": "сек.",
     "EN": "sec."
