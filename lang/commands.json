@@ -5,6 +5,7 @@
             "— Версия проекта: %version%",
             "— Зарегистрировано команд: %commands%",
             "— Кол-во пользователей: %users%",
+            "— Зарегистрировано модулей: %module_counts%",
             "",
             "⌚Аптайм: %uptime%"
         ],
@@ -13,6 +14,7 @@
              "— Project version: %version%",
              "— Commands registered: %commands%",
              "— Number of users: %users%",
+             "— Registered modules: %module_counts%",
              "",
              "⌚Up-Time: %uptime%"
         ]
