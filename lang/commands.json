@@ -4,8 +4,8 @@
             "⚙Информация о боте:",
             "— Версия проекта: %version%",
             "— Зарегистрировано команд: %commands%",
-            "— Кол-во пользователей: %users%",
             "— Зарегистрировано модулей: %module_counts%",
+            "— Кол-во пользователей: %users%",
             "",
             "⌚Аптайм: %uptime%"
         ],
@@ -13,8 +13,8 @@
              "⚙Bot information:",
              "— Project version: %version%",
              "— Commands registered: %commands%",
+             "— Зарегистрировано модулей: %module_counts%",
              "— Number of users: %users%",
-             "— Registered modules: %module_counts%",
              "",
              "⌚Up-Time: %uptime%"
         ]
