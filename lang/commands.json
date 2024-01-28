@@ -79,10 +79,6 @@
             "— Organization: %org%"
         ]
     },
-    "COMMAND_IP_REPLACE": {
-      "RU": "Россия",
-      "EN": "Russia"
-    },
     "COMMAND_LANG_NO_CORRECT_LANG": {
       "RU": "🚫Вы указали неверный язык!",
       "EN": "🚫You specified the wrong language!"
