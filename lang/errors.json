@@ -37,10 +37,6 @@
     "RU": "⚠️Данная команда доступна только в лс сообщества!",
     "EN": "⚠️This command is only available in the community hp!"
   },
-  "ERROR_ONLY_INTERVIEW": {
-    "RU": "⚠️Данная команда доступна только в лс сообщества!",
-    "EN": "⚠️This command is only available in the community hp!"
-  },
   "COMMAND_VIME_PLAYER_NOT_REGISTRED": {
     "RU": "⚠️Не удалось получить информацию об игроке, возможно он не зарегистрирован.",
     "EN": "⚠️Could not get information about the player, maybe he is not registered."
