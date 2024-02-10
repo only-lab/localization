@@ -13,6 +13,15 @@
     "RU": "⌛Подождите %cooldown%, перед использованием команды.",
     "EN": "⌛Wait for %cooldown%, before using the command."
   },
+  
+  "LANGUAGE_RUSSIAN": {
+    "RU": "Русский",
+    "EN": "Russian"
+  },
+  "LANGUAGE_ENGLISH": {
+    "RU": "Английсский",
+    "EN": "English"
+  },
 
   "BLOCKED": {
     "RU": "да",
