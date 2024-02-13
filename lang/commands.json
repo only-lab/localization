@@ -13,7 +13,7 @@
              "⚙Bot information:",
              "— Project version: %version%",
              "— Commands registered: %commands%",
-             "— Зарегистрировано модулей: %module_counts%",
+             "— Registered modules: %module_counts%",
              "— Number of users: %users%",
              "",
              "⌚Up-Time: %uptime%"
