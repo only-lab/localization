@@ -381,7 +381,8 @@
           "Алиас: %alias%",
           "Владелец: %owner%",
           "Создан: %created_at%",
-          "Хекс: %hex%"
+          "Хекс: %hex%",
+          "Подозрение в накрутке: %cheating%"
       ],
       "EN": [
           "Server info: %ipAddress%",
@@ -390,7 +391,8 @@
           "Alias: %alias%",
           "Owner: %owner%",
           "Created: %created_at%",
-          "Hex: %hex%"
+          "Hex: %hex%",
+          "Suspicion of cheating: %cheating%"
       ]
     },
 
