@@ -23,8 +23,8 @@
     },
 
     "COMMAND_BOT_INLINE_RESTART": {
-      "RU": "🔁Перезагрузить бота",
-      "EN": "🔁Restart bot"
+      "RU": "Перезагрузить бота",
+      "EN": "Restart bot"
     },
     
     "COMMAND_ID": {
@@ -51,8 +51,8 @@
     },
 
     "COMMAND_HELP_INLINE_ALIASES": {
-      "RU": "🌍Алиасы команд",
-      "EN": "🌍Alias commands"
+      "RU": "Алиасы команд",
+      "EN": "Alias commands"
     },
 
     "COMMAND_ALIASES": {
@@ -94,8 +94,8 @@
       "EN": "⚠️You already have this language installed."
     },
     "COMMAND_LANG_CHANGE": {
-      "RU": "🇷🇺Персональная локализация успешно обновлена.",
-      "EN": "🇺🇸Personal localization has been successfully updated."
+      "RU": "Персональная локализация успешно обновлена.",
+      "EN": "Personal localization has been successfully updated."
     },
     "COMMAND_LANG_NO_CORRECT": {
       "RU": "🚫Вы укаазли некорректный язык.",
@@ -129,8 +129,8 @@
     },
     
     "COMMAND_VIME_INLINE_GUILD": {
-      "RU": "ℹ️Информация о гильдии", 
-      "EN": "ℹ️Guild information"
+      "RU": "Информация о гильдии", 
+      "EN": "Guild information"
     },
   
     "COMMAND_VIME_NON_GUILD_USER": {
@@ -303,18 +303,18 @@
     },
     
     "COMMAND_MCPING_INLINE_INFOIP": {
-      "RU": "⚙Информация об адресе",
-      "EN": "⚙Address information"
+      "RU": "Информация об адресе",
+      "EN": "Address information"
     },
 
     "COMMAND_MCPING_INLINE_PING": {
-      "RU": "🔁Повторный пинг",
-      "EN": "🔁Repeat ping"
+      "RU": "Повторный пинг",
+      "EN": "Repeat ping"
     },
 
     "COMMAND_MCPING_INLINE_STATS": {
-      "RU": "📊Статистика сервера",
-      "EN": "📊Server statistics"
+      "RU": "Статистика сервера",
+      "EN": "Server statistics"
     },
 
     "COMMAND_MCPING_PINGING": {
@@ -475,12 +475,12 @@
       "EN": "🚫Not enough data for a chart..."
     },
     "COMMAND_MCSTATS_INLINE_IP": {
-      "RU": "⚙Информация об адресе",
-      "EN": "⚙Address Information"
+      "RU": "Информация об адресе",
+      "EN": "Address Information"
     },
     "COMMAND_MCSTATS_INLINE_PING": {
-      "RU": "🔁Информация о сервере",
-      "EN": "🔁Server information"
+      "RU": "Информация о сервере",
+      "EN": "Server information"
     },
     "COMMAND_MCSTATS_FEW_RECORDS": {
       "RU": "⚠️В базе данных недостаточно записей, для построения графика, подождите ещё немного.",
@@ -496,8 +496,8 @@
       "EN": "❓Server is not added, add it?"
     },
     "COMMAND_MCALIAS_INLINE_ADD": {
-      "RU": "⚙Добавить сервер",
-      "EN": "⚙Add server"
+      "RU": "Добавить сервер",
+      "EN": "Add server"
     },
 
     "COMMAND_MCADD_ADDED_SERVER": {
@@ -534,8 +534,8 @@
       ]
     },
     "COMMAND_TCP_INLINE_IP": {
-      "RU": "⚙Информация об адресе",
-      "EN": "⚙Address information"
+      "RU": "Информация об адресе",
+      "EN": "Address information"
     },
 
     "COMMAND_ANIME_REPEAT": {
