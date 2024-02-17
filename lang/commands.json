@@ -6,7 +6,7 @@
             "— Зарегистрировано команд: %commands%",
             "— Зарегистрировано модулей: %module_counts%",
             "— Кол-во пользователей: %users%",
-            "— Всего шелдеров: %scheduler_counts%",
+            "— Всего задач: %scheduler_counts%",
             "",
             "⌚Аптайм: %uptime%"
         ],
@@ -16,7 +16,7 @@
              "— Commands registered: %commands%",
              "— Registered modules: %module_counts%",
              "— Number of users: %users%",
-             "— Total shelders: %scheduler_counts%",
+             "— Total tasks: %scheduler_counts%",
              "",
              "⌚Up-Time: %uptime%"
         ]
