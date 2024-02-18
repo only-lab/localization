@@ -543,5 +543,9 @@
     "COMMAND_ANIME_REPEAT": {
       "RU": "🔁Повтор",
       "EN": "🔁Repeat"
+    },
+    "COMMAND_TL": {
+      "RU": "Рекомендуемые сервера TLauncher: %servers%",
+      "EN": "Recommended TLauncher servers: %servers%"
     }
 }
