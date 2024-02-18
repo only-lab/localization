@@ -114,5 +114,9 @@
     "COMMAND_MCREMOVESERVER_DESCRIPTION": {
       "RU": "Удаление сервера Minecraft",
       "EN": "Deleting a Minecraft server"
+    },
+    "COMMAND_TL_DESCRIPTION": {
+      "RU": "Рекомендуемые сервера TLauncher",
+      "EN": "Recommended TLauncher servers"
     }
 }
