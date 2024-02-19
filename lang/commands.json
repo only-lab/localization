@@ -292,6 +292,11 @@
       ]
     },
 
+    "COMMAND_MCPING_CHEATING": {
+      "RU": "Подозрение в накрутке",
+      "EN": "Suspicion of tampering"
+    },
+
     "COMMAND_MCPING_EMPTY": {
       "RU": "<пусто>",
       "EN": "<empty>"
