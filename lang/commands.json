@@ -31,10 +31,6 @@
       "RU": "ℹID пользователя: %id%",
       "EN": "ℹUser ID: %id%"
     },
-    "COMMAND_ID_ARGS": {
-      "RU": "⚠️Используйте: /id <короткое имя пользователя VK>",
-      "EN": "⚠️Use: /id <short user name VK>"
-    },
     "COMMAND_ID_NO_CORRECT": {
       "RU": "⚠️Вы ввели неверный ID!",
       "EN": "⚠️You entered the wrong ID!"
@@ -44,7 +40,6 @@
       "RU": "⚙Префиксы бота",
       "EN": "⚙Bot prefixes"
     },
-
     "COMMAND_HELP": {
       "RU": "🛠️Команды бота",
       "EN": "🛠Bot commands"
@@ -501,7 +496,6 @@
       "RU": "Добавить сервер",
       "EN": "Add server"
     },
-
     "COMMAND_MCADD_ADDED_SERVER": {
       "RU": "✅Сервер успешно доблавен!",
       "EN": "✅The server has been successfully added!"
@@ -538,11 +532,6 @@
     "COMMAND_TCP_INLINE_IP": {
       "RU": "Информация об адресе",
       "EN": "Address information"
-    },
-
-    "COMMAND_ANIME_REPEAT": {
-      "RU": "🔁Повтор",
-      "EN": "🔁Repeat"
     },
     "COMMAND_TL": {
       "RU": "Рекомендуемые сервера TLauncher: %servers%",
