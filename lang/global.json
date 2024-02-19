@@ -23,6 +23,11 @@
     "EN": "English"
   },
 
+  "REPEAT_INLINE": {
+    "RU": "Повтор",
+    "EN": "Repeat"
+  },
+
   "BLOCKED": {
     "RU": "да",
     "EN": "yes"
