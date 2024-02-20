@@ -404,7 +404,7 @@
     },
     "COMMAND_MCSTATS_TODAY": {
       "RU": [
-        "📊Статистика сервера %address%:",
+        "📊Статистика сервера %address%",
         "",
         "— Текущий онлайн: %currentOnline%",
         "— Средний онлайн за день: %averageOnline%",
@@ -412,7 +412,7 @@
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
       "EN": [
-        "📊Server statistics %address%:",
+        "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
         "— Average online for the day: %averageOnline%",
@@ -422,7 +422,7 @@
     },
     "COMMAND_MCSTATS_WEEK": {
       "RU": [
-        "📊Статистика сервера %address%:",
+        "📊Статистика сервера %address%",
         "",
         "— Текущий онлайн: %currentOnline%",
         "— Средний онлайн за неделю: %averageOnline%",
@@ -430,7 +430,7 @@
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
       "EN": [
-        "📊Server statistics %address%:",
+        "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
         "— Average online for the week: %averageOnline%",
@@ -440,7 +440,7 @@
     },
     "COMMAND_MCSTATS_MONTH": {
       "RU": [
-        "📊Статистика сервера %address%:",
+        "📊Статистика сервера %address%",
         "",
         "— Текущий онлайн: %currentOnline%",
         "— Средний онлайн за месяц: %averageOnline%",
@@ -448,7 +448,7 @@
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
       "EN": [
-        "📊Server statistics %address%:",
+        "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
         "— Average online for the month: %averageOnline%",
@@ -458,7 +458,7 @@
     },
     "COMMAND_MCSTATS_YEAR": {
       "RU": [
-        "📊Статистика сервера %address%:",
+        "📊Статистика сервера %address%",
         "",
         "— Текущий онлайн: %currentOnline%",
         "— Средний онлайн за год: %averageOnline%",
@@ -466,7 +466,7 @@
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
       "EN": [
-        "📊Server statistics %address%:",
+        "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
         "— Average online for the year: %averageOnline%",
