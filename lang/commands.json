@@ -407,7 +407,7 @@
         "📊Статистика сервера %address%",
         "",
         "— Текущий онлайн: %currentOnline%",
-        "— Текущий онлайн за прошлые сутки: %AgoOnline%",
+        "— Онлайн в это же время за прошлые сутки: %AgoOnline%",
         "— Средний онлайн за сутки: %averageOnline%",
         "— Рекорд онлайна за сутки: %maxRecord%",
         "— Рекорд онлайна за все время: %totalOnline%"
@@ -416,7 +416,7 @@
         "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
-        "— Current online for the previous day: %AgoOnline%",
+        "— Online at the same time last day: %AgoOnline%",
         "— Average online for the day: %averageOnline%",
         "— Online record for the day: %maxRecord%",
         "— Online record for all time: %totalOnline%"
