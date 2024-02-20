@@ -373,7 +373,7 @@
       ]
     },
     
-    "COMMAND_MCA": {
+    "COMMAND_MCA_MESSAGE": {
       "RU": [
           "Информация о сервере: %ipAddress%",
           "",
@@ -382,7 +382,8 @@
           "Владелец: %owner%",
           "Создан: %created_at%",
           "Хекс: %hex%",
-          "Подозрение в накрутке: %cheating%"
+          "Подозрение в накрутке: %cheating%",
+          "Дубликаты: %duplicates%"
       ],
       "EN": [
           "Server info: %ipAddress%",
@@ -392,7 +393,8 @@
           "Owner: %owner%",
           "Created: %created_at%",
           "Hex: %hex%",
-          "Suspicion of cheating: %cheating%"
+          "Suspicion of cheating: %cheating%",
+          "Duplicates: %duplicates%"
       ]
     },
 
