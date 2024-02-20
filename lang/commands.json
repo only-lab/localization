@@ -489,7 +489,7 @@
     "COMMAND_MCSTATS_INLINE_REPEAT": {
       "RU": "Повтор",
       "EN": "Repeat"
-    }
+    },
     "COMMAND_MCSTATS_FEW_RECORDS": {
       "RU": "⚠️В базе данных недостаточно записей, для построения графика, подождите ещё немного.",
       "EN": "⚠️There are not enough records in the database to plot the graph, wait a little longer."
