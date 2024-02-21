@@ -9,6 +9,10 @@
     "EN": "Loading..."
   },
 
+  "ERROR": {
+    "RU": "⚠️Похоже, произошла ошибка, сообщите об этом админмистрации!",
+    "EN": "⚠️There seems to be an error, please report it to admin!"
+  },
   "COOLDOWN": {
     "RU": "⌛Подождите %cooldown%, перед использованием команды.",
     "EN": "⌛Wait for %cooldown%, before using the command."
