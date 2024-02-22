@@ -233,16 +233,12 @@
     },
     "COMMAND_MCSERVERLIST": {
       "RU": [
-        "ℹ️Список ваших серверов:",
-        "",
-        "%server_list%",
+        "ℹ️Список ваших серверов: %server_list%",
         "",
         "🔢Количество ваших серверов: %server_counts%"
       ],
       "EN": [
-        "ℹ️List your servers:",
-        "",
-        "%server_list%",
+        "ℹ️List your servers: %server_list%",
         "",
         "🔢Number of your servers: %server_counts%"
       ]
