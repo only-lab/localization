@@ -407,8 +407,8 @@
         "📊Статистика сервера %address%",
         "",
         "— Текущий онлайн: %currentOnline%",
-        "— Онлайн в это же время за прошлые сутки: %AgoOnline%",
         "— Средний онлайн за сутки: %averageOnline%",
+        "— Онлайн в это же время вчера: %AgoOnline%",
         "— Рекорд онлайна за сутки: %maxRecord%",
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
@@ -416,8 +416,8 @@
         "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
-        "— Online at the same time last day: %AgoOnline%",
         "— Average online for the day: %averageOnline%",
+        "— Online at the same time yesterday: %AgoOnline%",
         "— Online record for the day: %maxRecord%",
         "— Online record for all time: %totalOnline%"
       ]
@@ -428,6 +428,7 @@
         "",
         "— Текущий онлайн: %currentOnline%",
         "— Средний онлайн за неделю: %averageOnline%",
+        "— Онлайн в это же время неделю назад: %AgoOnline%",
         "— Рекорд онлайна за неделю: %maxRecord%",
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
@@ -436,6 +437,7 @@
         "",
         "— Current online: %currentOnline%",
         "— Average online for the week: %averageOnline%",
+        "— Online at the same time a week ago: %AgoOnline%",
         "— Online record for the week: %maxRecord%",
         "— Online record for all time: %totalOnline%"
       ]
@@ -446,6 +448,7 @@
         "",
         "— Текущий онлайн: %currentOnline%",
         "— Средний онлайн за месяц: %averageOnline%",
+        "— Онлайн в это же время месяц назад: %AgoOnline%",
         "— Рекорд онлайна за месяц: %maxRecord%",
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
@@ -454,6 +457,7 @@
         "",
         "— Current online: %currentOnline%",
         "— Average online for the month: %averageOnline%",
+        "— Online at the same time a month ago: %AgoOnline%",
         "— Online record for the month: %maxRecord%",
         "— Online record for all time: %totalOnline%"
       ]
@@ -464,6 +468,7 @@
         "",
         "— Текущий онлайн: %currentOnline%",
         "— Средний онлайн за год: %averageOnline%",
+        "— Онлайн в это же время год назад: %AgoOnline%",
         "— Рекорд онлайна за год: %maxRecord%",
         "— Рекорд онлайна за все время: %totalOnline%"
       ],
@@ -471,6 +476,7 @@
         "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
+        "— Online at the same time a year ago: %AgoOnline%",
         "— Average online for the year: %averageOnline%",
         "— Online record for the year: %maxRecord%",
         "— Online record for all time: %totalOnline%"
