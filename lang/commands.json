@@ -476,8 +476,8 @@
         "📊Server statistics %address%",
         "",
         "— Current online: %currentOnline%",
-        "— Online at the same time a year ago: %AgoOnline%",
         "— Average online for the year: %averageOnline%",
+        "— Online at the same time a year ago: %AgoOnline%",
         "— Online record for the year: %maxRecord%",
         "— Online record for all time: %totalOnline%"
       ]
