@@ -565,6 +565,11 @@
         "Автодобавляемые сервера TL Legacy: %notices%",
         "",
         "Рекламируемые сервера TL Legacy: %advertising_list%"
+      ],
+      "EN": [
+        "TL Legacy auto-added servers: %notices%",
+        "",
+        "Advertised TL Legacy servers: %advertising_list%"
       ]
     }
 }
