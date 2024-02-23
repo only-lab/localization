@@ -549,7 +549,15 @@
       "EN": "Address information"
     },
     "COMMAND_TL": {
-      "RU": "Рекомендуемые сервера TLauncher: %servers%",
-      "EN": "Recommended TLauncher servers: %servers%"
+      "RU": [
+          "Рекомендуемые сервера TLauncher: %servers%",
+          "",
+          "Рекомедуемые сервера TLAUNCHER (вторая страница): %hot_servers%"
+      ],
+      "EN": [
+        "Recommended TLauncher servers: %servers%",
+        "",
+        "Recommended TLAUNCHER servers (second page): %hot_servers%"
+      ]
     }
 }
