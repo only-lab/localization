@@ -548,7 +548,7 @@
       "RU": "Информация об адресе",
       "EN": "Address information"
     },
-    "COMMAND_TL": {
+    "COMMAND_TL_TEXT": {
       "RU": [
           "Рекомендуемые сервера TLauncher: %servers%",
           "",
@@ -558,6 +558,13 @@
         "Recommended TLauncher servers: %servers%",
         "",
         "Recommended TLauncher servers (second page): %hot_servers%"
+      ]
+    },
+    "COMMAND_LEGACY_TEXT": {
+      "RU": [
+        "Автодобавляемые сервера TL Legacy: %notices%",
+        "",
+        "Рекламируемые сервера TL Legacy: %advertising_list%"
       ]
     }
 }
