@@ -48,5 +48,9 @@
   "ERROR_ALIAS_TAKEN_ANOTHER_SERVER": {
     "RU": "Данный алиас занят другим сервером.",
     "EN": "This alias is occupied by another server."
+  },
+  "ERROR_CONNECTION": { 
+    "RU": "Не удалось получить сервера",
+    "EN": "Failed to retrieve servers"
   }
 }
