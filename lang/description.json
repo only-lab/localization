@@ -115,8 +115,8 @@
       "RU": "Удаление сервера Minecraft",
       "EN": "Deleting a Minecraft server"
     },
-    "COMMAND_TL_DESCRIPTION": {
-      "RU": "Рекомендуемые сервера TLauncher",
-      "EN": "Recommended TLauncher servers"
+    "COMMAND_LAUNCHERS_DESCRIPTION": {
+      "RU": "Рекомендуемые сервера лаунчеров",
+      "EN": "Recommended Launcher Servers"
     }
 }
