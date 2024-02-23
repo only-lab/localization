@@ -571,5 +571,9 @@
         "",
         "Advertised TL Legacy servers: %advertising_list%"
       ]
+    },
+    "COMMAND_LAUNCHERS_SELECT": {
+      "RU": "Выберите лаунчер",
+      "EN": "Select the launcher"
     }
 }
