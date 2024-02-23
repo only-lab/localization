@@ -552,12 +552,12 @@
       "RU": [
           "Рекомендуемые сервера TLauncher: %servers%",
           "",
-          "Рекомедуемые сервера TLAUNCHER (вторая страница): %hot_servers%"
+          "Рекомедуемые сервера TLauncher (вторая страница): %hot_servers%"
       ],
       "EN": [
         "Recommended TLauncher servers: %servers%",
         "",
-        "Recommended TLAUNCHER servers (second page): %hot_servers%"
+        "Recommended TLauncher servers (second page): %hot_servers%"
       ]
     }
 }
