@@ -266,7 +266,7 @@
         "",
         "🦴 › Информация о сервере:",
         "⠀▋ Протокол: %protocol% (%version%)",
-        "⠀▋ Сервер: «%server_name%»",
+        "⠀▋ Сервер: %server_name%",
         "⠀▋ Онлайн: %online_min%/%online_max%",
         "⠀▋ ЧС Mojang: %blocked_mojang%",
         "⠀▋ MOTD: %motd%"
@@ -281,7 +281,7 @@
         "",
         "🦴› Server info:",
         "⠀▋ Protocol: %protocol% (%version%)",
-        "⠀▋ Server: «%server_name%»",
+        "⠀▋ Server: %server_name%",
         "⠀▋ Online: %online_min%/%online_max%",
         "⠀▋ Blocked mojang: %blocked_mojang%",
         "⠀▋ MOTD: %motd%"
@@ -294,8 +294,8 @@
     },
 
     "COMMAND_MCPING_EMPTY": {
-      "RU": "<пусто>",
-      "EN": "<empty>"
+      "RU": "<нет данных>",
+      "EN": "<no data>"
     },
     
     "COMMAND_MCPING_INLINE_INFOIP": {
