@@ -4,6 +4,10 @@
     "EN": "You do not have enough permissions to use this command. You need to have the following permission: %permission%"
   },
 
+  "REPEAT": {
+    "RU": "Повтор",
+    "EN": "Repeat"
+  },
   "LOADING": {
     "RU": "Загрузка...",
     "EN": "Loading..."
