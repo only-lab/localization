@@ -571,5 +571,9 @@
     "COMMAND_LAUNCHERS_SELECT": {
       "RU": "Выберите лаунчер",
       "EN": "Select the launcher"
+    },
+    "COMMAND_ANIME_SELECT": {
+      "RU": "Выберите тип аниме для картинки",
+      "EN": "Select the type of anime for the picture"
     }
 }
