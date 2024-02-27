@@ -2,7 +2,7 @@
     "COMMAND_BOT_INFO": {
         "RU": [
             "⚙Информация о боте:",
-            "— Версия проекта: %version% (%build_id%)",
+            "— Версия проекта: %version%",
             "— Зарегистрировано команд: %commands%",
             "— Зарегистрировано модулей: %module_counts%",
             "— Кол-во пользователей: %users%",
@@ -12,7 +12,7 @@
         ],
         "EN": [
              "⚙Bot information:",
-             "— Project version: %version% (%build_id%)",
+             "— Project version: %version%",
              "— Commands registered: %commands%",
              "— Registered modules: %module_counts%",
              "— Number of users: %users%",
