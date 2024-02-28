@@ -42,15 +42,15 @@
     "EN": "⚠️Could not get information about the player, maybe he is not registered."
   },
   "COMMAND_VIME_API_DOWN": {
-    "RU": "Не удалось получить информацию, походу API упало.",
-    "EN": "Couldn't get the information, looks like the API is down."
+    "RU": "⚠️Не удалось получить информацию, походу API упало.",
+    "EN": "⚠️Couldn't get the information, looks like the API is down."
   },
   "ERROR_ALIAS_TAKEN_ANOTHER_SERVER": {
-    "RU": "Данный алиас занят другим сервером.",
-    "EN": "This alias is occupied by another server."
+    "RU": "🚫Данный алиас занят другим сервером.",
+    "EN": "🚫This alias is occupied by another server."
   },
   "ERROR_CONNECTION": { 
-    "RU": "Не удалось получить сервера",
-    "EN": "Failed to retrieve servers"
+    "RU": "🚫Не удалось получить сервера",
+    "EN": "🚫Failed to retrieve servers"
   }
 }
