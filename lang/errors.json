@@ -52,5 +52,13 @@
   "ERROR_CONNECTION": { 
     "RU": "🚫Не удалось получить сервера",
     "EN": "🚫Failed to retrieve servers"
+  },
+  "ERROR_MINIMUM_SYMBOLS": {
+    "RU": "⚠️Для установки алиаса необходимо, чтобы он содержал как минимум %symbols% символа.",
+    "EN": "⚠️To set an alias, it must contain at least %symbols% of a character."
+  },
+  "ERROR_MAXIMUM_SYMBOLS": {
+    "RU": "⚠️Вы не можете задать алиас длиннее, чем %symbols% символа.",
+    "EN": "⚠️You cannot specify an alias longer than %symbols% character."
   }
 }
