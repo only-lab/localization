@@ -54,23 +54,6 @@
     "EN": "<all permissions>"
   },
 
-  "TIME_SECONDS": {
-    "RU": "сек.",
-    "EN": "sec."
-  },
-  "TIME_MINUTES": {
-    "RU": "мин.",
-    "EN": "min."
-  },
-  "TIME_DAYS": {
-    "RU": "дн.",
-    "EN": "d."
-  },
-  "TIME_HOURS": {
-    "RU": "ч.",
-    "EN": "h."
-  },
-
   "TIME_DAY_1": {
     "RU": [
       "д",
