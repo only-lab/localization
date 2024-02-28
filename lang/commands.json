@@ -507,6 +507,14 @@
       "RU": "Добавить сервер",
       "EN": "Add server"
     },
+    "COMMAND_MCALIAS_INLINE_PINGSERVER": {
+      "RU": "Информация о сервере",
+      "EN": "Server information"
+    },
+    "COMMAND_MCALIAS_INLINE_MCSTATS": {
+      "RU": "Статистика сервера",
+      "EN": "Server statistics"
+    },
     "COMMAND_MCADD_ADDED_SERVER": {
       "RU": "✅Сервер успешно доблавен!",
       "EN": "✅The server has been successfully added!"
