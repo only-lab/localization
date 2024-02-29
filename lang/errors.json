@@ -55,7 +55,7 @@
   },
   "ERROR_MINIMUM_SYMBOLS": {
     "RU": "⚠️Для установки алиаса необходимо, чтобы он содержал как минимум %symbols%",
-    "EN": "⚠️To set an alias, it must contain at least %symbols% of a character"
+    "EN": "⚠️To set an alias, it must contain at least %symbols%"
   },
   "ERROR_MAXIMUM_SYMBOLS": {
     "RU": "⚠️Вы не можете задать алиас длиннее, чем %symbols%",
