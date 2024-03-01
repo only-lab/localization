@@ -60,5 +60,9 @@
   "ERROR_MAXIMUM_SYMBOLS": {
     "RU": "⚠️Вы не можете задать алиас длиннее, чем %symbols%",
     "EN": "⚠️You cannot specify an alias longer than %symbols%"
+  },
+  "ERROR_SERVER_BLOCKED": {
+    "RU": "🚫Сервер заблокирован, любые действия с ним запрещены.",
+    "EN": "🚫The server is blocked, any actions with it are forbidden."
   }
 }
