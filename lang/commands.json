@@ -235,6 +235,10 @@
       "RU": "Неизвестная привилегия",
       "EN": "Unknown privilege"
     },
+    "COMMAND_MCREMOVESERVER_USAGE": {
+      "RU": "Вы не указали айпи сервера или алиас",
+      "EN": "You did not specify the server IP or alias"
+    },
     "COMMAND_MCREMOVESERVER_SUCCESS": {
       "RU": "✅Сервер успешно удален!",
       "EN": "✅Server successfully deleted!"
@@ -346,6 +350,10 @@
     "COMMAND_MCPING_UNKNOWN_ERROR": {
       "RU": "Неизвестная ошибка.",
       "EN": "Unknown error."
+    },
+    "COMMAND_MCPING_USAGE": {
+      "RU": "Вы не указали айпи сервера или алиас",
+      "EN": "You did not specify the server IP or alias"
     },
 
     "COMMAND_USER_RESULT": {
@@ -500,6 +508,10 @@
       "RU": "⚠️В базе данных недостаточно записей, для построения графика, подождите ещё немного.",
       "EN": "⚠️There are not enough records in the database to plot the graph, wait a little longer."
     },
+    "COMMAND_MCSTATS_USAGE": {
+      "RU": "Вы не указали айпи сервера или алиас",
+      "EN": "You did not specify the server IP or alias"
+    },
 
     "COMMAND_MCALIAS_INSTALLED": {
       "RU": "✅Алиас успешно установлен",
@@ -521,6 +533,10 @@
       "RU": "Статистика сервера",
       "EN": "Server statistics"
     },
+    "COMMAND_MCALIAS_USAGE": {
+      "RU": "Вы не указали айпи сервера или алиас",
+      "EN": "You did not specify the server IP or alias"
+    },
     "COMMAND_MCADD_ADDED_SERVER": {
       "RU": "✅Сервер успешно доблавен!",
       "EN": "✅The server has been successfully added!"
@@ -528,6 +544,10 @@
     "COMMAND_MCADD_SERVER_EXISTS": {
       "RU": "⚠️Этот сервер уже добавлен!",
       "EN": "⚠️This server has already been added!"
+    },
+    "COMMAND_MCADD_USAGE": {
+      "RU": "Вы не указали айпи сервера",
+      "EN": "You did not specify the server IP"
     },
     
     "COMMAND_TCP_PORT_OPEN": {
