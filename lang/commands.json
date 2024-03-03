@@ -49,6 +49,7 @@
       "RU": "Алиасы команд",
       "EN": "Alias commands"
     },
+    "HELP_FORMAT": "— %commandName% » %command_description% %isBeta%",
 
     "COMMAND_ALIASES": {
       "RU": "📚Алиасы команд",
