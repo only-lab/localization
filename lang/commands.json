@@ -36,13 +36,19 @@
       "EN": "⚠️You entered the wrong ID!"
     },
 
-    "COMMAND_HELP_PREFIXES": {
-      "RU": "⚙Префиксы бота",
-      "EN": "⚙Bot prefixes"
-    },
-    "COMMAND_HELP": {
-      "RU": "🛠️Команды бота",
-      "EN": "🛠Bot commands"
+    "COMMAND_HELP_MESSAGE": {
+      "RU": [
+        "⚙Префиксы бота: %prefixes%",
+        "",
+        "🛠️Команды бота",
+        "%commands%"
+      ],
+      "EN": [
+        "⚙Bot prefixes: %prefixes%",
+        "",
+        "🛠️Bot commands:",
+        "%commands%"
+      ]
     },
 
     "COMMAND_HELP_INLINE_ALIASES": {
