@@ -382,7 +382,8 @@
           "Создан: %created_at%",
           "Хекс: %hex%",
           "Подозрение в накрутке: %cheating%",
-          "Дубликаты: %duplicates%"
+          "Дубликаты: %duplicates%",
+          "Заблокирован: %isBlocked%"
       ],
       "EN": [
           "Server info: %ipAddress%",
@@ -393,7 +394,8 @@
           "Created: %created_at%",
           "Hex: %hex%",
           "Suspicion of cheating: %cheating%",
-          "Duplicates: %duplicates%"
+          "Duplicates: %duplicates%",
+          "Blocked: %isBlocked%"
       ]
     },
 
