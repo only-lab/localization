@@ -51,11 +51,12 @@
       ]
     },
 
+    "HELP_FORMAT": "— %command_name% » %command_description% %isBeta%",
+    
     "COMMAND_HELP_INLINE_ALIASES": {
       "RU": "Алиасы команд",
       "EN": "Alias commands"
     },
-    "HELP_FORMAT": "— %command_name% » %command_description% %isBeta%",
 
     "COMMAND_ALIASES": {
       "RU": "📚Алиасы команд",
@@ -63,7 +64,7 @@
     },
     "COMMAND_IP": {
         "RU": [
-            "🌎Информаиця об %factory_ip%:",
+            "🌎Информация об %factory_ip%:",
             "",
             "— IP: %ip%",
             "— Обратная запись (PTR): %ptr%",
