@@ -114,8 +114,7 @@
         "",
         "Наиграно: %playedSeconds%",
         "Последний вход: %lastSeen%",
-        "",
-        "Онлайн: %online%"
+        ""
       ],
       "EN": [
         "Account information: %nick%",
